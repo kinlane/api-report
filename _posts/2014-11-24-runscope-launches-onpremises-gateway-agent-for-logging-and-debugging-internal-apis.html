@@ -1,0 +1,17 @@
+---
+layout: post
+title: 'Runscope Launches On-Premises Gateway Agent for Logging and Debugging Internal APIs'
+sourceurl: http://api.report/2014/11/24/runscope-launches-onpremises-gateway-agent-for-logging-and-debugging-internal-apis/
+image: http://api.report/images/mansilladev/logo-runscope-350x103.png
+---
+
+<p><a href="https://www.runscope.com/"><img style="padding: 10px;" src="http://api.report/images/mansilladev/logo-runscope-350x103.png" alt="" width="350" align="right" /></a></p>
+<p>This past September, Runscope <a href="/2014/09/30/runscope-launches-radar-agent-for-monitoring-and-testing-of-private-and-internal-apis-and-backend-services/">released Radar Agent</a>, an on-premises testing agent for running tests against APIs and backend services behind the firewall. Today, Runscope has released the <a href="http://blog.runscope.com/posts/runscope-gateway-agent">Runscope Gateway Agent</a>, an on-premises gateway based on the same software that powers Runscope's cloud infrastructure for making and logging API calls. The Runscope Gateway Agent can now be downloaded and installed on a host within a local network. Deploying the Runscope Gateway Agent within an infrastructure will help to:</p>
+<ul>
+<li>Capture API request and response data made to private or internal APIs that reside behind a firewall</li>
+<li>Troubleshoot and debug those API calls using the Runscope Traffic Inspector</li>
+<li>Increase network performance by keeping API traffic within an infrastructure</li>
+<li>Create Runscope URLs (on a custom domain name) for services running on localhost</li>
+<li>Access APIs that require a fixed client IP address (IP whitelisting)</li>
+</ul>
+<p>The agent works by creating a locally-hosted instance of the Runscope Gateway with a custom hostname and TLS certificate. Instead of using Runscope's cloud-based gateways (hosted on *.runscope.net), requests will use the configured hostname for the agent instead. For complete details, see the <a href="https://www.runscope.com/docs/gateway-agent">Runscope Gateway Agent documentation</a>.</p>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+
+  <title>{{ page.title }}</title>
+
+  <meta name="description" content="" />
+
+  <!--Open Graph Stuff Take 2-->
+  <meta property="og:title" content="{{ page.title }}" />
+  {% if post.url %}<meta property="og:url" content="{{ site.production_url }}{{ post.url }}" />{% else %}<meta property="og:url" content="{{ site.production_url }}{{ page.url }}" />{% endif %}
+  {% if page.image %}<meta property="og:image" content="{{ page.image }}" />{% else %}<meta property="og:image" content="{{ site.image }}" />{% endif %}
+  <!--Open Graph Stuff Take 2-->
+
+  <meta name="msapplication-TileImage" content="/images/tile/w.png" />
+  <meta name="msapplication-TileColor" content="#089bc3" />
+
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Rokkitt:400,700" />
+  <link rel="stylesheet" href="/css/fancybox.css" />
+  <link rel="stylesheet" href="/css/flexslider.css" />
+  <link rel="stylesheet" href="/css/mejs.css" />
+  <link rel="stylesheet" href="/css/tipsy.css" />
+  <link rel="stylesheet" href="/css/base.css" />
+  <link rel="stylesheet" href="/css/structure.css" />
+  <link rel="stylesheet" href="/css/parts.css" />
+  <link rel="stylesheet" href="/css/widgets.css" />
+  <link rel="stylesheet" href="/css/bright.css" />
+  <link rel="stylesheet" href="/css/color.css" />
+
+  <!--[if lte IE 9]>
+  <link rel="stylesheet" href="/css/ie9.css" />
+  <![endif]-->
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="/css/ie8.css" />
+  <script src="/js/html5.js"></script>
+  <script src="/js/respond.min.js"></script>
+  <![endif]-->
+
+  <script src="/js/main.js"></script>
+  <script src="/js/mustache.js"></script>
+  <script src="/js/jquery.min.js"></script>
+  <script src="/js/jquery.cookie.min.js"></script>
+  <script src="/js/jquery.fancybox.min.js"></script>
+  <script src="/js/jquery.flexslider.min.js"></script>
+  <script src="/js/jquery.masonry.min.js"></script>
+  <script src="/js/jquery.tipsy.min.js"></script>
+  <script src="/js/jquery.yaselect.min.js"></script>
+  <script src="/js/website.config.js"></script>
+  <script src="/js/website.min.js"></script>
+
+</head>
