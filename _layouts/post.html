@@ -2,106 +2,85 @@
 layout: default
 ---
 
-<!-- Content -->
-<section id="content" class="alpha">
+<!-- Default post with image -->
+<article class="post default">
+  <section class="main clear">
+    <p class="mytitle">{{ page.title }}</p>
+    <p><em>{{ page.date | date:"%m-%d-%Y" }}</em></p>
+    <div class="content">
 
-  <!-- Default post with image -->
-  <article class="post default">
-    <section class="main clear">
-      <p class="mytitle">{{ page.title }}</p>
-      <p><em>{{ page.date | date:"%m-%d-%Y" }}</em></p>
-      <div class="content">
+      {{ content }}
 
-        {{ content }}
-
-      </div>
-    </section>
-  <!--	<section class="about clear">
-      <img src="https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-square.jpg" alt="" class="avatar" width="55" />
-      <div class="info">
-        <h1>Kin Lane</h1>
-        <p>The API Evangelist keeping track of the technology, business, and politics of APIs</p>
-      </div>
-    </section>-->
-    <section class="about clear">
-    <ul class="sharebuttons" style="text-align:center; margin-left: 165px;">
-      <li>
-        <a href="http://twitter.com/home?status={{ page.title }} - http://api.report{{ page.url }} via @apireport" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/twitter.png" width="25" /></a>
-      </li>
-      <li>
-        <a href="http://www.facebook.com/share.php?u=http://api.report{{ page.url }}&title=http://api.report{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png" width="25" /></a>
-      </li>
-      <li>
-        <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://api.report{{ page.url }}&title={{ page.title }}&source=api.report" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/linkedin.png" width="25" /></a>
-      </li>
-      <li>
-        <a href="https://plus.google.com/share?url=http://api.report{{ page.url }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/google-plus.png" width="25" /></a>
-      </li>
-      <li>
-        <a href="http://www.tumblr.com/share?v=3&u=http://api.report{{ page.url }}&t=http://api.report{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/tumblr.png" width="25" /></a>
-      </li>
-      <li>
-        <a href="http://www.reddit.com/submit?url=http://api.report{{ page.url }}&title=http://api.report{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/reddit.png" width="25" /></a>
-      </li>
-      <li>
-        <a href="http://news.ycombinator.com/submitlink?u=http://api.report{{ page.url }}&t=http://api.report{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/hackernews.jpeg" width="25" /></a>
-      </li>
-    </ul>
-    </section>
-    <ul class="meta">
-      <!--<li class="date"><a href="#_">{{ page.date | date:"%m-%d-%Y" }}</a></li>-->
-      <!--<li class="tags"><a href="#_">tag one</a>, <a href="#_">tag two</a>, <a href="#_">tag</a></li>--->
-    </ul>
-
-    <hr />
-      <div class="row" align="center" style="padding-top: 10px; padding-bottom: 10px;">
-          <div class="pagination">
-            <ul>
-            {% if page.previous %}
-              <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">Previous</a></li>
-            {% else %}
-              <li class="prev disabled"><a>Previous</a></li>
-            {% endif %}
-
-            {% if page.next %}
-              <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next</a></li>
-            {% else %}
-              <li class="next disabled"><a>Next</a>
-            {% endif %}
-            </ul>
-          </div>
-      </div>
-
-      <hr />
-      <!-- 3scale -->
-      <p align="center">
-          <a href="http://bit.ly/13esk6Q" target="_blank" title="API Infrastructure From 3Scale">
-              <img src="https://s3.amazonaws.com/kinlane-productions/api-service-providers/3Scale/empowered-by-3scale.png" width="250" style="padding-bottom: 15px;" />
-          </a>
-      </p>
-
-  </article>
-  <!-- // Default post with image -->
-
-  <!-- Comment form -->
-  <section class="comment-form">
-
-      <div id="disqus_thread"></div>
-      <script type="text/javascript">
-          /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-          var disqus_shortname = 'theapistack'; // required: replace example with your forum shortname
-
-          /* * * DON'T EDIT BELOW THIS LINE * * */
-          (function() {
-              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-              dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-          })();
-      </script>
-      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-      <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-
+    </div>
   </section>
-  <!-- // Comment form -->
+
+  <section class="about clear">
+  <ul class="sharebuttons" style="text-align:center; margin-left: 165px;">
+    <li>
+      <a href="http://twitter.com/home?status={{ page.title }} - http://api.report{{ page.url }} via @apireport" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/twitter.png" width="25" /></a>
+    </li>
+    <li>
+      <a href="http://www.facebook.com/share.php?u=http://api.report{{ page.url }}&title=http://api.report{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png" width="25" /></a>
+    </li>
+    <li>
+      <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://api.report{{ page.url }}&title={{ page.title }}&source=api.report" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/linkedin.png" width="25" /></a>
+    </li>
+    <li>
+      <a href="https://plus.google.com/share?url=http://api.report{{ page.url }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/google-plus.png" width="25" /></a>
+    </li>
+    <li>
+      <a href="http://www.tumblr.com/share?v=3&u=http://api.report{{ page.url }}&t=http://api.report{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/tumblr.png" width="25" /></a>
+    </li>
+    <li>
+      <a href="http://www.reddit.com/submit?url=http://api.report{{ page.url }}&title=http://api.report{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/reddit.png" width="25" /></a>
+    </li>
+    <li>
+      <a href="http://news.ycombinator.com/submitlink?u=http://api.report{{ page.url }}&t=http://api.report{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/hackernews.jpeg" width="25" /></a>
+    </li>
+  </ul>
+  </section>
+
+  <ul class="meta">
+    <!--<li class="date"><a href="#_">{{ page.date | date:"%m-%d-%Y" }}</a></li>-->
+    <!--<li class="tags"><a href="#_">tag one</a>, <a href="#_">tag two</a>, <a href="#_">tag</a></li>--->
+  </ul>
+
+  <hr />
+  <div class="row" align="center" style="padding-top: 10px; padding-bottom: 10px;">
+      <div class="pagination">
+        <ul>
+        {% if page.previous %}
+          <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">Previous</a></li>
+        {% else %}
+          <li class="prev disabled"><a>Previous</a></li>
+        {% endif %}
+
+        {% if page.next %}
+          <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next</a></li>
+        {% else %}
+          <li class="next disabled"><a>Next</a>
+        {% endif %}
+        </ul>
+      </div>
+  </div>
+
+</article>
+
+<section class="comment-form">
+
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'theapistack'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
 </section>
