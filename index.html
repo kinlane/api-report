@@ -1,7 +1,6 @@
 ---
 layout: post
 ---
-<p><a href="/blog.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="25" align="right" /></a></p>
 {% for post in paginator.posts %}
 	<article class="post default">
 		<section class="main clear">
@@ -13,7 +12,6 @@ layout: post
 		</section>
 		<ul class="meta">
 			<li class="date"><a href="#_">{{ post.date | date:"%m-%d-%Y" }}</a></li>
-			<!---<li class="category"><a href="#_">Category one</a>, <a href="#_">two</a></li>-->
 		</ul>
 	</article>
 {% endfor %}
