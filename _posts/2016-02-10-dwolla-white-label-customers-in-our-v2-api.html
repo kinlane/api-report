@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'Dwolla White Label Customers In Our v2 API'
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/dwolla/dwolla-white-label-1.png
+---
+
+<p><a href="http://blog.dwolla.com//on-demand-bank-transfers-api">Developers using our white label APIs can enable their payers to authorize transfers for variable amounts from their bank account using ACH at a later point in time for products or services delivered</a>. It&rsquo;s one simple additional step&mdash;a quick authorization from the customer when they instantly verify a bank account. This is great for companies like:</p>
+<ul class="ul1">
+<li>Cloud computing services. Fees can be different every month, requiring ongoing authorization so a customer can easily pay for a service, and the company can easily bill for the service.</li>
+<li>Utilities. A water company bill is rarely the same each month. Same with electrical, and gas. The amount collected at the end of each month is usage-based, or metered.</li>
+<li>Ride sharing or asset sharing platforms. The amount a customer is charged for a ride across town depends on a variety of factors. We make it easy for sharing companies to bill their customers, while reducing the hassle for the end customer on each trip.</li>
+<li>B2B services that bill on a variable basis. Some orders may require a bank transfer on NET terms and others may be fulfilled once the goods are delivered. Either way, both should be possible.</li>
+</ul>
+<p>The instant bank verification and on-demand authorization occur with <a href="https://www.dwolla.com/dwollajs-bank-verification"><span class="s3">Dwolla.js</span></a> to make it incredibly easy to add to your software. It adds an extra step to the bank transfer process when verifying the bank to acquire the permission for the account holder.</p>
+<p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/dwolla/dwolla-white-label-1.png" alt="" width="50%" align="right" /></p>
+<p>Once you have collected all of the authorizations required for a bank transfer, including the additional authorization from the end user for on-demand transfers, your software application kicks off a transaction that looks like this whenever the customer needs to be billed:&nbsp;</p>
+<p>{</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;_links&rdquo;: {</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;source&rdquo;: {</p>
+<p class="p3"><span class="s4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;href&rdquo;: &ldquo;<a href="https://api-uat.dwolla.com/funding-sources/5cfcdc41-10f6-4a45-b11d-7ac89893d985"><span class="s3">https://api-uat.dwolla.com/funding-sources/5cfcdc41-10f6-4a45-b11d-7ac89893d985</span></a>&rdquo;</span></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;destination&rdquo;: {</p>
+<p class="p3"><span class="s4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;href&rdquo;: &ldquo;<a href="https://api-uat.dwolla.com/customers/C7F300C0-F1EF-4151-9BBE-005005AC3747"><span class="s3">https://api-uat.dwolla.com/customers/C7F300C0-F1EF-4151-9BBE-005005AC3747</span></a>&rdquo;</span></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;},</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;amount&rdquo;: {</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;currency&rdquo;: &ldquo;USD&rdquo;,</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;value&rdquo;: &ldquo;225.00&rdquo;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;},</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;metadata&rdquo;: {</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;customerId&rdquo;: &ldquo;8675309&rdquo;,</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;notes&rdquo;: &ldquo;Payment for January 2016&rdquo;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;}</p>
+<p>}</p>
+<p>As usual, there are no per transaction fees for either party in the transaction, and with our white label services your brand is front and center. If you&rsquo;re a developer and have more questions, head to our <a href="https://discuss.dwolla.com/c/api-support"><span class="s3">API Support discussion board</span></a> and post your questions. Our engineering team regularly reads and responds on the board.</p>
+<p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/dwolla/dwolla-white-label-2.png" alt="" width="45%" align="right" /></p>
+<p>The cost and complexity to make bank transfers better isn&rsquo;t unknown and it affects new fintech companies, large established business, and even big VC&rsquo;s&hellip; We all have the same problem.&nbsp;</p>
+<p class="p2">We didn&rsquo;t either and that&rsquo;s why our team has spent the last 5 years focused on bank transfers. It&rsquo;s why we feel on demand bank transfers are so incredibly valuable for our customers.</p>
+<p>There is a better way and we&rsquo;re excited to be a part of building the future making bank transfers easier for businesses and developers.</p>
+<p><strong>Source:</strong> <a href="http://blog.dwolla.com//on-demand-bank-transfers-api">Dwolla PR Email</a></p>
