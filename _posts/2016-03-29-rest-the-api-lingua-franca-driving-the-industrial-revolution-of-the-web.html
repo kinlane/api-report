@@ -1,0 +1,59 @@
+---
+layout: post
+title: 'REST: The API Lingua Franca driving the Industrial Revolution of the Web'
+image: http://api.report/images/kinlane/pd.jpg
+---
+
+<p><span id="docs-internal-guid-58c77a12-c4db-6454-5016-53973e920301">
+<p dir="ltr"><span>Systems evolve with certain observable patterns. &nbsp;If the &ldquo;web&rdquo; is looked at as a society and applications are its members, we are watching a path of progress similar to our human societal development.</span></p>
+<p dir="ltr"><span>English philosopher Herbert Spencer said: </span><span>The earlier (and more primitive) military society has the goal of conquest and defense, is </span><a href="https://en.wikipedia.org/wiki/Centralisation"><span>centralised</span></a><span>, </span><a href="https://en.wikipedia.org/wiki/Autarky"><span>economically self-sufficient</span></a><span>, </span><a href="https://en.wikipedia.org/wiki/Collective"><span>collectivistic</span></a><span>, puts the good of a group over the good of an individual, uses compulsion, force and repression, and rewards loyalty, obedience and discipline.</span><a href="https://en.wikipedia.org/wiki/Sociocultural_evolution#cite_note-psz498-499-6"><span>[6]</span></a><span> The industrial society, in contrast, has a goal of </span><a href="https://en.wikipedia.org/wiki/Manufacturing"><span>production</span></a><span> and </span><a href="https://en.wikipedia.org/wiki/Trade"><span>trade</span></a><span>, is </span><a href="https://en.wikipedia.org/wiki/Decentralisation"><span>decentralised</span></a><span>, interconnected with other societies via economic relations, works through voluntary cooperation and individual self-restraint, treats the good of individual as of the highest value, regulates the social life via voluntary relations; and values initiative, independence and innovation</span></p>
+<p dir="ltr"><span>Its interesting to read Herbert&rsquo;s words while considering the previous practices of closed-system, monolithic &ldquo;all or nothing&rdquo; applications that managed business functions from end-to-end, hosted on a dedicated infrastructure. &nbsp;Versus today&rsquo;s world of API driven inter-operation, microservice de-centralization with infrastructure abstracted to be inconsequential to the application layer.</span></p>
+<p dir="ltr"><span>Such revolutions are fueled by a society's collective agreement on a Lingua Franca for communications, and standard protocols for trade and logistics. &nbsp;For the Web, application communication via REST is driving its Industrial Revolution.</span></p>
+<p dir="ltr"><span>API experts and pundits will describe application programming interfaces (APIs) as the technology that allows independent software to </span><span>talk</span><span> to one another. But what exactly does it mean for software and systems to communicate? If such conversations are taking place, what's the nature of these conversations and under what governance? How do systems with different native tongues find common ground to converse? Thankfully RESTful API architecture and it's most common implementation (the HTTP protocol) have conspired to provide the framework that is creating a profusion of collaborating systems.</span></p>
+<p dir="ltr"><span>A look at history, observations of current events, listening to conversations, and reflection of our own experiences will certainly highlight how communication is the centerpiece of everything. &nbsp;The spectrum of community collaboration ranges from &ldquo;Isolated&rdquo; to &ldquo;Integrated&rdquo;, depending on the lack of, or effectiveness of, communication. &nbsp;Communication, in all its modes, is the product of language, grammar, and many other conversational elements.</span></p>
+<p dir="ltr"><span>Artificial Intelligence engineers and certain enthusiasts are pursuing replicating, in computer systems, the art of human communication. &nbsp;Until this is achieved and made a commodity, the internet has shown us, and the propagation of REST APIs has decided for us, that the best approach to create universal computer communications that will power fast and easy collaborations between systems, is to dispense with complex linguistic notions and instead use a simple grammar and language to convey messages constrained to only say;&ldquo;This is the state of the resource now&rdquo; or &ldquo;This is what I want the state of the resource to be&rdquo;.</span></p>
+<p dir="ltr"><span>REST gives us a manageable software-to-software tool set to confidently create and interpret messaging between independent software applications in a predictable and ubiquitous way. &nbsp;</span></p>
+<p dir="ltr"><span>REST provides the &ldquo;Grammar&rdquo; rules, which in summary are:</span></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><span>There will be a resource with an addressable URI; in other words a standard method for other software applications to find the resource. An example would be: &nbsp;</span></p>
+</li>
+</ol>
+<p dir="ltr"><span>GET [base URL]/people/williamshakespeare</span></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><span>There will be the transfer of a representation of the resource. For example, if the source software application intends to have a name and address set in a target software application, transferring the end-state of that resource (name and address) via a REST-compliant command (ie: HTTP&rsquo;s POST, PUT, and PATCH verbs) is the expected communication. &nbsp;The target software application will set the resource to the presented state using processes of its own discretion. &nbsp;An example that posts new data to the target system might &nbsp;be:</span></p>
+</li>
+</ol>
+<p dir="ltr"><span><span> </span></span><span>POST [base URL]/people/williamshakespeare</span></p>
+<p style="padding-left: 30px;" dir="ltr"><span>{</span><span><br class="kix-line-break" /></span><span> &nbsp;"name": "William Shakespeare",</span><span><br class="kix-line-break" /></span><span> &nbsp;"email": "bill@stratford-upon-avon.co.uk",</span><span><br class="kix-line-break" /></span><span> &nbsp;"address": "Henley Street, Stratford-upon-Avon, Warwickshire, England"</span><span><br class="kix-line-break" /></span><span>}</span></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><span>The request to have a resource state change is done with an expression that&rsquo;s compliant with the protocol agreed upon in the communication channel.</span><span> </span><span>For example, if HTTP is the agreed upon protocol for communication between the source and target software applications, the source and target will rely HTTP&rsquo;s verbs to invoke a request for state change. </span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>REST does not attempt any situational context, it is stateless. &nbsp;By its explicit omission of it, it makes the inarguable assertion that situational context will not be considered in the message exchange. &nbsp;If situational context is relevant to either the sender or receiver, it is up to each to manage. &nbsp;This is key, in that REST makes it understood by all participants to only expect the conveyance of the current or desired state of a resource, thus the messages are idempotent. For example, suppose Bill moved:</span></p>
+</li>
+</ol>
+<p dir="ltr"><span><span> </span></span><span>POST [base URL]/people/williamshakespeare</span></p>
+<p style="padding-left: 30px;" dir="ltr"><span>{</span><span><br class="kix-line-break" /></span><span> &nbsp;"name": "William Shakespeare",</span><span><br class="kix-line-break" /></span><span> &nbsp;"email": "bill@stratford-upon-avon.co.uk",</span><span><br class="kix-line-break" /></span><span> &nbsp;"address": "Payton Street, Stratford-upon-Avon, Warwickshire, England"</span><span><br class="kix-line-break" /></span><span>}</span></p>
+<p dir="ltr"><span>If the new location was not agreeable to Bill, and he decided to move back, it would be a break of the Lingua Franca to do this:</span></p>
+<p dir="ltr"><span>POST [base URL]/people/williamshakespeare</span></p>
+<p style="padding-left: 30px;" dir="ltr"><span>{</span><span><br class="kix-line-break" /></span><span> &nbsp;"name": "William Shakespeare",</span><span><br class="kix-line-break" /></span><span> &nbsp;"email": "bill@stratford-upon-avon.co.uk",</span><span><br class="kix-line-break" /></span><span> &nbsp;"address": "previous"</span></p>
+<p style="padding-left: 30px;" dir="ltr"><span>}</span></p>
+<p dir="ltr"><span>There is no consideration of Bill&rsquo;s &ldquo;state&rdquo; &nbsp;of being in a new location and moving back to a previous address, there is only the stateless communication of what his address. &nbsp;Each software application, the source and the target, is free to monitor and track Bill&rsquo;s state as he moves from one place to another, but the communication channel between them remains stateless. &nbsp;The return back to Bill&rsquo;s previous address would be communicated in this way:</span></p>
+<p dir="ltr"><span>POST [base URL]/people/williamshakespeare</span></p>
+<p style="padding-left: 30px;" dir="ltr"><span>{</span><span><br class="kix-line-break" /></span><span> &nbsp;"name": "William Shakespeare",</span><span><br class="kix-line-break" /></span><span> &nbsp;"email": "bill@stratford-upon-avon.co.uk",</span><span><br class="kix-line-break" /></span><span> &nbsp;"address": "Henley Street, Stratford-upon-Avon, Warwickshire, England"</span><span><br class="kix-line-break" /></span><span>}</span><span> &nbsp;</span></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><span>REST does not demand a specific language. &nbsp;While REST is almost always practiced in the construct HTTP, HTTP is not required to meet the tenets of REST. For example, COAP is a protocol that&rsquo;s associated with the Internet of Things that is considered to conform to the RESTful architectural style. Like HTTP, it comes with a standard set of commands (also known as verbs) baked-in. </span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>REST will not instruct the receiver of a &ldquo;change of state&rdquo; request on how to affect the change. &nbsp;REST only concerns itself with communicating of the expected state of the resource.</span></p>
+</li>
+</ol>
+<p dir="ltr"><span>Facilitating universal human interaction to exchange information with the &ldquo;Web&rdquo; and all the systems connected to it, &nbsp;was accomplished by the agreement that all browsers would comply with REST governance and HTTP protocol. &nbsp;It was prudent to adopt this same approach for the exchange of services and functions between software applications, with the language allowed to vary as appropriate (HTTP, FTP, COAP, etc.)</span></p>
+<p dir="ltr"><span>The adoption of REST and HTTP for browsers and the resulting expansion of the &ldquo;Web&rdquo; proves the prolific power of standardized conversation models. &nbsp;Extending this same model to software applications is speeding us to a new era in which entire communities of systems will be connected. &nbsp;It will give us new internet-connected spaces of individual functions (micro services) that will develop into new Internet_of areas: &nbsp;the Internet of Things, the Internet of Applications, the Internet of (fill in the blank).&nbsp;</span></p>
+<p dir="ltr"><span>History confirms that a standard communication protocol is key in how we work together to extend our reach , build towers to new heights, and move into new phases of societal evolution.&nbsp;</span></p>
+<p dir="ltr"><span>Welcome to the web&rsquo;s Industrial Revolution.</span></p>
+</span></p>
