@@ -1,11 +1,14 @@
 
-<html><head><title>Slim Application Error</title><style>body{margin:0;padding:30px;font:12px/1.5 Helvetica,Arial,Verdana,sans-serif;}h1{margin:0;font-size:48px;font-weight:normal;line-height:48px;}strong{display:inline-block;width:65px;}</style></head><body><h1>Slim Application Error</h1><p>The application could not run because of the following error:</p><h2>Details</h2><div><strong>Code:</strong> 8</div><div><strong>Message:</strong> Undefined index: Weekly_Summary</div><div><strong>File:</strong> /var/www/html/kin_lane/curated/api/methods/m-curated-byweek-published-outline-get.php</div><div><strong>Line:</strong> 107</div><h2>Trace</h2><pre>#0 /var/www/html/kin_lane/curated/api/methods/m-curated-byweek-published-outline-get.php(107): Slim\Slim::handleErrors(8, 'Undefined index...', '/var/www/html/k...', 107, Array)
-#1 [internal function]: {closure}()
-#2 /var/www/html/kin_lane/master/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
-#3 /var/www/html/kin_lane/master/Slim/Slim.php(1218): Slim\Router->dispatch(Object(Slim\Route))
-#4 /var/www/html/kin_lane/master/Slim/Middleware/Flash.php(86): Slim\Slim->call()
-#5 /var/www/html/kin_lane/master/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
-#6 /var/www/html/kin_lane/master/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
-#7 /var/www/html/kin_lane/master/Slim/Slim.php(1167): Slim\Middleware\PrettyExceptions->call()
-#8 /var/www/html/kin_lane/curated/api/index.php(84): Slim\Slim->run()
-#9 {main}</pre></body></html>
+{
+	"$Curated_Tag": [{
+		"curated_id": "uUPEHtHkGGhuShzTmh7I116qukWxWNRUXj4irPSTtXTuY117",
+		"title": "REST API Helper u2014 WordPress Plugins",
+		"link": "1",
+		"item_date": "2016-08-18 00:00:00",
+		"status": "Published",
+		"author": null,
+		"domain": "wordpress.org",
+		"screenshot_url": null,
+		"tags": ["WordPress"]
+	}]
+}
