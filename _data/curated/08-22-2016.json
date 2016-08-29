@@ -1,0 +1,4259 @@
+
+{
+	"101": [{
+		"curated_id": "1237e6DB116LAi2Cor1167adav0A2huU03w0vdXiDjqTx5GOE117",
+		"title": "What is an API? In English, please.",
+		"link": "http://stephenslighthouse.com/2016/08/28/what-is-an-api-in-english-please/",
+		"item_date": "2016-08-28 00:00:00",
+		"domain": "stephenslighthouse.com",
+		"screenshot_url": null
+	}],
+	"Accounting": [{
+		"curated_id": "GOTpTNZmGaQwjFYLUS4VXEsFppWKddE116pSEWmXDRcx4117",
+		"title": "Small Business Tech Hackathon",
+		"link": "https://developer.intuit.com/hub/blog/2016/08/23/small-business-tech-hackathon",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "developer.intuit.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "TIn1lwKuojxrH5jr1fBFZSIoQmcFWVz12358cP7yFQya8117",
+		"title": "A makeover for developer documentation",
+		"link": "https://developer.intuit.com/hub/blog/2016/08/08/makeover-developer-documentation",
+		"item_date": "2016-08-22 02:36:00",
+		"domain": "developer.intuit.com",
+		"screenshot_url": null
+	}],
+	"Acquisitions": [{
+		"curated_id": "zQ4voEwiNz0J123NxNVWy11684GQq12KG123JcjOtBCJZQ9H4117",
+		"title": "Apple acquires health data startup Gliimpse",
+		"link": "http://pharmaphorum.com/news/apple-acquires-health-data-startup-gliimpse/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "pharmaphorum.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "9jMSPaToIK6P7paBwLVZN2Rmbs116WVRKsDbeLxWQ9ilM117",
+		"title": "Pinterest acquires Instapaper",
+		"link": "http://www.zdnet.com/article/pinterest-acquires-instapaper/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.zdnet.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "mn4ECkKqceO123ey2oAUom123dPUCmHjAvBW4X3K123Wz6JE0117",
+		"title": "Profoundis Joins FullContact",
+		"link": "https://www.fullcontact.com/blog/profoundis-joins-fullcontact/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.fullcontact.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "sqYzp5viAvYhBofL08eW1m123ZitI2bHvZiYKBY7Sed3A117",
+		"title": "Chinese investors buy ad tech startup Media.net for $900 million",
+		"link": "http://www.reuters.com/article/us-media-net-m-a-beijing-miteno-idUSKCN10X155",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "96wI123d3XCNbT1eNlLds0uw52qm1jTjNzP13MYMayU3g117",
+		"title": "Media.net acquisition fits into Chinese ad tech arbitrage play",
+		"link": "http://www.techinsider.io/medianet-acquisition-chinese-ad-tech-arbitrage-play-2016-8",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.techinsider.io",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "v9LX61YcWt1T9V5GBbxaJzAkwy32ngLuxb3g09R8vc4117",
+		"title": "Microsoft acquires intelligent scheduling startup Genee",
+		"link": "http://www.pcworld.com/article/3110527/software/microsoft-acquires-intelligent-scheduling-startup-genee.html#tk.rss_all",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	}],
+	"Advertising": [{
+		"curated_id": "mc9tddMisCfoJbq1nNIVIuSN4aJ8N38IW814dm1X116bI117",
+		"title": "Snapchat plans to use your behavioural data to target you with ads",
+		"link": "http://www.computermagazine.com/syndicated/snapchat-plans-to-use-your-behavioural-data-to-target-you-with-ads/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.computermagazine.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "wUc9uHsCUPwvmXnPl4GSLN3dPDVguVjKXyM2iI7xIiQ117",
+		"title": "Demographic targeting in Search campaigns coming to AdWords API",
+		"link": "http://googleadsdeveloper.blogspot.com/2016/08/demographic-targeting-in-search.html",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "googleadsdeveloper.blogspot.com",
+		"screenshot_url": null
+	}],
+	"Aggregation": [{
+		"curated_id": "NpdKUr7ycKa123BBYozm116aJ3RZUytrE4gkLMBJ123v3wQRQ117",
+		"title": "Kloudless Introduces Universal CRM Integration with New API",
+		"link": "http://www.programmableweb.com/news/kloudless-introduces-universal-crm-integration-new-api/brief/2016/08/24",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.programmableweb.com",
+		"screenshot_url": null
+	}],
+	"Agorithms": [{
+		"curated_id": "kwDoIGHTypnyOLbnqoHzW0PfBSf94WJbQ8hGFL8IoFQ117",
+		"title": "Itu2019s Our Fault That AI Thinks White Names Are More Pleasant Than Black Namesrn",
+		"link": "http://motherboard.vice.com/read/its-our-fault-that-ai-thinks-white-names-are-more-pleasant-than-black-names",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	}],
+	"Agriculture": [{
+		"curated_id": "qVaxhI4mR76W1lPxWYI3qVVd8eBL8XVw2jZHRpQ5ikc117",
+		"title": "AGCO announces collaborations with industry leaders to offer more high-tech solutions",
+		"link": "http://news.agropages.com/News/NewsDetail---19090.htm",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "news.agropages.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "tz116mBnrt2xhLOT86wDoD0ggVNoq581N4sbhb6ibMx0A117",
+		"title": "Raptor Maps u2014 Drone-based farming analytics",
+		"link": "http://www.raptormaps.com/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.raptormaps.com",
+		"screenshot_url": null
+	}],
+	"Airplanes": [{
+		"curated_id": "116sJ116fqrexleEbDV3K92Sk45oHRxH0hdE6NeEcjofGdU117",
+		"title": "NASA Pulls Together National Data to Sleuth Out Air Traffic Improvement Mysteries",
+		"link": "https://www.digitalgov.gov/2016/08/26/nasa-pulls-together-national-data-to-sleuth-out-air-traffic-improvement-mysteries/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.digitalgov.gov",
+		"screenshot_url": null
+	}],
+	"algorithm": [{
+		"curated_id": "0MRr1SDiPkT7jiTMnmaMrQ86i7F1234rhQjIUHpOYLL5I117",
+		"title": "Build a product, build a service",
+		"link": "http://blogs.mathworks.com/developer/2016/07/13/build-a-product-build-a-service/",
+		"item_date": "2016-08-26 10:01:38",
+		"domain": "blogs.mathworks.com",
+		"screenshot_url": null
+	}],
+	"Algorithms": [{
+		"curated_id": "N33vjf116A6iHVRVVaoOEVz4lL70D123GS116ZrbfnCnXm3i8117",
+		"title": "Facebook Trending Topics Loses Human Editors",
+		"link": "http://www.pcmag.com/news/347385/facebook-trending-topics-loses-human-editors",
+		"item_date": "2016-08-27 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "0MRr1SDiPkT7jiTMnmaMrQ86i7F1234rhQjIUHpOYLL5I117",
+		"title": "Build a product, build a service",
+		"link": "http://blogs.mathworks.com/developer/2016/07/13/build-a-product-build-a-service/",
+		"item_date": "2016-08-26 10:01:38",
+		"domain": "blogs.mathworks.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "XFQ3Ua2euZXVPJA1rmhdk9QtZEpoKGQJB6hLnSiHggs117",
+		"title": "Facebook changes Trending feature to rely less on human editors",
+		"link": "http://www.reuters.com/article/facebook-trending-idUSL1N1B71XE",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "hL9HyzJ7VVwFlQohcX4njbfUcdME3LEFPGb68CmqrjM117",
+		"title": "Codified Cultural Bias",
+		"link": "http://voxpop.co/go.cfm",
+		"item_date": "2016-08-22 13:43:48",
+		"domain": "voxpop.co",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "5KmqSI7XkRum1pk1HtzysK853Rx18O2vWs23JTmvV7s117",
+		"title": "Chicago Police Push Back on Criticism of Crime-Prediction System",
+		"link": "http://www.pcmag.com/news/347208/chicago-police-push-back-on-criticism-of-crime-prediction-sy",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	}],
+	"Alternate": [{
+		"curated_id": "d9MD98LlJ9a0heh12Q3uOkG7I5TXOREjPCocBpbTqTA117",
+		"title": "St. Jude Denies Report Its Heart Devices Are Vulnerable to Cyberattacks",
+		"link": "http://www.wsj.com/articles/st-jude-denies-report-its-heart-devices-are-vulnerable-to-cyber-attacks-1472245424",
+		"item_date": "2016-08-26 15:54:28",
+		"domain": "www.wsj.com",
+		"screenshot_url": null
+	}],
+	"Analytics": [{
+		"curated_id": "XYtWD0iUSqn116TzyJmiimwvphLeTBrrxy35TRB9mzhS4117",
+		"title": "What we learned dogfooding our Native Analytics product",
+		"link": "http://keenio.tumblr.com/post/149514329541/what-we-learned-dogfooding-our-native-analytics#_=_",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "keenio.tumblr.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "116TEGQOzmBjRAgKD9snDieLP6b5fqACXZceHW2WRhdcI117",
+		"title": "Pirate Metrics (AARRR) with Firebase",
+		"link": "https://firebase.googleblog.com/2016/08/pirate-metrics-aarrr-with-firebase.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "firebase.googleblog.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "sLQUeUeEWn6vUTr3s9afP4yGbQTqTd5k467kJYzlmA0117",
+		"title": "Announcing Real-time Exporting of your Analytics Data into BigQuery",
+		"link": "https://firebase.googleblog.com/2016/08/real-time-exporting-of-analytics-data-into-bigquery.html",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "firebase.googleblog.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "qOKihWnRSiV7akafpCaoYwjYW7AOcNUMsVIpktG6vTg117",
+		"title": "Converse.AI & Clearbit u2014 easy, real time analytics through chatbots",
+		"link": "https://medium.com/m/global-identity",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "medium.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "tz116mBnrt2xhLOT86wDoD0ggVNoq581N4sbhb6ibMx0A117",
+		"title": "Raptor Maps u2014 Drone-based farming analytics",
+		"link": "http://www.raptormaps.com/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.raptormaps.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "XKdKFcgT4u1167Z1YaJ7FQWUcLZcmMZOmgMV11232IFkH84117",
+		"title": "How to Apply Big Data and Analytics to the Oil and Gas Industry",
+		"link": "http://www.remotemagazine.com/main/news/how-to-apply-big-data-and-analytics-to-the-oil-and-gas-industry/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.remotemagazine.com",
+		"screenshot_url": null
+	}],
+	"API Events": [{
+		"curated_id": "YOsW33V5c4eUUlVkKq9Sed2S6LqUHmDSi88QNG72afk117",
+		"title": "Events with the Alexa Team",
+		"link": "https://developer.amazon.com/appsandservices/community/post/Tx3W3EY4VG61HBR/Events-with-the-Alexa-Team",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "developer.amazon.com",
+		"screenshot_url": null
+	}],
+	"Audio": [{
+		"curated_id": "OxmVcQ3tNmTAhRoA9GQdSsWdMN116DSj0B3sc0C4MTSq4117",
+		"title": "A search engine for election podcasts",
+		"link": "http://popuparchive.tumblr.com/post/149383436484/a-search-engine-for-election-podcasts#_=_",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "popuparchive.tumblr.com",
+		"screenshot_url": null
+	}],
+	"Authentication": [{
+		"curated_id": "NXzSmG9lc2pqkNHJ41LoK123m86Nvd172qku1jgJ8PTnM117",
+		"title": "Login with Facebook ( In 20 lines of PHP code ) ",
+		"link": "http://motyar.blogspot.com/2016/08/login-with-facebook-in-20-lines-of-php.html",
+		"item_date": "2016-08-28 00:00:00",
+		"domain": "motyar.blogspot.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Hy80DdI6W6LVSRegLM0r8mDvDezttbU7IUwNUDDB0Yc117",
+		"title": "Announcing Auth0 Guardian, Multifactor Made Easy",
+		"link": "https://auth0.com/blog/announcing-Auth0-Guardian-a-new-way-to-login/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "auth0.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "VjqIWPZ78lPXt6YKANnV2wWRJDADND5VIiyk2dTzUB4117",
+		"title": "Hereu2019s Exactly Why SMS Two-Factor Is Not Enough",
+		"link": "https://continuum.cisco.com/2016/08/25/heres-exactly-why-sms-two-factor-is-not-enough/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "continuum.cisco.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "di6VmeR123wYQRPpDgkamd3x2fi8nWyxf116ZMauJ0Dw4ZA117",
+		"title": "PlayStation Network Gets Two-Factor Authentication",
+		"link": "http://www.pcmag.com/news/347329/playstation-network-gets-two-factor-authentication",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Q6gamdftRNzH9wrQxVWKhDFwiwkS5mLioKydr0K4DQA117",
+		"title": "Authentication startup Auth0 raises $15M as it beefs up security features",
+		"link": "https://techcrunch.com/2016/08/24/auth0-series-b/",
+		"item_date": "2016-08-24 08:40:03",
+		"domain": "techcrunch.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "awJiHzTgWLdPUO2qp2Ttw3apCmJRoTsqw09t34vgJlc117",
+		"title": "Announcing Password Breach Detection for Auth0",
+		"link": "https://auth0.com/blog/announcing-password-breach-detection/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "auth0.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "peeCUGKnW4PM5P0sIaedFYhrCc5zV86s09xFyEa116lUQ117",
+		"title": "2-Step Verification is here!",
+		"link": "http://www.freeagent.com/central/two-step-verification-is-here/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.freeagent.com",
+		"screenshot_url": null
+	}],
+	"Autmoation": [{
+		"curated_id": "pMfInYSRpavlfaDO9Jdcyrrgm00wc1163he4G116JCoF6A0117",
+		"title": "Automation requires humanity",
+		"link": "http://www.itsecurityguru.org/2016/08/25/automation-requires-humanity/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	}],
+	"Automation": [{
+		"curated_id": "pMfInYSRpavlfaDO9Jdcyrrgm00wc1163he4G116JCoF6A0117",
+		"title": "Automation requires humanity",
+		"link": "http://www.itsecurityguru.org/2016/08/25/automation-requires-humanity/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	}],
+	"Automobiles": [{
+		"curated_id": "ELbit123gZTUQfUNEp7AitqdP7sH10R116k9EwaU83HG6dE117",
+		"title": "Delphi and Mobileye to Produce System for Self-Driving Cars",
+		"link": "http://www.nytimes.com/2016/08/24/business/delphi-and-mobileye-to-produce-system-for-self-driving-cars.html",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.nytimes.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "0HcbV123wND1235P4znuGjJcxHY7GdUAqtti44vGLCuFa14117",
+		"title": "Mobileye, Delphi to develop self-driving system",
+		"link": "http://www.reuters.com/article/us-delphi-mobileye-idUSKCN10Y1CE",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	}],
+	"BaaS": [{
+		"curated_id": "DlkV0GuKmvRtDPEcQgjKi123uZP6PhjjPvETYl1239PWmX0117",
+		"title": "5 Best MBaaS Alternatives to Parse",
+		"link": "http://insights.carnival.io/5-best-mbaas-alternatives-to-parse-2/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "insights.carnival.io",
+		"screenshot_url": null
+	}],
+	"Banking": [{
+		"curated_id": "xXTL8dx6HZsfszYpAgpZ9KXr0pIrTNAR123wwNh5wmIcQ117",
+		"title": "Embracing Disruption u2013 The Case For Open Banking APIu2019s",
+		"link": "http://bestthenews.com/article/embracing-disruption-case-open-banking-apis-sun-08282016-0209.html",
+		"item_date": "2016-08-27 00:00:00",
+		"domain": "bestthenews.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "yD8KjdypEc9F6Nt09JzHA116ln123P099p1232T0cca2zh116tk117",
+		"title": "A quarter of banksu2019 data breaches are down to lost phones and laptops",
+		"link": "http://www.itsecurityguru.org/2016/08/26/a-quarter-of-banks-data-breaches-are-down-to-lost-phones-and-laptops/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "dlX8wJZBip87qSSt1SRp5iLI2RZgBiffukNePJHsM9U117",
+		"title": "U.S. banking regulators focused on cyber security after SWIFT attacks",
+		"link": "http://www.reuters.com/article/us-cyber-heist-regulators-idUSKCN10Z2O8",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "8k123fxl9A2vRqICYS0PlNg50B64rahbT46Ar9W6zW8bI117",
+		"title": "BBVA consolidates digital teams at new US site",
+		"link": "http://www.fstech.co.uk/fst/BBVA_Open_San_Francisco_Office.php",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.fstech.co.uk",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "sUTIwnGm7Op0pEvh6r1231E4atdVuGwefOHHSZu1Xv96k117",
+		"title": "CMA + PSD2 = API: A Solution for Open Banking",
+		"link": "https://financialit.net/blog/cma-psd2-api-solution-open-banking",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "financialit.net",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "oKFwaRgrh7UDFDTvgYjCWyOnROz2u0HxEbfH8CJUvtQ117",
+		"title": "New Banking Trojan Uses PowerShell to Alter Internet Explorer Proxy Settings",
+		"link": "http://www.itsecurityguru.org/2016/08/23/new-banking-trojan-uses-powershell-to-alter-internet-explorer-proxy-settings/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	}],
+	"BigData": [{
+		"curated_id": "cwJExye123M2kt123qjTXvkm3WUF4cLKlJuegYayIqnzrPQ117",
+		"title": "5 Signs You Are a Big Data Hoarder",
+		"link": "http://data-informed.com/5-signs-you-are-a-big-data-hoarder/",
+		"item_date": "2016-08-23 11:36:01",
+		"domain": "data-informed.com",
+		"screenshot_url": null
+	}],
+	"Blockchain": [{
+		"curated_id": "DJo123shXzybKi4JbZvklmA116vGTMBtw2PbT53UKEuX6y0117",
+		"title": "u2018Bankcoinu2019 Is Not Currency, It Is a Digital Vehicle to Move Money",
+		"link": "http://bankinnovation.net/2016/08/bankcoin-is-not-currency-it-is-a-digital-vehicle-to-move-money/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "bankinnovation.net",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "08aIPaJ7f116163099AVDJWBcdxxj0AVdESMN1Zr8ktwg117",
+		"title": "Might Blockchain Finally Herald Online Voting?",
+		"link": "https://dzone.com/articles/might-blockchain-finally-herald-online-voting",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "n8zFqT1231kbCcQjeLcSevpcXeeh116ZTjSJvn0HKzLXcjQ117",
+		"title": "Australia investigates blockchain as a platform",
+		"link": "http://www.businessinsider.com/australia-investigates-blockchain-as-a-platform-2016-8",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.businessinsider.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "W6PfoseRqmubGXZ2M6UDzdhA0YpjBGjopsoIZ1v5vlE117",
+		"title": "National ONC Blockchain Challenge explores micro-identities to improve healthcare interoperability",
+		"link": "http://www.cio.com/article/3107004/health/national-onc-blockchain-challenge-explores-micro-identities-to-improve-healthcare-interoperability.html",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.cio.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "G7WM2sa2XjjJUQkJwREiEFz2BjgxFaLx116oJ1YhcsP8A117",
+		"title": "Are We at a Tipping Point for Blockchain?",
+		"link": "http://bankinnovation.net/2016/08/are-we-at-a-tipping-point-for-blockchain/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "bankinnovation.net",
+		"screenshot_url": null
+	}],
+	"Bots": [{
+		"curated_id": "0v1fZxl3CUF13Inaqj7AA123eQuz8RXVtlvdC4oVEHn1Q117",
+		"title": "Finding an apartment in San Francisco is so hard, a programmer built a software bot to help him",
+		"link": "http://feedproxy.google.com/~r/typepad/alleyinsider/silicon_alley_insider/~3/jsiYYh0dO-E/programmer-builds-bot-to-find-san-francisco-apartment-2016-8",
+		"item_date": "2016-08-28 00:00:00",
+		"domain": "feedproxy.google.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "e45PHV1p1pk2lvKHJWBl08P6cSu9bLlxUfZKrvDSR116U117",
+		"title": "SuitApp u2014 An AI assistant that helps you decide which clothes to wear",
+		"link": "http://suitapp.my/",
+		"item_date": "2016-08-27 00:00:00",
+		"domain": "suitapp.my",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Te9yz8G7CWRhocoqi3QWJJqK1NRBWYO9iQ87XJLmxGo117",
+		"title": "DOit bot u2014 An easy way to set reminders",
+		"link": "https://www.producthunt.com/r/5b5f0c1927df8a/74003?app_id=339",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.producthunt.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "HyCzWftNDpwvVCgbZ4SPdGtZEuUJ74iFnpHdPWrSrmo117",
+		"title": "SelenaBot u2014 An AI-powered chatbot of Selena Gomez",
+		"link": "https://www.producthunt.com/r/2895c8528f1a87/74008?app_id=339",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.producthunt.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "OUcuUkBAnVQDPnwCr2LIoXI3PpPTcIeWPEzHPrrd4cY117",
+		"title": "Introducing the Bots Landscape: 170+ companies, $4 billion in funding, thousands of bots",
+		"link": "http://venturebeat.com/2016/08/11/introducing-the-bots-landscape-170-companies-4-billion-in-funding-thousands-of-bots/",
+		"item_date": "2016-08-25 08:48:15",
+		"domain": "venturebeat.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "mbrbXzctgUpWakXdjsZYNlzXBVY0aqCJx5uKzKXBVKM117",
+		"title": "BotFunded by botlist u2014 Track which chatbots are getting the most funding",
+		"link": "https://botfunded.com/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "botfunded.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "S123H40FK1jZ67h4zM116wJXC9116EvIq3gsTEvH123Pqc116OolQ117",
+		"title": "Create a Chatbot for Telegram in Python to Summarize Text",
+		"link": "http://blog.algorithmia.com/create-a-chatbot-telegram-python-summarize-text/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "blog.algorithmia.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Lhic2123UPrV116mhTQCTFAVzo5116Ms32GEhEmpHDe2GzcmY117",
+		"title": "PageInsights Bot u2014 Track posts & key metrics of your favourite Facebook pages",
+		"link": "https://www.messenger.com/t/546239338912463",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.messenger.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "AVGeEPVxDqLlkCym2qiYG123YQhDojGojbOJHNn8HAnzY117",
+		"title": "StyleBox u2014 A bot that turns your photos into paintings",
+		"link": "http://www.m.me/unsupportedbrowser",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.m.me",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "qOKihWnRSiV7akafpCaoYwjYW7AOcNUMsVIpktG6vTg117",
+		"title": "Converse.AI & Clearbit u2014 easy, real time analytics through chatbots",
+		"link": "https://medium.com/m/global-identity",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "medium.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Y116c82bvLVYw5116RR3kbpB1pmWWAbOQ14WuTFJXuXvXig117",
+		"title": "Donut Slack bot u2014 Get matched with a new coffee buddy each week in Slack",
+		"link": "http://www.donut.ai/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.donut.ai",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "NCRpOFkn2MHMPzyArA7iKWZGg0rM3YaVkje123bGW8sho117",
+		"title": "Get your Slack Events API bot off the couch",
+		"link": "https://medium.com/m/global-identity",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "medium.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "7Q2QCiCKWPL9aTJkiNP2N0dhzRaMwjup123CWW123iSGmKQ117",
+		"title": "Lighthouse u2014 Real-time monitoring and alerts for Slack administrators",
+		"link": "https://www.lighthousebot.com",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.lighthousebot.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "zDGZtEV1kIdMd9PRJ123D7EwYXq5EU3rVf64Bf4116123pTfY117",
+		"title": "Running an IRC Bot in Ruby on OpenShift V3",
+		"link": "https://blog.openshift.com/running-irc-bot-ruby-openshift-v3/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "blog.openshift.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "IXm2M3ErL6FxiJrlV123iviJEOoe96WmzeZEDwXFa92gE117",
+		"title": "Slakster u2014 Easily get all Slack group email addresses",
+		"link": "https://slakster.com",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "slakster.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "JIn123sRAU4tvuXlSGnCdAG4Gj4qDVf6y3sGeoc7pX0r8117",
+		"title": "Trailbot u2014 Monitor your files and react upon unwanted modification",
+		"link": "https://trailbot.io/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "trailbot.io",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "ULnI1160bjfnv5MxgUUGDWApr59FEbsgi6mxqb6536MOs117",
+		"title": "Building Bots Using Webhooks",
+		"link": "http://blog.gupshup.io/index.php/2016/08/22/building-bots-using-webhooks/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blog.gupshup.io",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "DzXlvbHhk3OKn116rtU1GqMDL2vFRNhEN20GiIJjQce9E117",
+		"title": "Slack Birthday Bot u2014 Slack bot for celebrating birthdays",
+		"link": "https://github.com/jeKnowledge/slack-birthday-bot",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "github.com",
+		"screenshot_url": null
+	}],
+	"Browsers": [{
+		"curated_id": "53v7vpc1RYmp9FH0hqH1XsQhEZIDbkvoAqcSdO0Qlnc117",
+		"title": "Track Email Opens and Look Up Contacts With the Chrome Extension",
+		"link": "http://www.activecampaign.com/blog/chrome-extension-update/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.activecampaign.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "lZN123uqi3Sqhnz123wqKRhqdqHaQjWBMUZQBuMslvJzCOg117",
+		"title": "Using the Postman Chrome App? Implications from the Recent Google Announcement",
+		"link": "http://blog.getpostman.com/2016/08/23/using-the-postman-chrome-app-implications-from-the-recent-google-announcement/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blog.getpostman.com",
+		"screenshot_url": null
+	}],
+	"Bug Bounty": [{
+		"curated_id": "8PW92neGQ6PfKeSPhRlO9rjAK9FcjOXqZjYdh116a1UzA117",
+		"title": "Bounty hunters are legally hacking Apple and the Pentagon u2013 for big money",
+		"link": "http://www.itsecurityguru.org/2016/08/23/bounty-hunters-are-legally-hacking-apple-and-the-pentagon-for-big-money/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	}],
+	"Business": [{
+		"curated_id": "c28pbLErDFZD48KPAAKEEpf7Xmoox123mgEsufygUtNlk117",
+		"title": "Segment Integration",
+		"link": "http://blog.clearbit.com/segment-integration/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "blog.clearbit.com",
+		"screenshot_url": null
+	}],
+	"Business of APIs": [{
+		"curated_id": "A4FjTRniy6qg6XGzCD8StNF12391lnlXsnT6jDUylgVKI117",
+		"title": "Keanu Reeves Made the Right Decision. Will You?",
+		"link": "http://apigee.com/about/blog/digital-business/keanu-reeves-made-right-decision-will-you",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "apigee.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "6Hj116qtZwn3M7DvE116MyAlFDkk5ZeMNKU0jVHqy6SO1b8117",
+		"title": "Think Twice Before Opting To Modernize Legacy Systems",
+		"link": "http://www.cioreview.com/news/think-twice-before-opting-to-modernize-legacy-systems-nid-18325-cid-119.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.cioreview.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "PEQvmMR123yP4v1ngUzHE312PZdMP8joh5123UJ653d0Mng117",
+		"title": "An Existential Threat",
+		"link": "http://blogs.forrester.com/george_colony/16-08-22-an_existential_threat",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blogs.forrester.com",
+		"screenshot_url": null
+	}],
+	"Cameras": [{
+		"curated_id": "123J8B81yYTr0EeHW86ClH28z116WiD4CJXA7o6bYFw36gU117",
+		"title": "Eagle Eye Networks Awards $1.25 M in Drako Cloud Security Grants for Schools",
+		"link": "https://www.eagleeyenetworks.com/awards-1-25-m-in-drako-cloud-security-grants-for-schools/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.eagleeyenetworks.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "M2COhEvYbngz4i92Kkh7vHsIPzYTeAzdonLtSz3Y7sc117",
+		"title": "SDM Mag: Eagle Eye Networks Awards $1.25 Million in Drako Cloud Security Grants",
+		"link": "https://www.eagleeyenetworks.com/11578/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.eagleeyenetworks.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Yr1jq0Ax4aW1WgJD98n6zSaUz107crw5YaDRIk28Gfo117",
+		"title": "Security Sales News: Eagle Eye Networks looking out for School Safety",
+		"link": "https://www.eagleeyenetworks.com/security-sales-news-eagle-eye-networks-looking-out-for-school-safety/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.eagleeyenetworks.com",
+		"screenshot_url": null
+	}],
+	"Censorship": [{
+		"curated_id": "TvXClzTMM8YDuUWllTEg116hy6ktIS9c7ivQhZQSLQuwk117",
+		"title": "UK: Social Networks Consciously Failing to Combat Online Terrorism",
+		"link": "http://www.pcmag.com/news/347325/uk-social-networks-consciously-failing-to-combat-online-t",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "fiApqMNFBV3O4ZvNM3XDzVP2CN116TclldaCTeVRO123G54117",
+		"title": "REFILE-Social media giants must do more to police sites",
+		"link": "http://www.reuters.com/article/us-britain-security-socialmedia-idUSKCN1101JF",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	}],
+	"Chinese": [{
+		"curated_id": "V47VcrWki8McS31160PANgPkfdSl2AUBLeJt5VQUnPrrM117",
+		"title": "Ad tech industry boost as Chinese investors pile in",
+		"link": "http://disruptiveviews.com/ad-tech-industry-boost-chinese-investors-pile/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "disruptiveviews.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "sqYzp5viAvYhBofL08eW1m123ZitI2bHvZiYKBY7Sed3A117",
+		"title": "Chinese investors buy ad tech startup Media.net for $900 million",
+		"link": "http://www.reuters.com/article/us-media-net-m-a-beijing-miteno-idUSKCN10X155",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "96wI123d3XCNbT1eNlLds0uw52qm1jTjNzP13MYMayU3g117",
+		"title": "Media.net acquisition fits into Chinese ad tech arbitrage play",
+		"link": "http://www.techinsider.io/medianet-acquisition-chinese-ad-tech-arbitrage-play-2016-8",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.techinsider.io",
+		"screenshot_url": null
+	}],
+	"Cities": [{
+		"curated_id": "yU56EMJvQH7123DeOw51166IAtFXd6jMrMLaAQJB3vbu29g117",
+		"title": "Street Light Poles- Potential Monetization Engines for Smart Cities",
+		"link": "https://www.linkedin.com/pulse/street-light-poles-potential-monetization-engines-smart-kaushik",
+		"item_date": "2016-08-25 08:48:39",
+		"domain": "www.linkedin.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "ZlHKGaYJL5p81Shkw116AXNTEuSb83V17BG6CzzVGcb38117",
+		"title": "Using Streetlights to Strengthen Cities",
+		"link": "http://datasmart.ash.harvard.edu/news/article/using-streetlights-to-strengthen-cities-895",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "datasmart.ash.harvard.edu",
+		"screenshot_url": null
+	}],
+	"Client": [{
+		"curated_id": "lZN123uqi3Sqhnz123wqKRhqdqHaQjWBMUZQBuMslvJzCOg117",
+		"title": "Using the Postman Chrome App? Implications from the Recent Google Announcement",
+		"link": "http://blog.getpostman.com/2016/08/23/using-the-postman-chrome-app-implications-from-the-recent-google-announcement/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blog.getpostman.com",
+		"screenshot_url": null
+	}],
+	"Clients": [{
+		"curated_id": "ilklWs12WVICpJ88WYLIKzlEAkiaLdoMQPHP1DKy0YQ117",
+		"title": "Postman, a startup which delivers solutions to manage application programming interfaces - The Economic Times",
+		"link": "http://economictimes.indiatimes.com/small-biz/startups/postman-a-startup-which-delivers-solutions-to-manage-application-programming-interfaces/articleshow/53865855.cms",
+		"item_date": "2016-08-26 10:24:05",
+		"domain": "economictimes.indiatimes.com",
+		"screenshot_url": null
+	}],
+	"Cloud": [{
+		"curated_id": "SkTntX8vFjJYTI5X47HxvGZzYdvGo3pkOOesAXukg74117",
+		"title": "Amazon claims another victim as Rackspace finally goes private in a $4.3 billion deal (RAX)",
+		"link": "http://www.businessinsider.com/amazon-claims-another-victim-as-rackspace-goes-private-2016-8",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.businessinsider.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "0CI1123hlqjUp3Sp21DUXdLQOl4bf5UBdvo4EpGvWp8yc117",
+		"title": "Rackspaces $4.3 billion deal to go private allows it to transition to cloud support, strike more quickly",
+		"link": "http://www.zdnet.com/article/rackspaces-4-3-billion-deal-to-go-private-allows-it-to-transition-to-cloud-support-strike-more/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.zdnet.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "iFjZF1CtrKDBK7jNSjwwNbIEbuZDYpEyIQlbejR85BU117",
+		"title": "Announcing Apacheu00ae CloudStacku2122 v4.9",
+		"link": "https://blogs.apache.org/foundation/entry/announcing_apache_cloudstack_v4_9",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blogs.apache.org",
+		"screenshot_url": null
+	}],
+	"Command Line Interface": [{
+		"curated_id": "Inl9Kknq123rtswImPLXzfymWynFIoW5lEY32kLpGhjOw117",
+		"title": "Getting Started and Testing With Angular CLI and Angular 2 (RC5) u2014 Part 2",
+		"link": "https://dzone.com/articles/getting-started-and-testing-with-angular-cli-and-angular-2-rc5-part-2",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "rBZKVOkRLUTVeyqiy1c3uDhCb0hRwJxhsmPo9qa5Glo117",
+		"title": "Have You Met the CLI?",
+		"link": "http://codurance.com/technology/architecture/2016/08/20/meet-the-cli/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "codurance.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "FYZWM1h94piqo6QogvahcJ8mwHsaTd6Lo7hQ8cwlMmo117",
+		"title": "Reactotron u2014 A CLI & OS X app for inspecting ReactJS & React Native apps",
+		"link": "https://github.com/reactotron/reactotron",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "github.com",
+		"screenshot_url": null
+	}],
+	"Commerce": [{
+		"curated_id": "0DMJGKjo3OVUL5aDsx6cnqliOnD8vFxOQX6k411HRY4117",
+		"title": "Indix and inRiver Partner to Enrich Product Information",
+		"link": "http://www.indix.com/blog/news/indix-inriver-partnership-enrich-product-information/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.indix.com",
+		"screenshot_url": null
+	}],
+	"Compute": [{
+		"curated_id": "iFjZF1CtrKDBK7jNSjwwNbIEbuZDYpEyIQlbejR85BU117",
+		"title": "Announcing Apacheu00ae CloudStacku2122 v4.9",
+		"link": "https://blogs.apache.org/foundation/entry/announcing_apache_cloudstack_v4_9",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blogs.apache.org",
+		"screenshot_url": null
+	}],
+	"Contacts": [{
+		"curated_id": "c28pbLErDFZD48KPAAKEEpf7Xmoox123mgEsufygUtNlk117",
+		"title": "Segment Integration",
+		"link": "http://blog.clearbit.com/segment-integration/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "blog.clearbit.com",
+		"screenshot_url": null
+	}],
+	"Containers": [{
+		"curated_id": "3RPIPUB18tGMrbycWn3mzjOym91nX9GhIpbNrLMK11678117",
+		"title": "A Beginners Guide to the Dockerfile",
+		"link": "http://dzone.com/articles/a-beginners-guide-to-the-dockerfile?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "xCM116WXcH1164ETVBVM2BEcnfk6123Jl1zbRBharEMBSWXEs117",
+		"title": "Building a Microservices Control Plane Using NATS and Docker Engine v1.12",
+		"link": "https://dzone.com/articles/building-a-microservices-control-plane-using-nats",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "xlWF0Ge2uqlxx8X116dxmIpcw0F4NiNxb7TKL89K0dsQs117",
+		"title": "Containerized CI Solutions in AWS u2013 Part 1: Jenkins in ECS",
+		"link": "https://dzone.com/articles/containerized-ci-solutions-in-aws-part-1-jenkins-i",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "hGopn9NJ123lpJ9V16LExqpaIjPIKDiBXO03QF96uEcTY117",
+		"title": "Docker Labs Repo Continues to Grow",
+		"link": "https://blog.docker.com/2016/08/docker-labs-repo-continues-grow/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "blog.docker.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "rFexiId123fA7RGrLqRxGwzDXJVBbkq2fm123Vzp620NVwY117",
+		"title": "Using Docker on a Raspberry Pi as an IoT hub #piday #raspberrypi @Raspberry_Pi",
+		"link": "https://blog.adafruit.com/2016/08/26/using-docker-on-a-raspberry-pi-as-an-iot-hub-piday-raspberrypi-raspberry_pi/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "blog.adafruit.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Aj4ZYKjQyMKULXu116dJjynAmDVl7bS72bnEpzts5U2OM117",
+		"title": "Reducing Your Docker Image Size",
+		"link": "https://dzone.com/articles/reducing-your-docker-image-size",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "7A73ccnwjiq5L8bjPcp9ZVbrUUgjaAjU3bgHa1JwPBY117",
+		"title": "Cypherpath, Quali Partnership Provides Portable Containerized Infrastructures That Support Virtual Sandboxes and Cyber Ranges",
+		"link": "http://www.marketwired.com/press-release/cypherpath-quali-partnership-provides-portable-containerized-infrastructures-that-support-2152626.htm",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.marketwired.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "yWHRmokYzMcycLSYln8u8hiYGPOgrqCA116q6oUIJRBlQ117",
+		"title": "Reducing Your Docker Image Size",
+		"link": "https://blog.codeship.com/reduce-image-size/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "blog.codeship.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "phN1t4hygTaspXZOn1nWaYrTEP123GAuEFEOfpkOop116Zo117",
+		"title": "Securing the Enterprise Software Supply Chain Using Docker",
+		"link": "https://blog.docker.com/2016/08/securing-enterprise-software-supply-chain-using-docker/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "blog.docker.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "IhhjYrcfz123RJ5k7GUS1PYWxP8v0oJuKUhTZAkTX1X44117",
+		"title": "Your Software is Safer in Docker Containers",
+		"link": "https://blog.docker.com/2016/08/software-security-docker-containers/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "blog.docker.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "jU18LWhPYJ2Nxf5I123xt8NVMQWGAPv3FqWOOU5XzkMSw117",
+		"title": "AWS ALBu200au2014u200aThe Container and Microservice Load Balancer",
+		"link": "https://convox.com/blog/alb/",
+		"item_date": "2016-08-22 13:47:50",
+		"domain": "convox.com",
+		"screenshot_url": null
+	}],
+	"Content": [{
+		"curated_id": "pYrk2GWPQKVqOxNnJt4r0nC3MF2123D9gAG0ZaBoxH123u4117",
+		"title": "Deliver Content as Well as Netflix with Dyn Internet Intelligence",
+		"link": "http://dyn.com/blog/deliver-content-as-well-as-netflix-with-dyn-internet-intelligence/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "dyn.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "orUR8116aUxHcMstw6fKsOCIbiGm11MJlmLQthdQeMVD4117",
+		"title": "Relative vs. Absolute Approaches to the Content/Metadata Line",
+		"link": "https://www.lawfareblog.com/relative-vs-absolute-approaches-contentmetadata-line",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.lawfareblog.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "9jMSPaToIK6P7paBwLVZN2Rmbs116WVRKsDbeLxWQ9ilM117",
+		"title": "Pinterest acquires Instapaper",
+		"link": "http://www.zdnet.com/article/pinterest-acquires-instapaper/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.zdnet.com",
+		"screenshot_url": null
+	}],
+	"Copyright": [{
+		"curated_id": "mTKq8Dv9nNievE467PGLaKA116k1DvbwuouHY29L116cF9g117",
+		"title": "European Copyright Leak Exposes Plans to Force the Internet to Subsidize Publishers",
+		"link": "https://www.eff.org/deeplinks/2016/08/european-copyright-leak-exposes-plans-force-internet-subsidize-publishers",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.eff.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "7woSsTefKGDVuQSriaGv9SbF7chUCnCu0eQA2QtE6SE117",
+		"title": "Oracle pushing hard for Android-Java re-retrial while Google fails to justify its lies to the jury",
+		"link": "http://www.fosspatents.com/2016/08/oracle-pushing-hard-for-android-java-re.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.fosspatents.com",
+		"screenshot_url": null
+	}],
+	"CSV": [{
+		"curated_id": "B2In40nJc20nwcHdpGF7WKO337xgxmp70AsqFM2hJDY117",
+		"title": "Regular Expression to Validate a Comma-Separated List of Email Addresses",
+		"link": "https://dzone.com/articles/regular-expression-to-validate-a-comma-separated-l",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	}],
+	"Cybersecuritiy": [{
+		"curated_id": "zGjN0HEj7aUR116UpeP4GPCp8lfpC57116taOfPy123mOwKFs117",
+		"title": "Cybercriminals recruit insiders to attack telecoms providers",
+		"link": "http://www.itsecurityguru.org/2016/08/23/cybercriminals-recruit-insiders-to-attack-telecoms-providers/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	}],
+	"Cybersecurity": [{
+		"curated_id": "0XParhP8nb123r5lW4dKkwlpykyedcJA6X80B6a9HIzGo117",
+		"title": "After DNC Hack, Staffers Told to Use Snowden-Approved App, Signalrn",
+		"link": "http://motherboard.vice.com/read/after-dnc-hack-staffers-told-to-use-snowden-approved-app-signal",
+		"item_date": "2016-08-27 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "O2hJeTMJEtCWUhdtfXcqzfTL5UEpnbiviOyhIhd31WU117",
+		"title": "Iran detects malware in petrochemical plants, says not linked to recent fires",
+		"link": "http://www.reuters.com/article/us-iran-security-cyber-idUSKCN1120E9",
+		"item_date": "2016-08-27 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "d9MD98LlJ9a0heh12Q3uOkG7I5TXOREjPCocBpbTqTA117",
+		"title": "St. Jude Denies Report Its Heart Devices Are Vulnerable to Cyberattacks",
+		"link": "http://www.wsj.com/articles/st-jude-denies-report-its-heart-devices-are-vulnerable-to-cyber-attacks-1472245424",
+		"item_date": "2016-08-26 15:54:28",
+		"domain": "www.wsj.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "17S123CUiegVWzpDsUZXZFXMGAxSNCBNtQkhI4Mz116L5i8117",
+		"title": "NYU scientists develop tool to check for chip sabotage",
+		"link": "http://www.scmagazine.com/nyu-scientists-develop-asic-to-spot-hidden-vulnerabilities/article/518085/",
+		"item_date": "2016-08-26 09:55:23",
+		"domain": "www.scmagazine.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "CllaaYB46juNK116xMkrbTkqkQVv7wAT116EwsubZdbAMCA117",
+		"title": "Apple Patents Method to Catch Phone Thiefs Fingerprints",
+		"link": "http://www.pcmag.com/news/347365/apple-patents-method-to-catch-phone-thiefs-fingerprints",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Tt49WjpfP1zarcSs2YbNvUz6gWgSsJqNL4pE5ud3jXA117",
+		"title": "Australia warns shipbuilder DCNS after massive security leak",
+		"link": "http://www.reuters.com/article/us-india-submarines-france-australia-idUSKCN1110DG",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "QuxnDOPi4SM7lHEjJ7qLe116LmW8ZF26subOxGhEAkYOc117",
+		"title": "Collision Attacks Against 64-Bit Block Ciphers",
+		"link": "https://www.schneier.com/blog/archives/2016/08/collision_attac.html",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.schneier.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Gk9uD5JP6pfP4yDyxykb7jH116aTC123L9Drq123EPFFRsSmg117",
+		"title": "Details of Indias Stealth Submarines Leaked Online",
+		"link": "http://www.pcmag.com/news/347284/details-of-indias-stealth-submarines-leaked-online",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "QNavwDM7MFO2smoIUUwPat123V4y3116UcHLzfEZpyoFhaw117",
+		"title": "iOS Update Prevents Snooping Via Remote Jailbreaks",
+		"link": "http://www.pcmag.com/news/347348/ios-update-prevents-snooping-via-remote-jailbreaks",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "cSXMQVHmX5AMKpZz1116cOqh7gN7xjepFLW1167iKV116hQR8117",
+		"title": "The NSA Is Hoarding Vulnerabilities",
+		"link": "https://www.schneier.com/blog/archives/2016/08/the_nsa_is_hoar.html",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.schneier.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "VBDH123BBWz61POpiCUs1GQE7S8nc0keB123AfCtgWUZrUs117",
+		"title": "US, Korean Armies Create Spectrum Management Interoperability, Increase Situational Understanding",
+		"link": "https://www.dvidshub.net/news/208288/us-korean-armies-create-spectrum-management-interoperability-increase-situational-understanding",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.dvidshub.net",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "8eJRJj6mhwBQ2DWJmBlPEqhtUrVlFQQ116CYnR7en5x7M117",
+		"title": "Government Hackers Caught Using Unprecedented iPhone Spy Tool",
+		"link": "https://motherboard.vice.com/read/government-hackers-iphone-hacking-jailbreak-nso-group",
+		"item_date": "2016-08-25 22:46:43",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "0fcXV3y5qm9DYWg9bua1160aBr97L4TntvEH11651ecaZD8117",
+		"title": "Asian companies have worldu2019s worst cybersecurity says study",
+		"link": "http://www.itsecurityguru.org/2016/08/25/asian-companies-have-worlds-worst-cybersecurity-says-study/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "7BXhOZTIXfxe38nDUZpNGRIw0lcHudSO1EAvEpHEQrQ117",
+		"title": "How the Consumer Product Safety Commission is (Inadvertently) Behind the Internetu2019s Largest DDoS Attacks",
+		"link": "https://blog.cloudflare.com/how-the-consumer-product-safety-commission-is-inadvertently-behind-the-internets-largest-ddos-attacks/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "blog.cloudflare.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Rzu116RAvxVClh5U1E3Nbfx6Ugja6JM3B6mU63xjbLRIY117",
+		"title": "India says newspaper leak of submarine papers doesnt compromise security",
+		"link": "http://www.reuters.com/article/france-submarines-india-idUSL3N1B636W",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "2Po8cLM6p7HKhovofgyOMC123UWHlUBca2hQRX123uYJPLE117",
+		"title": "Rational Security: The Youre Nobody til Somebody Hacks You Edition",
+		"link": "https://www.lawfareblog.com/rational-security-youre-nobody-til-somebody-hacks-you-edition",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.lawfareblog.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "35PIGebajknXpg41Ho52ip0RZfgv4wAUqb79xKEMMEk117",
+		"title": "Singaporeu2019s u2018air-gappingu2019 policy cutting off internet access being questioned",
+		"link": "http://feedproxy.google.com/~r/BillingViews/~3/v6bOMKqlHtM/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "feedproxy.google.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "VlZrGL45x25qZjHz15KHwTAaT6WLNhzMLCc73WJQc28117",
+		"title": "The Secret Behind the NSA Breach: Network Infrastructure Is the Next Target",
+		"link": "http://www.darkreading.com/perimeter/the-secret-behind-the-nsa-breach-network-infrastructure-is-the-next-target/a/d-id/1326729",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.darkreading.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "bB4qxRWGrFzaBwHAb0lKvKphFo9prBSeHjJExt1Ylqk117",
+		"title": "Newly Released Exploits Affect Cisco, Juniper & Other Vendors",
+		"link": "https://duo.com/blog/newly-released-exploits-affect-cisco-juniper-and-other-vendors",
+		"item_date": "2016-08-24 12:24:29",
+		"domain": "duo.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "ZGmbkyCPWEPF1232Kn7PrcYUH4116BMkX8116839Bj7AGc3J0117",
+		"title": "CrowdStrike, other cybersecurity firms integrating industry cooperative",
+		"link": "http://www.reuters.com/article/us-cybersecurity-rift-idUSKCN1100DX",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "SXoxPnvxN9vpDGhDmGGq7v04123WNmD11633rxOZPA9116b123w117",
+		"title": "India investigating French submarine company data leak",
+		"link": "http://www.bbc.co.uk/news/business-37171856",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.bbc.co.uk",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "0116LJnivfVfLG8X5mUJhu123xVYZjab40Y8Eb22oPFuulE117",
+		"title": "Nick Ask the NSA: Shadow Brokers and the Leaking Ship",
+		"link": "https://www.lawfareblog.com/nick-asks-nsa-shadow-brokers-and-leaking-ship",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.lawfareblog.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "fIl5116quWzo8Fw116DeNKSjJIW123EKtljSsW7SDM1237A6oWg117",
+		"title": "NSA Targeted Chinese Firewall Maker Huawei, Leaked Documents Suggestrn",
+		"link": "http://motherboard.vice.com/read/nsa-huawei-firewalls-shadow-brokers-leak",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "vPFzSU123aXwrrGtCzQvCoPxui5JIOjxUFjT0a116uqpVL8117",
+		"title": "Russia now suspected of hacking US media firms",
+		"link": "http://disruptiveviews.com/russia-suspected-hacking-media/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "disruptiveviews.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "ouO6foKRE123uoZOt123onXKHujpypWqJqrOQygk9Ws6Qz0117",
+		"title": "Thereu2019s Now a Mr. Robot-Inspired u2018fsocietyu2019 Ransomware in The Wildrn",
+		"link": "http://motherboard.vice.com/read/mr-robot-fsociety-malware",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "kQQDCew0me8lCR89123JYkKgCmYBIWQWRrigo3C5116qBts117",
+		"title": "Thieves Now Targeting German Banks with GozNym Malware",
+		"link": "https://continuum.cisco.com/2016/08/24/thieves-now-targeting-german-banks-with-goznym-malware/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "continuum.cisco.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "116n116jeXDSDgBu3Ov5IvthKUsuhVOH1FcjBqs4qiRfXPA117",
+		"title": "This Android botnet relies on Twitter for its commands",
+		"link": "http://www.pcworld.com/article/3112174/security/this-android-botnet-relies-on-twitter-for-its-commands.html#tk.rss_all",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "dlX8wJZBip87qSSt1SRp5iLI2RZgBiffukNePJHsM9U117",
+		"title": "U.S. banking regulators focused on cyber security after SWIFT attacks",
+		"link": "http://www.reuters.com/article/us-cyber-heist-regulators-idUSKCN10Z2O8",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "k7Ga9JkyUX8gZr2W9qlQpe4dduCwTy6zABvojgtbLTs117",
+		"title": "UK becomes the worldu2019s second most targeted nation for DDoS attacks as assaults rise over 220%",
+		"link": "http://www.itsecurityguru.org/2016/08/24/uk-becomes-the-worlds-second-most-targeted-nation-for-ddos-attacks-as-assaults-rise-over-220/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "uTsxORgH78RGKQ3p23FptCsxzQ0PwXBNW123bjA4NzP3E117",
+		"title": "University hit 21 times in one year by ransomware",
+		"link": "http://www.bbc.co.uk/news/technology-37166545",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.bbc.co.uk",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "xhSnr31TT25VriEgZIv123EJ1T5JhSqWNgtTIjOFoJIUw117",
+		"title": "Word Games: What the NSA Means by u201cTargetedu201d Surveillance Under Section 702",
+		"link": "https://www.eff.org/deeplinks/2016/08/nsa-word-games-mass-v-targeted-surveillance-under-section-702",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.eff.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "LXtRqqxLaxESW1hS9UgH1HWodvgb8t6HPNa9pHbkWiU117",
+		"title": "Ashley Madison misled users with a fake security award",
+		"link": "http://www.pcworld.com/article/3111414/security/ashley-madison-misled-users-with-a-fake-security-award.html#tk.rss_all",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "s0m7YZ6xarbcR2d4Caq1SkGhJRh8t3hrlmDr6vORU123Y117",
+		"title": "Cybercrime damages expected to cost the world $6 trillion by 2021",
+		"link": "http://www.itsecurityguru.org/2016/08/23/cybercrime-damages-expected-to-cost-the-world-6-trillion-by-2021/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "123IurS9ehLCmHPHhZZwIyo33QyFU8hEZq6q10tB123123SxA117",
+		"title": "Dating Sites Hit by Luring Attacks via TOR Network",
+		"link": "http://www.itsecurityguru.org/2016/08/23/dating-sites-hit-by-luring-attacks-via-tor-network/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "ub116A87Lhndxpyh8c123HEiKLvFbC1eMGjZjtSiQoXlgdw117",
+		"title": "Hit-And-Run Tactics Fuel Growth In DDoS Attacks",
+		"link": "http://www.darkreading.com/attacks-breaches/hit-and-run-tactics-fuel-growth-in-ddos-attacks/d/d-id/1326709",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.darkreading.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "0jdb8ZOudgx5CMQMcXQqAtVhbTNvOXYWN123aRrSTWOIM117",
+		"title": "Meet Monero, the Currency Dark Net Dealers Hope Is More Anonymous Than Bitcoinrn",
+		"link": "http://motherboard.vice.com/read/monero-cryptocurrency-dark-net-drug-dealers-hope-more-anonymous-than-bitcoin-alphabay",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "F2nfK1qjYtsyeReZWxG3NZR4wIiysyQ8123tDMMBi7DS8117",
+		"title": "Mind the air-gap: Singapores web cut-off balances security, inconvenience",
+		"link": "http://www.reuters.com/article/us-singapore-internet-idUSKCN10Y2F1",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "YdTyZ0HGtc00KHRl40F38xNVhlTg1irLvUKZzslcVgw117",
+		"title": "New report shows that Peer-to-Peer sharing sites are major target for cybercriminals during summer months",
+		"link": "http://www.itsecurityguru.org/2016/08/23/new-report-shows-peer-peer-sharing-sites-major-target-cybercriminals-summer-months/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "RGfRWIOc123N0Z43jNxrKRJy0KjMnCW2imM4uX0Ywg1164I117",
+		"title": "New York Timesu2019s Moscow Bureau Was Targeted by Hackers",
+		"link": "http://www.nytimes.com/2016/08/24/technology/new-york-timess-moscow-bureau-was-targeted-by-hackers.html",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.nytimes.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "KeiaHBB6kEobsCsShIMwqeeRYQTBhdlLb1uZwa2B2pA117",
+		"title": "Reporters At New York Times And Other Media Hit By Russian Hackers",
+		"link": "http://www.darkreading.com/analytics/reporters-at-new-york-times-and-other-media-hit-by-russian-hackers/d/d-id/1326705",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.darkreading.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "rkHyXuqkr5ayg96YRiejxaU1Y7sXyYDjGaZ4frN4h98117",
+		"title": "Reporters At New York Times Targeted By Russian Hackers",
+		"link": "http://www.darkreading.com/analytics/reporters-at-new-york-times-targeted-by-russian-hackers/d/d-id/1326705",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.darkreading.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "A5BohpPuWxCx4H3VJNU123HjWbAEljGEU123OjTEaZnXQK8117",
+		"title": "Unsuccessful hack targeted New York Times in Moscow, FBI blames Russia",
+		"link": "http://boingboing.net/2016/08/23/fbi-investigates.html",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "boingboing.net",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "qlCMBGjbkOPY0xnwwEPvLLAoPeavSOBk5frYHMHes4o117",
+		"title": "Why Twitter Was the Platform of Choice for Ripping Apart the NSA Dumprn",
+		"link": "http://motherboard.vice.com/read/why-twitter-was-the-platform-of-choice-for-ripping-apart-the-nsa-dump",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Z7IG7ARBETcxIj9T5UDz8gNhx3JhX8CHUOXDG371231lQ117",
+		"title": "Wikileaks criticised on sensitive data",
+		"link": "http://www.bbc.co.uk/news/technology-37165230",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.bbc.co.uk",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "WD5FI0h9r5HeGsgpnLL116CtvynLMfPoliYVboRKAbFzU117",
+		"title": "Alleged NSA hackers probably gave away a small fortune by leaking exploits",
+		"link": "http://www.pcworld.com/article/3110909/alleged-nsa-hackers-probably-gave-away-a-small-fortune-by-leaking-exploits.html#tk.rss_all",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "bvr4uj1AQ4zDrfaUVKUWT2AAyNlq0uEBnVHO8prCol0117",
+		"title": "Gold Coast Commonwealth Games could swap sponsorship for cyber protection",
+		"link": "http://www.itsecurityguru.org/2016/08/22/gold-coast-commonwealth-games-could-swap-sponsorship-for-cyber-protection/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "116I2PO8Z6wtexBX55tILSLIm8Kg170i3s331RvC57YUM117",
+		"title": "How the NSA snooped on encrypted Internet traffic for a decade",
+		"link": "http://www.itsecurityguru.org/2016/08/22/how-the-nsa-snooped-on-encrypted-internet-traffic-for-a-decade/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "NSS2mDHYISlpZ3d6Z3IlDD116lSO9CgP0c1lBNTUQXoDU117",
+		"title": "I Thought I Was a Security Rockstar. I Was Just Stupid",
+		"link": "https://www.liquidmatrix.org/blog/2016/08/22/thought-security-rockstar-just-stupid/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.liquidmatrix.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "19y123DXkbkMwvNK8iklmG8Q1iynsAA88gSKbR1nB0sIY117",
+		"title": "Mission Critical: An Update on Federal Cybersecurity",
+		"link": "http://blogs.adobe.com/adobeingovernment/mission-critical-an-update-on-federal-cybersecurity/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blogs.adobe.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "6QQkdCpMGeb236AmYOyU123Vqz116JUYNWFsUZDbuFdzGt4117",
+		"title": "New threat for the IoT, DDoS attacks launching now",
+		"link": "http://disruptiveviews.com/new-threat-iot-ddos-attacks-launching-now/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "disruptiveviews.com",
+		"screenshot_url": null
+	}],
+	"Cycling": [{
+		"curated_id": "116kt116VUNWYkE123qkDL123116Hn1qOloHD0St5EwvvZxGblqqU117",
+		"title": "Making data more usable by campaigners: our Outlandish Fellowship",
+		"link": "https://www.cyclestreets.net/blog/2016/08/24/usable-data-for-campaigners/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.cyclestreets.net",
+		"screenshot_url": null
+	}],
+	"Data": [{
+		"curated_id": "shVfPSLWRPLmg4Gtqk92QL3kOmZzLTBQWEa94WNDAcc117",
+		"title": "WhatsApp + Facebook: When does the sharing end?",
+		"link": "https://www.abine.com/blog/2016/whatsapp-facebook-when-does-the-sharing-end/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.abine.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "f31eKaGNinpMEnYyoK9FeIeYcm5pFJdSep8Ldmcb85k117",
+		"title": "Informatica CEO: Data security is an unsolved problem",
+		"link": "http://www.pcworld.com/article/3112641/informatica-ceo-data-security-is-an-unsolved-problem.html#tk.rss_all",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "116kt116VUNWYkE123qkDL123116Hn1qOloHD0St5EwvvZxGblqqU117",
+		"title": "Making data more usable by campaigners: our Outlandish Fellowship",
+		"link": "https://www.cyclestreets.net/blog/2016/08/24/usable-data-for-campaigners/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.cyclestreets.net",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "v0RllWLTMCC2yqt2y0bAnAx4MDrtGAXkfdph38hsK5E117",
+		"title": "Using Data Analytics and Mapping to Understand and Solve the Opiate Crisis",
+		"link": "http://datasmart.ash.harvard.edu/news/article/using-data-analytics-and-mapping-to-understand-and-solve-the-opiate-crisis-",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "datasmart.ash.harvard.edu",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "cwJExye123M2kt123qjTXvkm3WUF4cLKlJuegYayIqnzrPQ117",
+		"title": "5 Signs You Are a Big Data Hoarder",
+		"link": "http://data-informed.com/5-signs-you-are-a-big-data-hoarder/",
+		"item_date": "2016-08-23 11:36:01",
+		"domain": "data-informed.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "KxGsKx2bDrCF7zK0OVRXvTZ0h5cHnagpOXN5Ygcn060117",
+		"title": "Big Trucks Deliver Big Data at Navistar",
+		"link": "http://www.bmc.com/blogs/big-trucks-deliver-big-data-navistar/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.bmc.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "saGh1WDBG4HfINf4eLhACoDVM7C2hHy4pViK0y3qkCc117",
+		"title": "Can Machines Do the Work? Exploring the World of Data Science and AI",
+		"link": "https://www.brandwatch.com/2016/08/exploring-the-world-of-data-science-and-ai/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.brandwatch.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "yDoPD5KBRuLA123rHn123MO3rWumj2ur3um59LdjPMhlUnY117",
+		"title": "Universal Data Catalog Empowers Citizen Data Scientists",
+		"link": "https://dzone.com/articles/universal-data-catalog-empowers-citizen-data-scien",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "XKdKFcgT4u1167Z1YaJ7FQWUcLZcmMZOmgMV11232IFkH84117",
+		"title": "How to Apply Big Data and Analytics to the Oil and Gas Industry",
+		"link": "http://www.remotemagazine.com/main/news/how-to-apply-big-data-and-analytics-to-the-oil-and-gas-industry/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.remotemagazine.com",
+		"screenshot_url": null
+	}],
+	"Database": [{
+		"curated_id": "7123HXwUPHwkEodBb116CkdL4BYegZI4vfQEFvXk9XJy2LQ117",
+		"title": "Database Migration in Continuous Integration Processes",
+		"link": "https://dzone.com/articles/flyway-db-migration-in-continuous-integration-proc",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "teeIktig17lxtA1HMeQ3sLHSL123TsazHiguNVcX33N6g117",
+		"title": "Visualizing Your Data With MongoDB Compass",
+		"link": "https://dzone.com/articles/visualizing-your-data-with-mongodb-compass",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "CAByIzkzGvk116jAl3p81168IBF116hWK9rulZXUMCAItgFkc117",
+		"title": "Database Building 101: High-Level Graph Operations",
+		"link": "https://dzone.com/articles/high-level-graph-operations",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "ZGYyOD8dP78GSokjFNqkIniz116hzs9slU5AJeRmz9jEM117",
+		"title": "GeoFile: Spatial Reference Systems and Databases",
+		"link": "https://www.compose.com/articles/geofile-spatial-reference-systems-2/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.compose.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "pWfiGYWKA6Byl0UMXY6UIwNPwBKjxeN5EfrS60fJ7PA117",
+		"title": "Top Most Overlooked MySQL Performance Optimizations: Part II",
+		"link": "https://dzone.com/articles/top-most-overlooked-mysql-performance-optimization-1",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "23zSIfHdh52lX4YgxGQO1236hOZKe7cQb2BJLU3Vok116T8117",
+		"title": "SQL Server is the New Hunting Ground in the Cloud",
+		"link": "https://www.infoq.com/news/2016/08/sql-server-google-cloud",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.infoq.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "GofYQKvpWh116sOEv54bk1K116jSATlUysWEr9Na1Wx9XPE117",
+		"title": "Top Most Overlooked MySQL Performance Optimizations: Part I",
+		"link": "https://dzone.com/articles/top-most-overlooked-mysql-performance-optimization",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "q7zv1CPF1DVDJFpgEJwe3xIP4z5BhYIiuI6bVsXynXA117",
+		"title": "Context aware MySQL pools via HAProxy",
+		"link": "http://githubengineering.com/context-aware-mysql-pools-via-haproxy/",
+		"item_date": "2016-08-22 22:30:56",
+		"domain": "githubengineering.com",
+		"screenshot_url": null
+	}],
+	"Definition": [{
+		"curated_id": "oErI8RxQhsvNDYDdDQ116FwIKZzJ4VsUmKqRNBKPHcZNo117",
+		"title": "Test Your Swagger API",
+		"link": "https://blog.apiary.io/2016/08/25/Test-Your-Swagger-API",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "blog.apiary.io",
+		"screenshot_url": null
+	}],
+	"Deprecation": [{
+		"curated_id": "tzpK77tSl6KQE2gYHQPr32rU5116OH6DHhVwyv012362WOY117",
+		"title": "SmugMug rescues nearly 200 million priceless memories from Picturelife.",
+		"link": "https://news.smugmug.com/2016/08/17/smugmug-rescues-nearly-200-million-priceless-memories-from-picturelife/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "news.smugmug.com",
+		"screenshot_url": null
+	}],
+	"Design": [{
+		"curated_id": "z54NO8Rf184HNqd116ozd40yijNm4t2YbZTIKU9dJ8Q123I117",
+		"title": "RESTful APIs and Media-Types",
+		"link": "https://akrabat.com/restful-apis-and-media-types/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "akrabat.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "x66RcZe1234ynjAybrQQrN123w1wvGcfiv03Nm116mb1vA98g117",
+		"title": "User Interface: An Essential part of a Effective API design",
+		"link": "http://www.cioreview.com/news/user-interface-an-essential-part-of-a-effective-api-design-nid-18306-cid-111.html",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.cioreview.com",
+		"screenshot_url": null
+	}],
+	"DNS": [{
+		"curated_id": "gJjkZxKNkYPY2u8UKrPF8h116o4QEwDnNHzZBsW7mDFNM117",
+		"title": "The Truly Massive Scale of IPv6 Visualized",
+		"link": "https://www.youtube.com/watch",
+		"item_date": "2016-08-25 10:27:56",
+		"domain": "www.youtube.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "pYrk2GWPQKVqOxNnJt4r0nC3MF2123D9gAG0ZaBoxH123u4117",
+		"title": "Deliver Content as Well as Netflix with Dyn Internet Intelligence",
+		"link": "http://dyn.com/blog/deliver-content-as-well-as-netflix-with-dyn-internet-intelligence/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "dyn.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "TTGtO4Jr8l9vgzRNMtmUT7MXJ9b8iwz3clhRLuiu16A117",
+		"title": "Joe St. Sauver: Non-U.S. Universities with .edu Domain Names: Theyre More Common Than You Might Think",
+		"link": "https://www.farsightsecurity.com/Blog/20160824-stsauver-edu-investigation/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.farsightsecurity.com",
+		"screenshot_url": null
+	}],
+	"Documentation": [{
+		"curated_id": "TIn1lwKuojxrH5jr1fBFZSIoQmcFWVz12358cP7yFQya8117",
+		"title": "A makeover for developer documentation",
+		"link": "https://developer.intuit.com/hub/blog/2016/08/08/makeover-developer-documentation",
+		"item_date": "2016-08-22 02:36:00",
+		"domain": "developer.intuit.com",
+		"screenshot_url": null
+	}],
+	"Documents": [{
+		"curated_id": "kyvGNXeDd3XjoK1qg57N4kLKeuaJ3dXY87iLhqouAhg117",
+		"title": "Our new integration with @screenmeet allows users to share content from Box in real-time",
+		"link": "https://blog.box.com/blog/mobile-sharing-directly-box-screenmeet/",
+		"item_date": "2016-08-24 10:34:30",
+		"domain": "blog.box.com",
+		"screenshot_url": null
+	}],
+	"Drones": [{
+		"curated_id": "36KRcAIm2skHXJlLGW2NynRQbSsukDJPqWve8yGvvew117",
+		"title": "Freedom Class -Giant Drone Racing",
+		"link": "http://www.suasnews.com/2016/08/freedom-class-giant-drone-racing/",
+		"item_date": "2016-08-26 09:54:31",
+		"domain": "www.suasnews.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "27diA0Xny3vhyVX3q4FG7qVtToYecYIudVfH1R116w75k117",
+		"title": "What the shell? PowerVisions new drone takes a crack at DJI",
+		"link": "http://www.stuff.tv/me/news/what-shell-powervisions-new-drone-takes-crack-dji",
+		"item_date": "2016-08-25 14:52:48",
+		"domain": "www.stuff.tv",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "d9OdTSj9F8Mx123vUZHP54T5DNW5svCoIxbCIVWy1DrGE117",
+		"title": "Drone accidents are due to tech, not human error",
+		"link": "http://www.businessinsider.com/drone-accidents-due-to-tech-not-human-error-2016-8",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.businessinsider.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "RCXs3uw7UvUCOcyo2IHEI46lCBYMKAvzRDG1ZU2sxDA117",
+		"title": "Drones Can Fly Over Harwich Beaches",
+		"link": "http://www.capecodchronicle.com/en/5134/harwich/517/Drones-Can-Fly-Over-Harwich-Beaches.htm",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.capecodchronicle.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "nPSj9sWKgnGyQvD116kKBqCXUFjeETqEoaLjDyGhElnfE117",
+		"title": "Startup DroneDeploy raises $20 million",
+		"link": "http://www.businessinsider.com/startup-dronedeploy-raises-20-million-2016-8",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.businessinsider.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "P03qlw123116DXkmiizwY912314oQW5TiDxxCi116bb93Tmud1c117",
+		"title": "DARPA Wants You! To Down Rogue Drones",
+		"link": "http://dronelife.com/2016/08/24/darpa-wants-rogue-drones/",
+		"item_date": "2016-08-24 08:38:10",
+		"domain": "dronelife.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "sB2HFIRalSlVh7EIRBGjUPkfqMgkt45AbIfmQFswgB0117",
+		"title": "Drone Accidents: Not Your Fault?",
+		"link": "http://www.pcmag.com/news/347285/drone-accidents-not-your-fault",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "OsROzdCtLuFN0GPMWTwayM0VBzHlSw08i116Q1232BFuSwM117",
+		"title": "FAA sued for lack of drone privacy rules",
+		"link": "http://www.zdnet.com/article/faa-sued-for-lack-of-drone-privacy-rules/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.zdnet.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "xkFVhX116pSXhIB5FWarvVNioQ1wXHEWAZ2D123IiWitAZ8117",
+		"title": "HF-Powered Drone Antenna",
+		"link": "http://hackaday.com/2016/08/24/hf-powered-drone-antenna/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "hackaday.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "E1231eBtnQBSHFkhnOdVphiJowftYcnF8123lsCosUxOkJw117",
+		"title": "Pizza by drone - unmanned air delivery set to take off in New Zealand",
+		"link": "http://www.reuters.com/article/us-newzealand-drones-food-idUSKCN1100H0",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "MpAONIvK3Wsfq5ucC9eGv1Bv2n4jlh1q3C123CwTYJf50117",
+		"title": "PowerEgg u2014 The flying robot by PowerVision",
+		"link": "http://www.powervision.me/html_en/html/poweregg.html",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.powervision.me",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "5VQfG5I6P4tCuSnqa8PCHTHv5ePhcVNRZEa0YxTlLVA117",
+		"title": "PowerVision Enters US Drone Market With PowerEgg",
+		"link": "http://www.pcmag.com/news/347087/powervision-enters-us-drone-market-with-poweregg",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "VoM4IZF78123CBlYuYs8DMAAc116MfsujCeEC9Im3m3ISDU117",
+		"title": "Snakes on a Drone: Python Takes to the Sky",
+		"link": "https://dronecademy.org/snakes-on-a-drone-python-takes-to-the-sky/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "dronecademy.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "116bEtXPxMRbEWBV5fbqgBv6123WJcLo2aOTIihA4lVitcE117",
+		"title": "Parrots Disco Is a Fixed-Wing Consumer Drone for $1,300",
+		"link": "http://www.pcmag.com/news/347235/parrots-disco-is-a-fixed-wing-consumer-drone-for-1-300",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "tz116mBnrt2xhLOT86wDoD0ggVNoq581N4sbhb6ibMx0A117",
+		"title": "Raptor Maps u2014 Drone-based farming analytics",
+		"link": "http://www.raptormaps.com/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.raptormaps.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "cQJjW123Tc90tOy9iA4j5dHHdeiG4kz0WHRIsDtXRq13A117",
+		"title": "The Pentagon Takes Aim at Bomb-Carrying Consumer Drones",
+		"link": "http://www.bloomberg.com/news/articles/2016-08-23/the-pentagon-takes-aim-at-bomb-carrying-consumer-drones",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.bloomberg.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "EjPX4Fn6Danru2oMdVyK61fUf1aoFLoAlO8123WnqndRw117",
+		"title": "Drones seized over HMP Pentonville carrying drugs and phones",
+		"link": "http://www.bbc.co.uk/news/uk-england-london-37152665",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.bbc.co.uk",
+		"screenshot_url": null
+	}],
+	"Drugs": [{
+		"curated_id": "v0RllWLTMCC2yqt2y0bAnAx4MDrtGAXkfdph38hsK5E117",
+		"title": "Using Data Analytics and Mapping to Understand and Solve the Opiate Crisis",
+		"link": "http://datasmart.ash.harvard.edu/news/article/using-data-analytics-and-mapping-to-understand-and-solve-the-opiate-crisis-",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "datasmart.ash.harvard.edu",
+		"screenshot_url": null
+	}],
+	"Education": [{
+		"curated_id": "TTGtO4Jr8l9vgzRNMtmUT7MXJ9b8iwz3clhRLuiu16A117",
+		"title": "Joe St. Sauver: Non-U.S. Universities with .edu Domain Names: Theyre More Common Than You Might Think",
+		"link": "https://www.farsightsecurity.com/Blog/20160824-stsauver-edu-investigation/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.farsightsecurity.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Yr1jq0Ax4aW1WgJD98n6zSaUz107crw5YaDRIk28Gfo117",
+		"title": "Security Sales News: Eagle Eye Networks looking out for School Safety",
+		"link": "https://www.eagleeyenetworks.com/security-sales-news-eagle-eye-networks-looking-out-for-school-safety/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.eagleeyenetworks.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "uTsxORgH78RGKQ3p23FptCsxzQ0PwXBNW123bjA4NzP3E117",
+		"title": "University hit 21 times in one year by ransomware",
+		"link": "http://www.bbc.co.uk/news/technology-37166545",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.bbc.co.uk",
+		"screenshot_url": null
+	}],
+	"Elections": [{
+		"curated_id": "08aIPaJ7f116163099AVDJWBcdxxj0AVdESMN1Zr8ktwg117",
+		"title": "Might Blockchain Finally Herald Online Voting?",
+		"link": "https://dzone.com/articles/might-blockchain-finally-herald-online-voting",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "OxmVcQ3tNmTAhRoA9GQdSsWdMN116DSj0B3sc0C4MTSq4117",
+		"title": "A search engine for election podcasts",
+		"link": "http://popuparchive.tumblr.com/post/149383436484/a-search-engine-for-election-podcasts#_=_",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "popuparchive.tumblr.com",
+		"screenshot_url": null
+	}],
+	"Email": [{
+		"curated_id": "bv4PbXJmjSYIWA7o9AbeX116d2aUkGeIVwiAvjw116XjUZM117",
+		"title": "Protecting Microsoft Email with Duo",
+		"link": "https://duo.com/blog/protecting-microsoft-email-with-duo",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "duo.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "B2In40nJc20nwcHdpGF7WKO337xgxmp70AsqFM2hJDY117",
+		"title": "Regular Expression to Validate a Comma-Separated List of Email Addresses",
+		"link": "https://dzone.com/articles/regular-expression-to-validate-a-comma-separated-l",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	}],
+	"Encryption": [{
+		"curated_id": "QuxnDOPi4SM7lHEjJ7qLe116LmW8ZF26subOxGhEAkYOc117",
+		"title": "Collision Attacks Against 64-Bit Block Ciphers",
+		"link": "https://www.schneier.com/blog/archives/2016/08/collision_attac.html",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.schneier.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "ViNEPwyP6Er8N123mP0gbg9guvvDxJKFnBxyo6tqzcK1g117",
+		"title": "Europe Begins Its Own Encryption Tug-of-War",
+		"link": "https://continuum.cisco.com/2016/08/26/europe-begins-its-own-encryption-tug-of-war/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "continuum.cisco.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "123LlBELbp5PuEB4xm6Sb0mJk5Kp597ZJeXIh32OhhAb8117",
+		"title": "French, German ministers demand new encryption backdoor law",
+		"link": "http://www.itsecurityguru.org/2016/08/25/french-german-ministers-demand-new-encryption-backdoor-law/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "RPakNgBQ7HM8y116UI116MVtqdZoRov9KrUS123RGv5K3123ueU117",
+		"title": "Taking stock of the new French-German encryption proposal",
+		"link": "http://www.politico.com/tipsheets/morning-cybersecurity/2016/08/taking-stock-of-the-new-french-german-encryption-proposal-216051",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.politico.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "AjJhO2eycXoOy7f4ZMmWIF116yLBzLTrRe8TC32cX5vxM117",
+		"title": "The Best Encryption Software of 2016",
+		"link": "http://www.pcmag.com/article/347066/the-best-encryption-software-of-2016",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	}],
+	"Energy": [{
+		"curated_id": "123YSr1RmZ1163QgIq0E116U123Hvvtz9eixI8HjcsUlsj0Bvp0117",
+		"title": "FreeWave Technologies Announces Partnership With Solis Energy",
+		"link": "http://www.remotemagazine.com/main/news/freewave-technologies-announces-partnership-with-solis-energy/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.remotemagazine.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "zVhyRAu7XUTeNJ8OPNZfcKwjROzaseUyVLFRy5ej4116w117",
+		"title": "Breaking Down the $10B Market for Smart Meters and Analytics Through 2021",
+		"link": "http://www.greentechmedia.com/articles/read/breaking-down-the-10b-market-for-smart-meters-and-analytics-through-2021",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.greentechmedia.com",
+		"screenshot_url": null
+	}],
+	"EU": [{
+		"curated_id": "ViNEPwyP6Er8N123mP0gbg9guvvDxJKFnBxyo6tqzcK1g117",
+		"title": "Europe Begins Its Own Encryption Tug-of-War",
+		"link": "https://continuum.cisco.com/2016/08/26/europe-begins-its-own-encryption-tug-of-war/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "continuum.cisco.com",
+		"screenshot_url": null
+	}],
+	"Evangelism": [{
+		"curated_id": "xO6wo91pJpH9UCHiT5W116yYPkEvJbXnIFDrZyXq8116f8U117",
+		"title": "Turning a community into evangelism helpers",
+		"link": "https://devrel.net/craft/turning-community-evangelism-helpers/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "devrel.net",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "bZu5BALdjG5IEiNTApaBK15CpkQHjM116f5W2BQ2o242k117",
+		"title": "Essentials for Promoting Web APIs",
+		"link": "http://www.apiful.io/intro/2016/08/24/essential-api-adoption-resources.html",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.apiful.io",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "YOsW33V5c4eUUlVkKq9Sed2S6LqUHmDSi88QNG72afk117",
+		"title": "Events with the Alexa Team",
+		"link": "https://developer.amazon.com/appsandservices/community/post/Tx3W3EY4VG61HBR/Events-with-the-Alexa-Team",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "developer.amazon.com",
+		"screenshot_url": null
+	}],
+	"Facial Recognition": [{
+		"curated_id": "116QLAaVOLQufGsBTsqRq3pre817FTGT1162SE5IS9AeDU4117",
+		"title": "Researchers Develop Facial Recognition that Works in Poor Lighting",
+		"link": "https://dzone.com/articles/researchers-develop-facial-recognition-that-works",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	}],
+	"Files": [{
+		"curated_id": "JIn123sRAU4tvuXlSGnCdAG4Gj4qDVf6y3sGeoc7pX0r8117",
+		"title": "Trailbot u2014 Monitor your files and react upon unwanted modification",
+		"link": "https://trailbot.io/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "trailbot.io",
+		"screenshot_url": null
+	}],
+	"Flights": [{
+		"curated_id": "116sJ116fqrexleEbDV3K92Sk45oHRxH0hdE6NeEcjofGdU117",
+		"title": "NASA Pulls Together National Data to Sleuth Out Air Traffic Improvement Mysteries",
+		"link": "https://www.digitalgov.gov/2016/08/26/nasa-pulls-together-national-data-to-sleuth-out-air-traffic-improvement-mysteries/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.digitalgov.gov",
+		"screenshot_url": null
+	}],
+	"Gaming": [{
+		"curated_id": "qcg0wJl86vdXk3jnV1233uQVUewMGrwQSOpNkp3MpG6NE117",
+		"title": "Blizzard Entertainment Facebook Live API Integration Goes Live",
+		"link": "http://socialnetworkstalk.com/2016/08/blizzard-entertainment-facebook-live-api-integration-goes-live/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "socialnetworkstalk.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "fuPVGUcqXmyeRqASODPs2kJiGofL7kvG6HRK2OLGRFw117",
+		"title": "How the Automated Attacks on the Poku00e9mon GO API Happened",
+		"link": "http://www.programmableweb.com/news/how-automated-attacks-pok%C3%A9mon-go-api-happened/elsewhere-web/2016/08/26",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.programmableweb.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "di6VmeR123wYQRPpDgkamd3x2fi8nWyxf116ZMauJ0Dw4ZA117",
+		"title": "PlayStation Network Gets Two-Factor Authentication",
+		"link": "http://www.pcmag.com/news/347329/playstation-network-gets-two-factor-authentication",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "q9TbnxSWnlD6arN116qZ61rvpWnfpIH5HfUUYl1Yc8no8117",
+		"title": "u2018Grand Theft Autou2019 Fan Site Hacked",
+		"link": "http://www.itsecurityguru.org/2016/08/24/grand-theft-auto-fan-site-hacked/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	}],
+	"Geo": [{
+		"curated_id": "ZGYyOD8dP78GSokjFNqkIniz116hzs9slU5AJeRmz9jEM117",
+		"title": "GeoFile: Spatial Reference Systems and Databases",
+		"link": "https://www.compose.com/articles/geofile-spatial-reference-systems-2/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.compose.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "5xXuNaNqkPc61LpjtC8zE7LwvVdxxfvXItoWvvj2ZJg117",
+		"title": "Land Maps Reimagined as Charts of Land by Latitude and Longitude",
+		"link": "https://blog.adafruit.com/2016/08/24/land-maps-reimagined-as-charts-of-land-by-latitude-and-longitude/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "blog.adafruit.com",
+		"screenshot_url": null
+	}],
+	"Getting Started": [{
+		"curated_id": "k0O0VwJq1235oZ3P45Zu4C5ZMV6Rhdwe20v1HoQhaO9rs117",
+		"title": "Acrobits Mobile SDK Quick Start Guide",
+		"link": "http://ap.bandwidth.com/docs/mobile-voipvoice-client-sdks/acrobits-mobile-sdk-quick-start-guide/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "ap.bandwidth.com",
+		"screenshot_url": null
+	}],
+	"Git": [{
+		"curated_id": "UzKNufG123VrEggGfTVGnbV2P7JycsA8IjCW5b2OUmPEY117",
+		"title": "jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.",
+		"link": "https://github.com/jekyll/jekyll-admin",
+		"item_date": "2016-08-26 18:37:29",
+		"domain": "github.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "wmSOLwHgXbScE0mnlWc1QxVbRXOM4fAapJ123ZqlE7x1k117",
+		"title": "GitLab CI: Deployment & Environments",
+		"link": "https://about.gitlab.com/2016/08/26/ci-deployment-and-environments/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "about.gitlab.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "J9SxfDZKW2116Vb132DYzxBTw17pATQGqP123m1SmnXijTA117",
+		"title": "Announcing The GitLab Issue Board",
+		"link": "https://about.gitlab.com/2016/08/22/announcing-the-gitlab-issue-board/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "about.gitlab.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "xY4pgsSEzobavfeEn5U5IHSClSO5zMn3iruKulIIhW0117",
+		"title": "GitLab 8.11 released with Issue Boards and Merge Conflict Resolution",
+		"link": "https://about.gitlab.com/2016/08/22/gitlab-8-11-released/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "about.gitlab.com",
+		"screenshot_url": null
+	}],
+	"Government": [{
+		"curated_id": "NOtL79AAOWT3NkuS12387fXIzcsPzpVl2116nkUpDtd3qaM117",
+		"title": "GDS eyes need for further API and cloud guidance",
+		"link": "http://central-government.governmentcomputing.com/news/gds-eyes-need-for-further-api-and-cloud-guidance-4986828",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "central-government.governmentcomputing.com",
+		"screenshot_url": null
+	}],
+	"Hackathons": [{
+		"curated_id": "GOTpTNZmGaQwjFYLUS4VXEsFppWKddE116pSEWmXDRcx4117",
+		"title": "Small Business Tech Hackathon",
+		"link": "https://developer.intuit.com/hub/blog/2016/08/23/small-business-tech-hackathon",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "developer.intuit.com",
+		"screenshot_url": null
+	}],
+	"Healthcare": [{
+		"curated_id": "d9MD98LlJ9a0heh12Q3uOkG7I5TXOREjPCocBpbTqTA117",
+		"title": "St. Jude Denies Report Its Heart Devices Are Vulnerable to Cyberattacks",
+		"link": "http://www.wsj.com/articles/st-jude-denies-report-its-heart-devices-are-vulnerable-to-cyber-attacks-1472245424",
+		"item_date": "2016-08-26 15:54:28",
+		"domain": "www.wsj.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "sKbk9mYwIh4uggQQiASxcrn8kkDN11161236HGHMbD49e4E117",
+		"title": "Medical device security ignites an ethics firestorm",
+		"link": "http://www.pcworld.com/article/3113054/medical-device-security-ignites-an-ethics-firestorm.html#tk.rss_all",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "zQ4voEwiNz0J123NxNVWy11684GQq12KG123JcjOtBCJZQ9H4117",
+		"title": "Apple acquires health data startup Gliimpse",
+		"link": "http://pharmaphorum.com/news/apple-acquires-health-data-startup-gliimpse/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "pharmaphorum.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "W6PfoseRqmubGXZ2M6UDzdhA0YpjBGjopsoIZ1v5vlE117",
+		"title": "National ONC Blockchain Challenge explores micro-identities to improve healthcare interoperability",
+		"link": "http://www.cio.com/article/3107004/health/national-onc-blockchain-challenge-explores-micro-identities-to-improve-healthcare-interoperability.html",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.cio.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "wnEY51GACpzPGENhj5ePiZNRVosgGOAJwzbQ3DHs9fM117",
+		"title": "Everything You Need to Know About Creating HIPAA Compliant Medical Forms with 123ContactForm",
+		"link": "http://blog.123contactform.com/2016/08/everything-you-need-to-know-about-creating-hipaa-compliant-medical-forms-with-123contactform/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blog.123contactform.com",
+		"screenshot_url": null
+	}],
+	"History": [{
+		"curated_id": "UmuGmzYo9PTeL4116OYJM5123116qskNSDqV44MdCTS0CYqFU117",
+		"title": "The End of Mooreu2019s Law u2013 Whatu2019s Next?",
+		"link": "https://blog.openshift.com/the-end-of-moores-law-whats-next/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "blog.openshift.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "9YVsHhUykzWfSlLJho9aQ6EWslSgSut123p9KfKD2m123X8117",
+		"title": "Underwater Archaeologists Are Exploring an Undisturbed WWII Battlefieldrn",
+		"link": "http://motherboard.vice.com/read/underwater-archaeologists-are-exploring-an-undisturbed-wwii-battlefield-noaa",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	}],
+	"HTTP": [{
+		"curated_id": "19lm1Eq116SaMUspcL1235xjBPe2W08VTo2JnShdAL5t3kg117",
+		"title": "HTTP Status Codes [COMIC]",
+		"link": "https://dzone.com/articles/http-status-codes",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	}],
+	"HTTP2": [{
+		"curated_id": "rgfBRsD2wVfbbw8rEw1o6116IRJwUei9GUsG9ujxdShm4117",
+		"title": "Cloudinary now delivers images and videos over HTTP/2",
+		"link": "http://cloudinary.com/blog/cloudinary_adds_support_for_http_2",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "cloudinary.com",
+		"screenshot_url": null
+	}],
+	"HTTPS": [{
+		"curated_id": "Yxxfk0k1qkC1g6cJgKDF123jzRZijDsKpSEnbhPrLGmbE117",
+		"title": "HTTPS and OpenVPN face new attack that can decrypt secret cookies",
+		"link": "http://arstechnica.com/security/2016/08/new-attack-can-pluck-secrets-from-1-of-https-traffic-affects-top-sites/",
+		"item_date": "2016-08-25 10:10:25",
+		"domain": "arstechnica.com",
+		"screenshot_url": null
+	}],
+	"Hypermedia": [{
+		"curated_id": "7D71C9lMcKSwEnnL8c123WJo8q8vNOEsbc5kY5PrgEPtc117",
+		"title": "Twelve Patterns for Hypermedia Service Architecture",
+		"link": "http://amundsen.com/talks/2016-04-sacon-patterns/index.html",
+		"item_date": "2016-08-27 15:12:55",
+		"domain": "amundsen.com",
+		"screenshot_url": null
+	}],
+	"IDE": [{
+		"curated_id": "qO4fXi9Sq320A0iggs5NF81163123JBZaUjN8KHuAMxV123Wk117",
+		"title": "The Evolution and Future of IDEs",
+		"link": "https://dzone.com/articles/the-evolution-and-future-of-ides",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "n1O6axCj51iVUMy8w4gp9O2BaGmhnwkAvar0yhP6Y68117",
+		"title": "Never leave your Java IDE with Google Cloud Tools for IntelliJ plugin ",
+		"link": "https://cloudplatform.googleblog.com/2016/08/never-leave-your-Java-IDE-with-Google-Cloud-Tools-for-IntelliJ-plugin.html",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "cloudplatform.googleblog.com",
+		"screenshot_url": null
+	}],
+	"Identity": [{
+		"curated_id": "NXzSmG9lc2pqkNHJ41LoK123m86Nvd172qku1jgJ8PTnM117",
+		"title": "Login with Facebook ( In 20 lines of PHP code ) ",
+		"link": "http://motyar.blogspot.com/2016/08/login-with-facebook-in-20-lines-of-php.html",
+		"item_date": "2016-08-28 00:00:00",
+		"domain": "motyar.blogspot.com",
+		"screenshot_url": null
+	}],
+	"IIoT": [{
+		"curated_id": "jEyvk6auFodeNA116We5KTiK6Il4AozwM116ar5bxocnkzc117",
+		"title": "The Industrial IoT Market Map (IIoT)",
+		"link": "http://www.iotcentral.io/blog/the-industrial-iot-market-map-iiot",
+		"item_date": "2016-08-22 19:41:48",
+		"domain": "www.iotcentral.io",
+		"screenshot_url": null
+	}],
+	"Images": [{
+		"curated_id": "rgfBRsD2wVfbbw8rEw1o6116IRJwUei9GUsG9ujxdShm4117",
+		"title": "Cloudinary now delivers images and videos over HTTP/2",
+		"link": "http://cloudinary.com/blog/cloudinary_adds_support_for_http_2",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "cloudinary.com",
+		"screenshot_url": null
+	}],
+	"Industrial": [{
+		"curated_id": "Tt49WjpfP1zarcSs2YbNvUz6gWgSsJqNL4pE5ud3jXA117",
+		"title": "Australia warns shipbuilder DCNS after massive security leak",
+		"link": "http://www.reuters.com/article/us-india-submarines-france-australia-idUSKCN1110DG",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "byHBgMmm2l9NMAdi1smaiuBY8WTcnRBGCfCFj1B4Fvs117",
+		"title": "Aclara Emphasizes Need to Evaluate Total Cost of Ownership When Choosing Advanced Metering and Communications Networks",
+		"link": "http://www.remotemagazine.com/main/news/aclara-emphasizes-need-to-evaluate-total-cost-of-ownership-when-choosing-advanced-metering-and-communications-networks/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.remotemagazine.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "LL2zWJ123xNeHpPDKJxzLk1u3WIeWzGFgOFXruNTEIff0117",
+		"title": "Red Lion N-Tron Series Managed Switches Certified by ODVA to Meet CIP Specification",
+		"link": "http://www.remotemagazine.com/main/markets/scada/red-lion-n-tron-series-managed-switches-certified-by-odva-to-meet-cip-specification/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.remotemagazine.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "XKdKFcgT4u1167Z1YaJ7FQWUcLZcmMZOmgMV11232IFkH84117",
+		"title": "How to Apply Big Data and Analytics to the Oil and Gas Industry",
+		"link": "http://www.remotemagazine.com/main/news/how-to-apply-big-data-and-analytics-to-the-oil-and-gas-industry/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.remotemagazine.com",
+		"screenshot_url": null
+	}],
+	"Integrations": [{
+		"curated_id": "yqSijXINHtZtxm15S1161PgKwR5GUWS8RvmU123MZhNXqJ8117",
+		"title": "Announcing Our Integration with Intelligent Optimisations",
+		"link": "http://blog.mparticle.com/announcing-integration-intelligent-optimisations/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "blog.mparticle.com",
+		"screenshot_url": null
+	}],
+	"Internet of Things": [{
+		"curated_id": "V116TWhcMqAB6zqXsUAn6ZgaH9CkuoDUj4JUN9AAaGcog117",
+		"title": "IBM Watson turns Raspberry Pi into a digital assistant @Raspberry_Pi #piday #raspberrypi",
+		"link": "https://blog.adafruit.com/2016/08/26/ibm-watson-turns-raspberry-pi-into-a-digital-assistant-raspberry_pi-piday-raspberrypi/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "blog.adafruit.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "IqJ3lsQAuW6al2fRxHN4zivamMv2IecnzH5Df9116116bMM117",
+		"title": "Intel Releases Joule Internet of Things Maker Module Platform",
+		"link": "https://www.infoq.com/news/2016/08/intel-joule-iot-module",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.infoq.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "rFexiId123fA7RGrLqRxGwzDXJVBbkq2fm123Vzp620NVwY117",
+		"title": "Using Docker on a Raspberry Pi as an IoT hub #piday #raspberrypi @Raspberry_Pi",
+		"link": "https://blog.adafruit.com/2016/08/26/using-docker-on-a-raspberry-pi-as-an-iot-hub-piday-raspberrypi-raspberry_pi/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "blog.adafruit.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "yU56EMJvQH7123DeOw51166IAtFXd6jMrMLaAQJB3vbu29g117",
+		"title": "Street Light Poles- Potential Monetization Engines for Smart Cities",
+		"link": "https://www.linkedin.com/pulse/street-light-poles-potential-monetization-engines-smart-kaushik",
+		"item_date": "2016-08-25 08:48:39",
+		"domain": "www.linkedin.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "6MKzI509onYKgHmHT3786yGuLhMw2q9CexVt2RHDyTo117",
+		"title": "Adesto and Embedded Masters link for IoT",
+		"link": "http://www.electronicsweekly.com/news/business/adesto-embedded-masters-link-iot-2016-08/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.electronicsweekly.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "owxc36116JflQEFUsN4rUHZtjBWc7c96ZbW7xPPDjYsUk117",
+		"title": "An In-Depth Look at the Tibbo AggreGate IoT Platform Concept",
+		"link": "https://dzone.com/articles/tibbo-aggregate-iot-platform-concept",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "zVhyRAu7XUTeNJ8OPNZfcKwjROzaseUyVLFRy5ej4116w117",
+		"title": "Breaking Down the $10B Market for Smart Meters and Analytics Through 2021",
+		"link": "http://www.greentechmedia.com/articles/read/breaking-down-the-10b-market-for-smart-meters-and-analytics-through-2021",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.greentechmedia.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "jEyvk6auFodeNA116We5KTiK6Il4AozwM116ar5bxocnkzc117",
+		"title": "The Industrial IoT Market Map (IIoT)",
+		"link": "http://www.iotcentral.io/blog/the-industrial-iot-market-map-iiot",
+		"item_date": "2016-08-22 19:41:48",
+		"domain": "www.iotcentral.io",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "VfcsE1QlGDvDGHrpegD8NQny0LOXnEcvxxiq4Lbhl3w117",
+		"title": "Build IoT devices with Pusher and Lua",
+		"link": "https://blog.pusher.com/building-iot-devices-with-pusher-and-lua/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blog.pusher.com",
+		"screenshot_url": null
+	}],
+	"Investment": [{
+		"curated_id": "SkTntX8vFjJYTI5X47HxvGZzYdvGo3pkOOesAXukg74117",
+		"title": "Amazon claims another victim as Rackspace finally goes private in a $4.3 billion deal (RAX)",
+		"link": "http://www.businessinsider.com/amazon-claims-another-victim-as-rackspace-goes-private-2016-8",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.businessinsider.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "0CI1123hlqjUp3Sp21DUXdLQOl4bf5UBdvo4EpGvWp8yc117",
+		"title": "Rackspaces $4.3 billion deal to go private allows it to transition to cloud support, strike more quickly",
+		"link": "http://www.zdnet.com/article/rackspaces-4-3-billion-deal-to-go-private-allows-it-to-transition-to-cloud-support-strike-more/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.zdnet.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "nPSj9sWKgnGyQvD116kKBqCXUFjeETqEoaLjDyGhElnfE117",
+		"title": "Startup DroneDeploy raises $20 million",
+		"link": "http://www.businessinsider.com/startup-dronedeploy-raises-20-million-2016-8",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.businessinsider.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Q6gamdftRNzH9wrQxVWKhDFwiwkS5mLioKydr0K4DQA117",
+		"title": "Authentication startup Auth0 raises $15M as it beefs up security features",
+		"link": "https://techcrunch.com/2016/08/24/auth0-series-b/",
+		"item_date": "2016-08-24 08:40:03",
+		"domain": "techcrunch.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "M2COhEvYbngz4i92Kkh7vHsIPzYTeAzdonLtSz3Y7sc117",
+		"title": "SDM Mag: Eagle Eye Networks Awards $1.25 Million in Drako Cloud Security Grants",
+		"link": "https://www.eagleeyenetworks.com/11578/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.eagleeyenetworks.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "V47VcrWki8McS31160PANgPkfdSl2AUBLeJt5VQUnPrrM117",
+		"title": "Ad tech industry boost as Chinese investors pile in",
+		"link": "http://disruptiveviews.com/ad-tech-industry-boost-chinese-investors-pile/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "disruptiveviews.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "kLk116mE123YVidfWJi116i116l3QtVuWO6XvCzRVCD2392s3yE117",
+		"title": "ThreatQuotient Secures $12M in Series B Funding",
+		"link": "http://www.finsmes.com/2016/08/threatquotient-secures-12m-in-series-b-funding.html",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.finsmes.com",
+		"screenshot_url": null
+	}],
+	"IoT": [{
+		"curated_id": "gJjkZxKNkYPY2u8UKrPF8h116o4QEwDnNHzZBsW7mDFNM117",
+		"title": "The Truly Massive Scale of IPv6 Visualized",
+		"link": "https://www.youtube.com/watch",
+		"item_date": "2016-08-25 10:27:56",
+		"domain": "www.youtube.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "jEyvk6auFodeNA116We5KTiK6Il4AozwM116ar5bxocnkzc117",
+		"title": "The Industrial IoT Market Map (IIoT)",
+		"link": "http://www.iotcentral.io/blog/the-industrial-iot-market-map-iiot",
+		"item_date": "2016-08-22 19:41:48",
+		"domain": "www.iotcentral.io",
+		"screenshot_url": null
+	}],
+	"iPaaS": [{
+		"curated_id": "TzHa3dVvAMNTaJ8116RPZMNM1tR3R0ZrTbc5GwkMJDx38117",
+		"title": "Integration strategy is a sub-component of cloud strategy",
+		"link": "http://searchmanufacturingerp.techtarget.com/feature/Cloud-integration-tools-can-be-universal-solution-to-old-IT-problem",
+		"item_date": "2016-08-25 14:22:04",
+		"domain": "searchmanufacturingerp.techtarget.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "pMfInYSRpavlfaDO9Jdcyrrgm00wc1163he4G116JCoF6A0117",
+		"title": "Automation requires humanity",
+		"link": "http://www.itsecurityguru.org/2016/08/25/automation-requires-humanity/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	}],
+	"Issues": [{
+		"curated_id": "J9SxfDZKW2116Vb132DYzxBTw17pATQGqP123m1SmnXijTA117",
+		"title": "Announcing The GitLab Issue Board",
+		"link": "https://about.gitlab.com/2016/08/22/announcing-the-gitlab-issue-board/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "about.gitlab.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "xY4pgsSEzobavfeEn5U5IHSClSO5zMn3iruKulIIhW0117",
+		"title": "GitLab 8.11 released with Issue Boards and Merge Conflict Resolution",
+		"link": "https://about.gitlab.com/2016/08/22/gitlab-8-11-released/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "about.gitlab.com",
+		"screenshot_url": null
+	}],
+	"JavaScript": [{
+		"curated_id": "FygLOLa1slZDGP6DyC2SqcS01pKNNMbpN116XYe0Df8iQ117",
+		"title": "V8s New JavaScript Interpreter Improves Memory Consumption",
+		"link": "https://www.infoq.com/news/2016/08/v8-ignition-javascript-inteprete",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.infoq.com",
+		"screenshot_url": null
+	}],
+	"Jekyll": [{
+		"curated_id": "UzKNufG123VrEggGfTVGnbV2P7JycsA8IjCW5b2OUmPEY117",
+		"title": "jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.",
+		"link": "https://github.com/jekyll/jekyll-admin",
+		"item_date": "2016-08-26 18:37:29",
+		"domain": "github.com",
+		"screenshot_url": null
+	}],
+	"Journalism": [{
+		"curated_id": "hQZnS5hKPS4grrlDrTI7qR29L16iVmV81yyjxwIMtjg117",
+		"title": "Justice Department Pressed to Intervene When Police Arrest Grassroots Journalists",
+		"link": "https://www.eff.org/deeplinks/2016/08/justice-department-pressed-intervene-when-police-arrest-grassroots-journalists",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.eff.org",
+		"screenshot_url": null
+	}],
+	"Legacy": [{
+		"curated_id": "6Hj116qtZwn3M7DvE116MyAlFDkk5ZeMNKU0jVHqy6SO1b8117",
+		"title": "Think Twice Before Opting To Modernize Legacy Systems",
+		"link": "http://www.cioreview.com/news/think-twice-before-opting-to-modernize-legacy-systems-nid-18325-cid-119.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.cioreview.com",
+		"screenshot_url": null
+	}],
+	"Legal": [{
+		"curated_id": "rMw123Sso1oB7j6wU2KxO1236eWer2A7geZyCX4DwOeS1164c117",
+		"title": "Class Complains That Twitter App Turned Them Into Trading Cards",
+		"link": "http://www.courthousenews.com/2016/08/26/class-complains-that-twitter-app-turned-them-into-trading-cards.htm",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.courthousenews.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "7woSsTefKGDVuQSriaGv9SbF7chUCnCu0eQA2QtE6SE117",
+		"title": "Oracle pushing hard for Android-Java re-retrial while Google fails to justify its lies to the jury",
+		"link": "http://www.fosspatents.com/2016/08/oracle-pushing-hard-for-android-java-re.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.fosspatents.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "orUR8116aUxHcMstw6fKsOCIbiGm11MJlmLQthdQeMVD4117",
+		"title": "Relative vs. Absolute Approaches to the Content/Metadata Line",
+		"link": "https://www.lawfareblog.com/relative-vs-absolute-approaches-contentmetadata-line",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.lawfareblog.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "zWha3HyaBnth99pgYroKojse6zEDPLCX1Mx2RXsgFRc117",
+		"title": "A Startup Is Automating the Lawsuit Strategy Peter Thiel Used to Kill Gawkerrn",
+		"link": "http://motherboard.vice.com/read/legalist-is-automating-the-lawsuit-strategy-peter-thiel-used-to-kill-gawker",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	}],
+	"Libraries": [{
+		"curated_id": "LN9EMeajFOUiZjY9uQKJFem2T2fjYIfriNOK1160gniZQ117",
+		"title": "NISO Launches New Project to Create a Flexible API Framework for E-Content in Libraries - National Information Standards Organization",
+		"link": "http://www.niso.org/news/pr/view",
+		"item_date": "2016-08-26 12:34:09",
+		"domain": "www.niso.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "hpoG3gDs0m123KCttJZOGCk8mlmnVCtwgnE9w8yl116i4B4117",
+		"title": "Far future of libraries",
+		"link": "http://boingboing.net/2016/08/25/far-future-of-libraries.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "boingboing.net",
+		"screenshot_url": null
+	}],
+	"Logging": [{
+		"curated_id": "I0gzLp9PxgZPCel116Xa4DFCJVRTHnRIwk123dwxJ123KQNhY117",
+		"title": "The Art of Data Logging",
+		"link": "http://thenewstack.io/art-data-logging/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "thenewstack.io",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "THxMYQmMtrS3I2cl5O7CmbUhPQ8i8IRMpgeVDawdoww117",
+		"title": "Logging the Lights in Your Home",
+		"link": "https://dzone.com/articles/logging-the-lights-in-your-home",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	}],
+	"Machine Learning": [{
+		"curated_id": "HVMLKTnJmK2v8HLVerHPmXAZOTFMrtDrAr116WXFvKl7U117",
+		"title": "Alexa rank search & sort capabilities added to the AYLIEN News API",
+		"link": "http://blog.aylien.com/alexa-rank-search-sort-capabilities-added-aylien-news-api/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "blog.aylien.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "saGh1WDBG4HfINf4eLhACoDVM7C2hHy4pViK0y3qkCc117",
+		"title": "Can Machines Do the Work? Exploring the World of Data Science and AI",
+		"link": "https://www.brandwatch.com/2016/08/exploring-the-world-of-data-science-and-ai/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.brandwatch.com",
+		"screenshot_url": null
+	}],
+	"Management": [{
+		"curated_id": "NXzSmG9lc2pqkNHJ41LoK123m86Nvd172qku1jgJ8PTnM117",
+		"title": "Login with Facebook ( In 20 lines of PHP code ) ",
+		"link": "http://motyar.blogspot.com/2016/08/login-with-facebook-in-20-lines-of-php.html",
+		"item_date": "2016-08-28 00:00:00",
+		"domain": "motyar.blogspot.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "rXeTiC7VAH4w5aFW0dwD08OwQKzTx123gzG9AwYnjpaSc117",
+		"title": "Onboarding New Developers",
+		"link": "http://www.activestate.com/blog/2016/08/onboarding-new-developers-enforcing-standards-through-tutorials",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.activestate.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "bZu5BALdjG5IEiNTApaBK15CpkQHjM116f5W2BQ2o242k117",
+		"title": "Essentials for Promoting Web APIs",
+		"link": "http://www.apiful.io/intro/2016/08/24/essential-api-adoption-resources.html",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.apiful.io",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "T4y1djQmKjkO2NUnxdIp65A5ClDYjAG0WAC123RyVQVeI117",
+		"title": "Apigee API Management Available for Apps in AWS Marketplace",
+		"link": "http://apigee.com/about/blog/engineering/apigee-api-management-available-apps-aws-marketplace",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "apigee.com",
+		"screenshot_url": null
+	}],
+	"Mapping": [{
+		"curated_id": "ZGYyOD8dP78GSokjFNqkIniz116hzs9slU5AJeRmz9jEM117",
+		"title": "GeoFile: Spatial Reference Systems and Databases",
+		"link": "https://www.compose.com/articles/geofile-spatial-reference-systems-2/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.compose.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "5xXuNaNqkPc61LpjtC8zE7LwvVdxxfvXItoWvvj2ZJg117",
+		"title": "Land Maps Reimagined as Charts of Land by Latitude and Longitude",
+		"link": "https://blog.adafruit.com/2016/08/24/land-maps-reimagined-as-charts-of-land-by-latitude-and-longitude/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "blog.adafruit.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "v0RllWLTMCC2yqt2y0bAnAx4MDrtGAXkfdph38hsK5E117",
+		"title": "Using Data Analytics and Mapping to Understand and Solve the Opiate Crisis",
+		"link": "http://datasmart.ash.harvard.edu/news/article/using-data-analytics-and-mapping-to-understand-and-solve-the-opiate-crisis-",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "datasmart.ash.harvard.edu",
+		"screenshot_url": null
+	}],
+	"Messaging": [{
+		"curated_id": "crn2AOTl6J123ellzD6YnBQZ4cEtNyrPwRaJGgSOVoepU117",
+		"title": "Relaxing Privacy Vow, WhatsApp to Share Some Data With Facebook",
+		"link": "http://www.nytimes.com/2016/08/26/technology/relaxing-privacy-vow-whatsapp-to-share-some-data-with-facebook.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.nytimes.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "rU6dGL23Yo0bDliJxqDL2UBPwSMqxHiGL9116OyiMtjx0117",
+		"title": "Slack Is All Hose And No Bucket",
+		"link": "https://hapgood.us/2016/08/25/slack-is-all-hose-and-no-bucket/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "hapgood.us",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "NCRpOFkn2MHMPzyArA7iKWZGg0rM3YaVkje123bGW8sho117",
+		"title": "Get your Slack Events API bot off the couch",
+		"link": "https://medium.com/m/global-identity",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "medium.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "FoOHCAGfSER9L1233123X123p6P5hZwQsg5GCpQCqUGsIjuYg117",
+		"title": "Offline Conversions API Available via Facebook Business Manager",
+		"link": "http://socialmindseu.blogspot.com/2016/08/offline-conversions-api-available-via.html",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "socialmindseu.blogspot.com",
+		"screenshot_url": null
+	}],
+	"Microservices": [{
+		"curated_id": "xCM116WXcH1164ETVBVM2BEcnfk6123Jl1zbRBharEMBSWXEs117",
+		"title": "Building a Microservices Control Plane Using NATS and Docker Engine v1.12",
+		"link": "https://dzone.com/articles/building-a-microservices-control-plane-using-nats",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "9gc9VZ116AWPztBu116RdTI3116YZISQ93Z6R1GaWXBaChkmk117",
+		"title": "Netflix Offers Comprehensive Insight into Its Microservices Approach",
+		"link": "http://www.programmableweb.com/news/netflix-offers-comprehensive-insight-its-microservices-approach/elsewhere-web/2016/08/26",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.programmableweb.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "q7Gd0Tc2pvL7Yd8KbUsxWI3O277116ZLwy6a116aEmtGz3c117",
+		"title": "Why Microservices?",
+		"link": "https://dzone.com/articles/microservices-basics",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "13fbQGyL1KDfwQiMNWUkYfvDj8gxv01235K0i61Sk1P8w117",
+		"title": "The Data Briefing: Microservices and Serverless Apps u2014 A New Direction for Federal Government Mobile Apps?",
+		"link": "https://www.digitalgov.gov/2016/08/24/the-data-briefing-microservices-and-serverless-apps-a-new-direction-for-federal-government-mobile-apps/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.digitalgov.gov",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "jU18LWhPYJ2Nxf5I123xt8NVMQWGAPv3FqWOOU5XzkMSw117",
+		"title": "AWS ALBu200au2014u200aThe Container and Microservice Load Balancer",
+		"link": "https://convox.com/blog/alb/",
+		"item_date": "2016-08-22 13:47:50",
+		"domain": "convox.com",
+		"screenshot_url": null
+	}],
+	"Migration": [{
+		"curated_id": "7123HXwUPHwkEodBb116CkdL4BYegZI4vfQEFvXk9XJy2LQ117",
+		"title": "Database Migration in Continuous Integration Processes",
+		"link": "https://dzone.com/articles/flyway-db-migration-in-continuous-integration-proc",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	}],
+	"Monetization": [{
+		"curated_id": "wOhZk4KU5lSWhIa123lgISWL0rmxkgjc2S116XoemoAuB8Y117",
+		"title": "Ubisoft Retreats from Free-to-Play Business Modelrn",
+		"link": "http://motherboard.vice.com/read/ubisoft-cancels-four-free-to-play-games",
+		"item_date": "2016-08-28 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "yU56EMJvQH7123DeOw51166IAtFXd6jMrMLaAQJB3vbu29g117",
+		"title": "Street Light Poles- Potential Monetization Engines for Smart Cities",
+		"link": "https://www.linkedin.com/pulse/street-light-poles-potential-monetization-engines-smart-kaushik",
+		"item_date": "2016-08-25 08:48:39",
+		"domain": "www.linkedin.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "rRbcVTQ123YNjCh2ta66iA6zZsvj4he5kOqVMVXTlpWM8117",
+		"title": "Monetizing Innovation u2014 How smart companies design the product around the price",
+		"link": "https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product-ebook/dp/B01F4DYY1I/ref=as_li_ss_tl",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.amazon.com",
+		"screenshot_url": null
+	}],
+	"Network": [{
+		"curated_id": "6X9qrco5u0uFuPuKMsWbIimceLfY93imSyKvb8CEXeo117",
+		"title": "Open Source SNES to USB Converter Lets You Emulate Legally",
+		"link": "http://hackaday.com/2016/08/28/open-source-snes-to-usb-converter-lets-you-emulate-legally/",
+		"item_date": "2016-08-28 00:00:00",
+		"domain": "hackaday.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "sa29CL123cln8zXt123zyN116R5hDzVJIaWPT6awAxRCu4F0Q117",
+		"title": "All the Ways Your Wi-Fi Router Can Spy on You",
+		"link": "http://www.theatlantic.com/technology/archive/2016/08/wi-fi-surveillance/497132/",
+		"item_date": "2016-08-26 16:20:26",
+		"domain": "www.theatlantic.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "VBDH123BBWz61POpiCUs1GQE7S8nc0keB123AfCtgWUZrUs117",
+		"title": "US, Korean Armies Create Spectrum Management Interoperability, Increase Situational Understanding",
+		"link": "https://www.dvidshub.net/news/208288/us-korean-armies-create-spectrum-management-interoperability-increase-situational-understanding",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.dvidshub.net",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "pg0OP116KJia512SnWdA7KMop2a52A123vmR8y38Jz116p10c117",
+		"title": "Cisco starts patching firewall devices against NSA-linked exploit",
+		"link": "http://www.pcworld.com/article/3112420/security/cisco-starts-patching-firewall-devices-against-nsa-linked-exploit.html#tk.rss_all",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "35PIGebajknXpg41Ho52ip0RZfgv4wAUqb79xKEMMEk117",
+		"title": "Singaporeu2019s u2018air-gappingu2019 policy cutting off internet access being questioned",
+		"link": "http://feedproxy.google.com/~r/BillingViews/~3/v6bOMKqlHtM/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "feedproxy.google.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "bB4qxRWGrFzaBwHAb0lKvKphFo9prBSeHjJExt1Ylqk117",
+		"title": "Newly Released Exploits Affect Cisco, Juniper & Other Vendors",
+		"link": "https://duo.com/blog/newly-released-exploits-affect-cisco-juniper-and-other-vendors",
+		"item_date": "2016-08-24 12:24:29",
+		"domain": "duo.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "byHBgMmm2l9NMAdi1smaiuBY8WTcnRBGCfCFj1B4Fvs117",
+		"title": "Aclara Emphasizes Need to Evaluate Total Cost of Ownership When Choosing Advanced Metering and Communications Networks",
+		"link": "http://www.remotemagazine.com/main/news/aclara-emphasizes-need-to-evaluate-total-cost-of-ownership-when-choosing-advanced-metering-and-communications-networks/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.remotemagazine.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Cmau7fY5gxFlChR1TNaQ2KUnv73HRXAGZMNjQLC116nd8117",
+		"title": "Stay on offense with a proactive network performance management strategy",
+		"link": "http://blogs.ca.com/2016/08/24/stay-offense-proactive-network-performance-management-strategy/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "blogs.ca.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "12394PQimht7xsfz1w2x86YQ5SOYnhfMRdTwJFDMVkZYw117",
+		"title": "Subnetwork expansion adds even more flexibility to your Google Cloud Platform private networks",
+		"link": "https://cloudplatform.googleblog.com/2016/08/subnetwork-expansion-adds-even-more-flexibility-to-your-Google-Cloud-Platform-private-networks.html",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "cloudplatform.googleblog.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "60sXXzuE123COfsUqpJ2WaPJNSFDumPoT95EZR1123L4GmE117",
+		"title": "Tell FCC to Enforce Its Rules Against Police Using Stingrays",
+		"link": "https://act.eff.org/action/tell-fcc-to-enforce-its-rules-against-police-using-stingrays",
+		"item_date": "2016-08-23 17:38:29",
+		"domain": "act.eff.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "F2nfK1qjYtsyeReZWxG3NZR4wIiysyQ8123tDMMBi7DS8117",
+		"title": "Mind the air-gap: Singapores web cut-off balances security, inconvenience",
+		"link": "http://www.reuters.com/article/us-singapore-internet-idUSKCN10Y2F1",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "2BeD4lit1AnPDFx3ExI123BcRA0OBsZcfTJ6pDEJE3tZE117",
+		"title": "A Tor General Strike Wants to Shut Down the Tor Network for a Dayrn",
+		"link": "http://motherboard.vice.com/read/a-tor-general-strike-wants-to-shut-down-the-tor-network-for-a-day",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	}],
+	"News": [{
+		"curated_id": "HVMLKTnJmK2v8HLVerHPmXAZOTFMrtDrAr116WXFvKl7U117",
+		"title": "Alexa rank search & sort capabilities added to the AYLIEN News API",
+		"link": "http://blog.aylien.com/alexa-rank-search-sort-capabilities-added-aylien-news-api/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "blog.aylien.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "zWha3HyaBnth99pgYroKojse6zEDPLCX1Mx2RXsgFRc117",
+		"title": "A Startup Is Automating the Lawsuit Strategy Peter Thiel Used to Kill Gawkerrn",
+		"link": "http://motherboard.vice.com/read/legalist-is-automating-the-lawsuit-strategy-peter-thiel-used-to-kill-gawker",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	}],
+	"newwaytoengage": [{
+		"curated_id": "gJjkZxKNkYPY2u8UKrPF8h116o4QEwDnNHzZBsW7mDFNM117",
+		"title": "The Truly Massive Scale of IPv6 Visualized",
+		"link": "https://www.youtube.com/watch",
+		"item_date": "2016-08-25 10:27:56",
+		"domain": "www.youtube.com",
+		"screenshot_url": null
+	}],
+	"NSA": [{
+		"curated_id": "cSXMQVHmX5AMKpZz1116cOqh7gN7xjepFLW1167iKV116hQR8117",
+		"title": "The NSA Is Hoarding Vulnerabilities",
+		"link": "https://www.schneier.com/blog/archives/2016/08/the_nsa_is_hoar.html",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.schneier.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "VlZrGL45x25qZjHz15KHwTAaT6WLNhzMLCc73WJQc28117",
+		"title": "The Secret Behind the NSA Breach: Network Infrastructure Is the Next Target",
+		"link": "http://www.darkreading.com/perimeter/the-secret-behind-the-nsa-breach-network-infrastructure-is-the-next-target/a/d-id/1326729",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.darkreading.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "fIl5116quWzo8Fw116DeNKSjJIW123EKtljSsW7SDM1237A6oWg117",
+		"title": "NSA Targeted Chinese Firewall Maker Huawei, Leaked Documents Suggestrn",
+		"link": "http://motherboard.vice.com/read/nsa-huawei-firewalls-shadow-brokers-leak",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "xhSnr31TT25VriEgZIv123EJ1T5JhSqWNgtTIjOFoJIUw117",
+		"title": "Word Games: What the NSA Means by u201cTargetedu201d Surveillance Under Section 702",
+		"link": "https://www.eff.org/deeplinks/2016/08/nsa-word-games-mass-v-targeted-surveillance-under-section-702",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.eff.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "WD5FI0h9r5HeGsgpnLL116CtvynLMfPoliYVboRKAbFzU117",
+		"title": "Alleged NSA hackers probably gave away a small fortune by leaking exploits",
+		"link": "http://www.pcworld.com/article/3110909/alleged-nsa-hackers-probably-gave-away-a-small-fortune-by-leaking-exploits.html#tk.rss_all",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "116I2PO8Z6wtexBX55tILSLIm8Kg170i3s331RvC57YUM117",
+		"title": "How the NSA snooped on encrypted Internet traffic for a decade",
+		"link": "http://www.itsecurityguru.org/2016/08/22/how-the-nsa-snooped-on-encrypted-internet-traffic-for-a-decade/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	}],
+	"OpenVPN": [{
+		"curated_id": "Yxxfk0k1qkC1g6cJgKDF123jzRZijDsKpSEnbhPrLGmbE117",
+		"title": "HTTPS and OpenVPN face new attack that can decrypt secret cookies",
+		"link": "http://arstechnica.com/security/2016/08/new-attack-can-pluck-secrets-from-1-of-https-traffic-affects-top-sites/",
+		"item_date": "2016-08-25 10:10:25",
+		"domain": "arstechnica.com",
+		"screenshot_url": null
+	}],
+	"Opiates": [{
+		"curated_id": "v0RllWLTMCC2yqt2y0bAnAx4MDrtGAXkfdph38hsK5E117",
+		"title": "Using Data Analytics and Mapping to Understand and Solve the Opiate Crisis",
+		"link": "http://datasmart.ash.harvard.edu/news/article/using-data-analytics-and-mapping-to-understand-and-solve-the-opiate-crisis-",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "datasmart.ash.harvard.edu",
+		"screenshot_url": null
+	}],
+	"Orchestration": [{
+		"curated_id": "xlWF0Ge2uqlxx8X116dxmIpcw0F4NiNxb7TKL89K0dsQs117",
+		"title": "Containerized CI Solutions in AWS u2013 Part 1: Jenkins in ECS",
+		"link": "https://dzone.com/articles/containerized-ci-solutions-in-aws-part-1-jenkins-i",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "wmSOLwHgXbScE0mnlWc1QxVbRXOM4fAapJ123ZqlE7x1k117",
+		"title": "GitLab CI: Deployment & Environments",
+		"link": "https://about.gitlab.com/2016/08/26/ci-deployment-and-environments/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "about.gitlab.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "7t03pOVUwl5w2UMjdePOCiBj6AKIPdvArm3jH123Lnp123Q117",
+		"title": "Jenkins Templates for AWS CloudFormation",
+		"link": "https://dzone.com/articles/jenkins-templates-for-aws-cloudformation",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	}],
+	"Partners": [{
+		"curated_id": "11689H2LhzlQn116GjNzUp010pvFXnSY116K04ku6c8mwx1W0117",
+		"title": "Am I Recognizing and Incenting the Appropriate Partner Behaviors?",
+		"link": "https://www.impartner.com/blog/post/2016/08/24/am-i-recognizing-and-incenting-the-appropriate-partner-behaviors",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.impartner.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "123YSr1RmZ1163QgIq0E116U123Hvvtz9eixI8HjcsUlsj0Bvp0117",
+		"title": "FreeWave Technologies Announces Partnership With Solis Energy",
+		"link": "http://www.remotemagazine.com/main/news/freewave-technologies-announces-partnership-with-solis-energy/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.remotemagazine.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "SOVIYZb9JPGRgtQP7nI123FxnjeKorl1BbWML123AbfbiOc117",
+		"title": "BookingSync and Airbnb are now official partners",
+		"link": "http://blog.bookingsync.com/en/news/2016/8/23/bookingsync-and-airbnb-are-now-official-partners",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "blog.bookingsync.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "0DMJGKjo3OVUL5aDsx6cnqliOnD8vFxOQX6k411HRY4117",
+		"title": "Indix and inRiver Partner to Enrich Product Information",
+		"link": "http://www.indix.com/blog/news/indix-inriver-partnership-enrich-product-information/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.indix.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "ZO3INJeTZRzl2oXnOcyGhv123yJtr9UK6z6xavTmZgplA117",
+		"title": "PSC and LDC Via u2013 The technical reasons for our strategic partnership",
+		"link": "https://xomino.com/2016/08/23/psc-and-ldc-via-the-technical-reasons-for-our-strategic-partnership/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "xomino.com",
+		"screenshot_url": null
+	}],
+	"Patents": [{
+		"curated_id": "CllaaYB46juNK116xMkrbTkqkQVv7wAT116EwsubZdbAMCA117",
+		"title": "Apple Patents Method to Catch Phone Thiefs Fingerprints",
+		"link": "http://www.pcmag.com/news/347365/apple-patents-method-to-catch-phone-thiefs-fingerprints",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "dfcY5XNaoRxVly7fPBWfUIbgkn0u6wlGuGn07g45taA117",
+		"title": "Legislation to Reclaim University Invention from the Trolls",
+		"link": "https://www.eff.org/deeplinks/2016/08/legislation-reclaim-university-invention-trolls",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.eff.org",
+		"screenshot_url": null
+	}],
+	"Performance": [{
+		"curated_id": "9KbYlavBuUy1rXi1237CKgZ84R0KK9qxlqwOQctH0aRhY117",
+		"title": "Load Testing Reflections: Final Notes on Scaling, Capacity Planning, and Bottlenecks",
+		"link": "https://www.apicasystem.com/blog/load-testing-reflections-final-notes-on-scaling-capacity-planning-and-bottlenecks/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.apicasystem.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "GofYQKvpWh116sOEv54bk1K116jSATlUysWEr9Na1Wx9XPE117",
+		"title": "Top Most Overlooked MySQL Performance Optimizations: Part I",
+		"link": "https://dzone.com/articles/top-most-overlooked-mysql-performance-optimization",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	}],
+	"Plans": [{
+		"curated_id": "wOhZk4KU5lSWhIa123lgISWL0rmxkgjc2S116XoemoAuB8Y117",
+		"title": "Ubisoft Retreats from Free-to-Play Business Modelrn",
+		"link": "http://motherboard.vice.com/read/ubisoft-cancels-four-free-to-play-games",
+		"item_date": "2016-08-28 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	}],
+	"Podcasts": [{
+		"curated_id": "OxmVcQ3tNmTAhRoA9GQdSsWdMN116DSj0B3sc0C4MTSq4117",
+		"title": "A search engine for election podcasts",
+		"link": "http://popuparchive.tumblr.com/post/149383436484/a-search-engine-for-election-podcasts#_=_",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "popuparchive.tumblr.com",
+		"screenshot_url": null
+	}],
+	"Policing": [{
+		"curated_id": "hQZnS5hKPS4grrlDrTI7qR29L16iVmV81yyjxwIMtjg117",
+		"title": "Justice Department Pressed to Intervene When Police Arrest Grassroots Journalists",
+		"link": "https://www.eff.org/deeplinks/2016/08/justice-department-pressed-intervene-when-police-arrest-grassroots-journalists",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.eff.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "IG3zAGxx123lPULKrpW2B2TRNuHMxRH1238R8rNfPtCFoi8117",
+		"title": "Baltimore Police Secretly Running Aerial Mass-Surveillance Eye in the Sky",
+		"link": "https://www.aclu.org/blog/free-future/baltimore-police-secretly-running-aerial-mass-surveillance-eye-sky",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.aclu.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "nIMrRLSElCC50w9haYq1z9hPQnjp9qT116eBh2hl7cut8117",
+		"title": "Amusing drunk caught on police bodycam wants footage off the net",
+		"link": "http://boingboing.net/2016/08/22/amusing-drunk-caught-on-bodyca.html",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "boingboing.net",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "5KmqSI7XkRum1pk1HtzysK853Rx18O2vWs23JTmvV7s117",
+		"title": "Chicago Police Push Back on Criticism of Crime-Prediction System",
+		"link": "http://www.pcmag.com/news/347208/chicago-police-push-back-on-criticism-of-crime-prediction-sy",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	}],
+	"Politics": [{
+		"curated_id": "eu7YtBJ7uLSd7iAq9TAc1T1lX1ID2xvsCxIAxUhdfsU117",
+		"title": "STUDY: Outside groups, secret money far more prominent than ever before",
+		"link": "http://www.opensecrets.org/news/2016/08/study-outside-groups-secret-money-far-more-prominent-than-ever-before/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.opensecrets.org",
+		"screenshot_url": null
+	}],
+	"Politics of APIs": [{
+		"curated_id": "8ydIBhETt5vTe2FVUtZRFdzr2ZQoKsPSKgn7PAg1S123k117",
+		"title": "WhatsApp, Trust, & Trusts u2013 Medium",
+		"link": "https://medium.com/@McDapper/whatsapp-trust-trusts-980ec18d71b2#.u91qlp689",
+		"item_date": "2016-08-27 09:07:24",
+		"domain": "medium.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "XdgVroqWULdfgOTF7Rhsw1238hlrPFSi8hyo86kpVQqJ4117",
+		"title": "Facebooku2019s WhatsApp Data Gambit Faces Federal Privacy Complaintrn",
+		"link": "http://motherboard.vice.com/read/whatsapp-facebook-privacy-complaint",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "5JEdT6sX77XKI2PXJWiWX9IqPwIV1GRCrsL123LI4zMBw117",
+		"title": "UK regulator to monitor WhatsApps data sharing with Facebook",
+		"link": "http://www.reuters.com/article/us-facebook-whatsapp-uk-idUSKCN11125J",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "shVfPSLWRPLmg4Gtqk92QL3kOmZzLTBQWEa94WNDAcc117",
+		"title": "WhatsApp + Facebook: When does the sharing end?",
+		"link": "https://www.abine.com/blog/2016/whatsapp-facebook-when-does-the-sharing-end/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.abine.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "pMfInYSRpavlfaDO9Jdcyrrgm00wc1163he4G116JCoF6A0117",
+		"title": "Automation requires humanity",
+		"link": "http://www.itsecurityguru.org/2016/08/25/automation-requires-humanity/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "rMw123Sso1oB7j6wU2KxO1236eWer2A7geZyCX4DwOeS1164c117",
+		"title": "Class Complains That Twitter App Turned Them Into Trading Cards",
+		"link": "http://www.courthousenews.com/2016/08/26/class-complains-that-twitter-app-turned-them-into-trading-cards.htm",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.courthousenews.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "7woSsTefKGDVuQSriaGv9SbF7chUCnCu0eQA2QtE6SE117",
+		"title": "Oracle pushing hard for Android-Java re-retrial while Google fails to justify its lies to the jury",
+		"link": "http://www.fosspatents.com/2016/08/oracle-pushing-hard-for-android-java-re.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.fosspatents.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "crn2AOTl6J123ellzD6YnBQZ4cEtNyrPwRaJGgSOVoepU117",
+		"title": "Relaxing Privacy Vow, WhatsApp to Share Some Data With Facebook",
+		"link": "http://www.nytimes.com/2016/08/26/technology/relaxing-privacy-vow-whatsapp-to-share-some-data-with-facebook.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.nytimes.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "jEbThplS6ybGA9yxiZWCSMCHZsA123Sqgorre0OL8giXM117",
+		"title": "Tee: YOU WOULDNT REIMPLEMENT AN API",
+		"link": "http://boingboing.net/2016/08/25/tee-you-wouldnt-reimplement.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "boingboing.net",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "6Hj116qtZwn3M7DvE116MyAlFDkk5ZeMNKU0jVHqy6SO1b8117",
+		"title": "Think Twice Before Opting To Modernize Legacy Systems",
+		"link": "http://www.cioreview.com/news/think-twice-before-opting-to-modernize-legacy-systems-nid-18325-cid-119.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.cioreview.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "TWBU9ZMRxJac2LV4hYbXdEXr9V2OIhxWsms9gUbzv5U117",
+		"title": "WhatsApp wooed users with privacy promise, but will soon share data with Facebook",
+		"link": "http://boingboing.net/2016/08/25/whatsapp-wooed-users-with-priv.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "boingboing.net",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "zWha3HyaBnth99pgYroKojse6zEDPLCX1Mx2RXsgFRc117",
+		"title": "A Startup Is Automating the Lawsuit Strategy Peter Thiel Used to Kill Gawkerrn",
+		"link": "http://motherboard.vice.com/read/legalist-is-automating-the-lawsuit-strategy-peter-thiel-used-to-kill-gawker",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "ICfh3g7gY94YC0ZXEmZoqDKvp9ElZ06pWGMSdd3JuTY117",
+		"title": "CloudFlare stands up for Internet users by insisting on proper court orders &amp; fair process before blocking.",
+		"link": "https://www.eff.org/deeplinks/2016/08/cloudflare-protects-internet-users-insisting-lawful-orders-blocking-customers",
+		"item_date": "2016-08-23 16:47:59",
+		"domain": "www.eff.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "cwJExye123M2kt123qjTXvkm3WUF4cLKlJuegYayIqnzrPQ117",
+		"title": "5 Signs You Are a Big Data Hoarder",
+		"link": "http://data-informed.com/5-signs-you-are-a-big-data-hoarder/",
+		"item_date": "2016-08-23 11:36:01",
+		"domain": "data-informed.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "qlCMBGjbkOPY0xnwwEPvLLAoPeavSOBk5frYHMHes4o117",
+		"title": "Why Twitter Was the Platform of Choice for Ripping Apart the NSA Dumprn",
+		"link": "http://motherboard.vice.com/read/why-twitter-was-the-platform-of-choice-for-ripping-apart-the-nsa-dump",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "PEQvmMR123yP4v1ngUzHE312PZdMP8joh5123UJ653d0Mng117",
+		"title": "An Existential Threat",
+		"link": "http://blogs.forrester.com/george_colony/16-08-22-an_existential_threat",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blogs.forrester.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "xkQeSClXQcTYJhm92ZYTw35S8Yk1234k688C4bs92RPzo117",
+		"title": "Evenly Distributed Future",
+		"link": "https://blog.cloudflare.com/evenly-distributed-future/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blog.cloudflare.com",
+		"screenshot_url": null
+	}],
+	"Prisons": [{
+		"curated_id": "nqBRWQwFpvesJ6TAufpVQOPTNsHA9tPMm5qAJuSi97s117",
+		"title": "Spotlight on private prisons: lobbying and otherwise",
+		"link": "http://www.opensecrets.org/news/2016/08/spotlight-on-private-prisons-lobbying-and-otherwise/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.opensecrets.org",
+		"screenshot_url": null
+	}],
+	"Privacy": [{
+		"curated_id": "XdgVroqWULdfgOTF7Rhsw1238hlrPFSi8hyo86kpVQqJ4117",
+		"title": "Facebooku2019s WhatsApp Data Gambit Faces Federal Privacy Complaintrn",
+		"link": "http://motherboard.vice.com/read/whatsapp-facebook-privacy-complaint",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "tiwcBQP12BTOds3eETltfwFVaatJgbzM5XGZr2W0MBE117",
+		"title": "Firms Could Target WhatsApp Users After Privacy Policy Change",
+		"link": "http://www.itsecurityguru.org/2016/08/26/firms-could-target-whatsapp-users-after-privacy-policy-change/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "KNywBZ123AsArQ4aydGR9lXHUx5EWGPzdlyFPdOzbFJvM117",
+		"title": "Privacy Shield data transfer agreement now shelters 200 companies",
+		"link": "http://www.pcworld.com/article/3112795/privacy-shield-data-transfer-agreement-now-shelters-200-companies.html#tk.rss_all",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "yKqtpdoSSUgDLjM4j9ZOCN123dZAPt6od3Gybn0FldK0g117",
+		"title": "Ranking Digital Rights: Companies ranked on privacy and free expression respond",
+		"link": "https://www.accessnow.org/transparency-update-companies-respond-rdrs-2015-corporate-accountability-index/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.accessnow.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "5JEdT6sX77XKI2PXJWiWX9IqPwIV1GRCrsL123LI4zMBw117",
+		"title": "UK regulator to monitor WhatsApps data sharing with Facebook",
+		"link": "http://www.reuters.com/article/us-facebook-whatsapp-uk-idUSKCN11125J",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "shVfPSLWRPLmg4Gtqk92QL3kOmZzLTBQWEa94WNDAcc117",
+		"title": "WhatsApp + Facebook: When does the sharing end?",
+		"link": "https://www.abine.com/blog/2016/whatsapp-facebook-when-does-the-sharing-end/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.abine.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "crn2AOTl6J123ellzD6YnBQZ4cEtNyrPwRaJGgSOVoepU117",
+		"title": "Relaxing Privacy Vow, WhatsApp to Share Some Data With Facebook",
+		"link": "http://www.nytimes.com/2016/08/26/technology/relaxing-privacy-vow-whatsapp-to-share-some-data-with-facebook.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.nytimes.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "TWBU9ZMRxJac2LV4hYbXdEXr9V2OIhxWsms9gUbzv5U117",
+		"title": "WhatsApp wooed users with privacy promise, but will soon share data with Facebook",
+		"link": "http://boingboing.net/2016/08/25/whatsapp-wooed-users-with-priv.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "boingboing.net",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "vpxGTJPpPGQNnPHy116WYoTI76o05kGXmYJCRVpYUB4BM117",
+		"title": "Ashley Madison parent broke Canada, Australia privacy laws",
+		"link": "http://www.reuters.com/article/us-ashley-madison-cyber-idUSKCN10Y23C",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "2BeD4lit1AnPDFx3ExI123BcRA0OBsZcfTJ6pDEJE3tZE117",
+		"title": "A Tor General Strike Wants to Shut Down the Tor Network for a Dayrn",
+		"link": "http://motherboard.vice.com/read/a-tor-general-strike-wants-to-shut-down-the-tor-network-for-a-day",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "tevj9PAWRGaTWymaBaRdurUOtqLsafhnuG123EHJAdTgU117",
+		"title": "EFF takes a deep dive into Windows 10s brutal privacy breaches",
+		"link": "http://boingboing.net/2016/08/22/eff-takes-a-deep-dive-into-win.html",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "boingboing.net",
+		"screenshot_url": null
+	}],
+	"Real Tiem": [{
+		"curated_id": "sLQUeUeEWn6vUTr3s9afP4yGbQTqTd5k467kJYzlmA0117",
+		"title": "Announcing Real-time Exporting of your Analytics Data into BigQuery",
+		"link": "https://firebase.googleblog.com/2016/08/real-time-exporting-of-analytics-data-into-bigquery.html",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "firebase.googleblog.com",
+		"screenshot_url": null
+	}],
+	"Real Time": [{
+		"curated_id": "Jk116H3xImrlaKEvfnagiLbUCcMWlBNdQAY1230pedTdvG8117",
+		"title": "React Tools and Libraries",
+		"link": "https://blog.pusher.com/react-tools-and-libraries/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "blog.pusher.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "sLQUeUeEWn6vUTr3s9afP4yGbQTqTd5k467kJYzlmA0117",
+		"title": "Announcing Real-time Exporting of your Analytics Data into BigQuery",
+		"link": "https://firebase.googleblog.com/2016/08/real-time-exporting-of-analytics-data-into-bigquery.html",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "firebase.googleblog.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "3vZOINTVTDDzUQ8tXefCzmdXaCVy7R5Y116xJAat1X30Y117",
+		"title": "Work in real-time with presence for documents and spreadsheets",
+		"link": "https://quip.com/blog/presence-for-documents-spreadsheets",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "quip.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "VfcsE1QlGDvDGHrpegD8NQny0LOXnEcvxxiq4Lbhl3w117",
+		"title": "Build IoT devices with Pusher and Lua",
+		"link": "https://blog.pusher.com/building-iot-devices-with-pusher-and-lua/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blog.pusher.com",
+		"screenshot_url": null
+	}],
+	"Reciprocity": [{
+		"curated_id": "pMfInYSRpavlfaDO9Jdcyrrgm00wc1163he4G116JCoF6A0117",
+		"title": "Automation requires humanity",
+		"link": "http://www.itsecurityguru.org/2016/08/25/automation-requires-humanity/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	}],
+	"Reclaim": [{
+		"curated_id": "byHBgMmm2l9NMAdi1smaiuBY8WTcnRBGCfCFj1B4Fvs117",
+		"title": "Aclara Emphasizes Need to Evaluate Total Cost of Ownership When Choosing Advanced Metering and Communications Networks",
+		"link": "http://www.remotemagazine.com/main/news/aclara-emphasizes-need-to-evaluate-total-cost-of-ownership-when-choosing-advanced-metering-and-communications-networks/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.remotemagazine.com",
+		"screenshot_url": null
+	}],
+	"REgular Expressions": [{
+		"curated_id": "B2In40nJc20nwcHdpGF7WKO337xgxmp70AsqFM2hJDY117",
+		"title": "Regular Expression to Validate a Comma-Separated List of Email Addresses",
+		"link": "https://dzone.com/articles/regular-expression-to-validate-a-comma-separated-l",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	}],
+	"Regulation": [{
+		"curated_id": "GfUK4Zzp1XRW5QcZ5q9KI0OE3kd57IRp1163J116IrDSwWA117",
+		"title": "Hackers call for federal funding, regulation of software security",
+		"link": "https://www.the-parallax.com/2016/08/09/hackers-federal-funding-regulation-software-security/",
+		"item_date": "2016-08-26 10:03:01",
+		"domain": "www.the-parallax.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "mTKq8Dv9nNievE467PGLaKA116k1DvbwuouHY29L116cF9g117",
+		"title": "European Copyright Leak Exposes Plans to Force the Internet to Subsidize Publishers",
+		"link": "https://www.eff.org/deeplinks/2016/08/european-copyright-leak-exposes-plans-force-internet-subsidize-publishers",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.eff.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "5JEdT6sX77XKI2PXJWiWX9IqPwIV1GRCrsL123LI4zMBw117",
+		"title": "UK regulator to monitor WhatsApps data sharing with Facebook",
+		"link": "http://www.reuters.com/article/us-facebook-whatsapp-uk-idUSKCN11125J",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "60sXXzuE123COfsUqpJ2WaPJNSFDumPoT95EZR1123L4GmE117",
+		"title": "Tell FCC to Enforce Its Rules Against Police Using Stingrays",
+		"link": "https://act.eff.org/action/tell-fcc-to-enforce-its-rules-against-police-using-stingrays",
+		"item_date": "2016-08-23 17:38:29",
+		"domain": "act.eff.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "yQVm2R6y7vZDBYkPgOQhF2NANaySxwv7hrohrwp116NpE117",
+		"title": "UPDATE 1-U.S. trade judge clears Fitbit of stealing Jawbones trade secrets",
+		"link": "http://www.reuters.com/article/us-fitbit-jawbone-idUSKCN10Y29Y",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "wnEY51GACpzPGENhj5ePiZNRVosgGOAJwzbQ3DHs9fM117",
+		"title": "Everything You Need to Know About Creating HIPAA Compliant Medical Forms with 123ContactForm",
+		"link": "http://blog.123contactform.com/2016/08/everything-you-need-to-know-about-creating-hipaa-compliant-medical-forms-with-123contactform/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blog.123contactform.com",
+		"screenshot_url": null
+	}],
+	"Research": [{
+		"curated_id": "M70mgZC8a9OMZlltopZ4ZcvnjTFnrcXTIizDtzGcIdQ117",
+		"title": "Do Your Part! Illegally Download Scientific Papers",
+		"link": "http://boingboing.net/2016/08/25/do-your-part-illegally-downlo.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "boingboing.net",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "VO46swJu6RZoR4McWY3m1GqEww2W6O8NyXEX3Pbq123io117",
+		"title": "Introducing Elsevier DataSearch",
+		"link": "https://blog.mendeley.com/2016/08/24/introducing-elsevier-datasearch/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "blog.mendeley.com",
+		"screenshot_url": null
+	}],
+	"Robots": [{
+		"curated_id": "iFw1YgHM2FwO9ncMRaNxj9taoZpJUyI3WmCQZ11P2Sw117",
+		"title": "Meet the Octobot, Harvards Fully Autonomous Soft Robotrn",
+		"link": "http://motherboard.vice.com/read/soft-robotics-goes-autonomous-harvard",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "MpAONIvK3Wsfq5ucC9eGv1Bv2n4jlh1q3C123CwTYJf50117",
+		"title": "PowerEgg u2014 The flying robot by PowerVision",
+		"link": "http://www.powervision.me/html_en/html/poweregg.html",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.powervision.me",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "NDbxfx4w12348IqkqHznztLSLUedRZC8g8lEm4YSKojRk117",
+		"title": "Iraq to Battle ISIS With Machine Gun-Toting Robot ",
+		"link": "http://www.pcmag.com/news/347266/iraq-to-battle-isis-with-machine-gun-toting-robot",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "rOQft0CdAw1169tRlB81230E1231yQbK4QXRPWYBh1233oWvtaI117",
+		"title": "Rich and powerful warn robots are coming for your jobs",
+		"link": "https://planbox.com/2016/08/23/rich-powerful-warn-robots-coming-jobs-automation-technology/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "planbox.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "G116WPQt7tYpdE7ieGyykxh7eUXaCEvdHTQwoWe5lPjUM117",
+		"title": "Robotics Can Get Girls Into STEM, but Some Still Need Convincing #makereducation",
+		"link": "https://blog.adafruit.com/2016/08/23/robotics-can-get-girls-into-stem-but-some-still-need-convincing-makereducation/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "blog.adafruit.com",
+		"screenshot_url": null
+	}],
+	"SaaS": [{
+		"curated_id": "gC3sgmouucJWRHcVwIrtwl94VdWUV2brRRHb2UgkI24117",
+		"title": "Insights from SaaS companies u2014 A guide for SaaS founders",
+		"link": "https://prowly.com/magazine/saasbuzz/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "prowly.com",
+		"screenshot_url": null
+	}],
+	"Science": [{
+		"curated_id": "yDoPD5KBRuLA123rHn123MO3rWumj2ur3um59LdjPMhlUnY117",
+		"title": "Universal Data Catalog Empowers Citizen Data Scientists",
+		"link": "https://dzone.com/articles/universal-data-catalog-empowers-citizen-data-scien",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	}],
+	"Scraping": [{
+		"curated_id": "LKwPxgs9ZvjOXb9ZPgjESoUyaO0YGL7jquRKWV6mmk4117",
+		"title": "How to Crawl the Web Politely with Scrapy",
+		"link": "https://blog.scrapinghub.com/2016/08/25/how-to-crawl-the-web-politely-with-scrapy/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "blog.scrapinghub.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "TmJfyi1yDFtm116OXxc0kFCnQYi9fMn9i11609Cb123N8hN9U117",
+		"title": "I Dont Need No Stinking API - Web Scraping in 2016 and Beyond",
+		"link": "https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "franciskim.co",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "VUuuv123rOeQEyNlCphWL17w5SfZrt2a8iB98O9RUug9Q117",
+		"title": "Facebook Twitter Scraper For Business (Search)",
+		"link": "https://codecanyon.net/item/facebook-twitter-scraper-for-business/17526127",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "codecanyon.net",
+		"screenshot_url": null
+	}],
+	"SDK": [{
+		"curated_id": "k0O0VwJq1235oZ3P45Zu4C5ZMV6Rhdwe20v1HoQhaO9rs117",
+		"title": "Acrobits Mobile SDK Quick Start Guide",
+		"link": "http://ap.bandwidth.com/docs/mobile-voipvoice-client-sdks/acrobits-mobile-sdk-quick-start-guide/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "ap.bandwidth.com",
+		"screenshot_url": null
+	}],
+	"Search": [{
+		"curated_id": "LyEe67FCLqNlR7yToOrhbgCA1AczmEtXxDqL2nxSu6E117",
+		"title": "Scaling Elasticsearch",
+		"link": "https://dzone.com/articles/scaling-elasticsearch",
+		"item_date": "2016-08-28 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	}],
+	"Security": [{
+		"curated_id": "GfUK4Zzp1XRW5QcZ5q9KI0OE3kd57IRp1163J116IrDSwWA117",
+		"title": "Hackers call for federal funding, regulation of software security",
+		"link": "https://www.the-parallax.com/2016/08/09/hackers-federal-funding-regulation-software-security/",
+		"item_date": "2016-08-26 10:03:01",
+		"domain": "www.the-parallax.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "yD8KjdypEc9F6Nt09JzHA116ln123P099p1232T0cca2zh116tk117",
+		"title": "A quarter of banksu2019 data breaches are down to lost phones and laptops",
+		"link": "http://www.itsecurityguru.org/2016/08/26/a-quarter-of-banks-data-breaches-are-down-to-lost-phones-and-laptops/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "fuPVGUcqXmyeRqASODPs2kJiGofL7kvG6HRK2OLGRFw117",
+		"title": "How the Automated Attacks on the Poku00e9mon GO API Happened",
+		"link": "http://www.programmableweb.com/news/how-automated-attacks-pok%C3%A9mon-go-api-happened/elsewhere-web/2016/08/26",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.programmableweb.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "sKbk9mYwIh4uggQQiASxcrn8kkDN11161236HGHMbD49e4E117",
+		"title": "Medical device security ignites an ethics firestorm",
+		"link": "http://www.pcworld.com/article/3113054/medical-device-security-ignites-an-ethics-firestorm.html#tk.rss_all",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "BYYgJ123becr3pjuRn0L6lEkwxrC2c1RJgY8aO116nVzf2I117",
+		"title": "Confusing Security Risks with Moral Judgments",
+		"link": "https://www.schneier.com/blog/archives/2016/08/confusing_secur.html",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.schneier.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "irevefXnaiHNusMu0J1161Kq4eW9XisXS2Puh9Mz2O4Ys117",
+		"title": "CrowdStrike Integrates Scanning Engine With VirusTotal ",
+		"link": "http://www.darkreading.com/vulnerabilities---threats/crowdstrike-integrates-scanning-engine-with-virustotal-/d/d-id/1326735",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.darkreading.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "VjqIWPZ78lPXt6YKANnV2wWRJDADND5VIiyk2dTzUB4117",
+		"title": "Hereu2019s Exactly Why SMS Two-Factor Is Not Enough",
+		"link": "https://continuum.cisco.com/2016/08/25/heres-exactly-why-sms-two-factor-is-not-enough/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "continuum.cisco.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "7BXhOZTIXfxe38nDUZpNGRIw0lcHudSO1EAvEpHEQrQ117",
+		"title": "How the Consumer Product Safety Commission is (Inadvertently) Behind the Internetu2019s Largest DDoS Attacks",
+		"link": "https://blog.cloudflare.com/how-the-consumer-product-safety-commission-is-inadvertently-behind-the-internets-largest-ddos-attacks/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "blog.cloudflare.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "SopIOLkNl6UVMkNWoacWMxqOJxaKkco2Eh2U1165f1239C8117",
+		"title": "ICS-CERT Releases WMI for Detection and Response White Paper",
+		"link": "https://ics-cert.us-cert.gov/ICS-CERT-Releases-WMI-Detection-and-Response-White-Paper",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "ics-cert.us-cert.gov",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "R4Sa0E8JQg5cKK8TVWDNwu2hvQVtD2a7QpFM116unEsUU117",
+		"title": "In Case You Missed These: AWS Security Blog Posts from June, July, and August",
+		"link": "https://blogs.aws.amazon.com/security/post/Tx3KVD6T490MM47/In-Case-You-Missed-These-AWS-Security-Blog-Posts-from-June-July-and-August",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "blogs.aws.amazon.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "f31eKaGNinpMEnYyoK9FeIeYcm5pFJdSep8Ldmcb85k117",
+		"title": "Informatica CEO: Data security is an unsolved problem",
+		"link": "http://www.pcworld.com/article/3112641/informatica-ceo-data-security-is-an-unsolved-problem.html#tk.rss_all",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "pBTR4zPLnWRMWypXxpsLWdxzl03PYteojeBMjVoOLRU117",
+		"title": "More security companies sharing information in malware fight",
+		"link": "http://disruptiveviews.com/security-companies-sharing-information/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "disruptiveviews.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "3dG116J1kZHJ7uMK4SKOG5LtUKlevVw116ye123rO7Ev55Vxo117",
+		"title": "United Airlines Sets Minimum Bar on Security",
+		"link": "http://www.itsecurityguru.org/2016/08/25/united-airlines-sets-minimum-bar-on-security/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "bB4qxRWGrFzaBwHAb0lKvKphFo9prBSeHjJExt1Ylqk117",
+		"title": "Newly Released Exploits Affect Cisco, Juniper & Other Vendors",
+		"link": "https://duo.com/blog/newly-released-exploits-affect-cisco-juniper-and-other-vendors",
+		"item_date": "2016-08-24 12:24:29",
+		"domain": "duo.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "awJiHzTgWLdPUO2qp2Ttw3apCmJRoTsqw09t34vgJlc117",
+		"title": "Announcing Password Breach Detection for Auth0",
+		"link": "https://auth0.com/blog/announcing-password-breach-detection/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "auth0.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "q9TbnxSWnlD6arN116qZ61rvpWnfpIH5HfUUYl1Yc8no8117",
+		"title": "u2018Grand Theft Autou2019 Fan Site Hacked",
+		"link": "http://www.itsecurityguru.org/2016/08/24/grand-theft-auto-fan-site-hacked/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "w9pyPpaV116AOeUfkO63hgbmoKHW47aE5bdYi2Z116gbflg117",
+		"title": "Poor security u2018aidedu2019 Ashley Madison hack",
+		"link": "http://www.itsecurityguru.org/2016/08/24/poor-security-aided-ashley-madison-hack/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "bv4PbXJmjSYIWA7o9AbeX116d2aUkGeIVwiAvjw116XjUZM117",
+		"title": "Protecting Microsoft Email with Duo",
+		"link": "https://duo.com/blog/protecting-microsoft-email-with-duo",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "duo.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "0123fgGa0zVV917Z18ROJkulKhe5cg3TNIVNtgPv28fhc117",
+		"title": "Security Leadership & The Art Of Decision Making ",
+		"link": "http://www.darkreading.com/analytics/security-leadership-and-the-art-of-decision-making-/a/d-id/1326716",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.darkreading.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "123vKCacYTVLstSMW3gzfNNr36xZ4v47usNk2iqRxrCMM117",
+		"title": "When Securing Your Applications, Seeing Is Believing",
+		"link": "http://www.darkreading.com/cloud/when-securing-your-applications-seeing-is-believing/a/d-id/1326710",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.darkreading.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "oB116YYLiimUtPuAfDefTVjQGraX2jXybUufONmHwMlEo117",
+		"title": "Anatomy Of A Social Media Attack",
+		"link": "http://www.darkreading.com/analytics/anatomy-of-a-social-media-attack/a/d-id/1326680",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.darkreading.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "LXtRqqxLaxESW1hS9UgH1HWodvgb8t6HPNa9pHbkWiU117",
+		"title": "Ashley Madison misled users with a fake security award",
+		"link": "http://www.pcworld.com/article/3111414/security/ashley-madison-misled-users-with-a-fake-security-award.html#tk.rss_all",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "8PW92neGQ6PfKeSPhRlO9rjAK9FcjOXqZjYdh116a1UzA117",
+		"title": "Bounty hunters are legally hacking Apple and the Pentagon u2013 for big money",
+		"link": "http://www.itsecurityguru.org/2016/08/23/bounty-hunters-are-legally-hacking-apple-and-the-pentagon-for-big-money/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Nd7dubgWtuP5aqdRwILf87UyIsD13smRWRK3QM1167PJA117",
+		"title": "Epic Games forum hack underscores the need to install security patches",
+		"link": "http://www.pcworld.com/article/3111269/security/epic-games-forum-hack-underscores-the-need-to-install-security-patches.html",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "ub116A87Lhndxpyh8c123HEiKLvFbC1eMGjZjtSiQoXlgdw117",
+		"title": "Hit-And-Run Tactics Fuel Growth In DDoS Attacks",
+		"link": "http://www.darkreading.com/attacks-breaches/hit-and-run-tactics-fuel-growth-in-ddos-attacks/d/d-id/1326709",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.darkreading.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "phN1t4hygTaspXZOn1nWaYrTEP123GAuEFEOfpkOop116Zo117",
+		"title": "Securing the Enterprise Software Supply Chain Using Docker",
+		"link": "https://blog.docker.com/2016/08/securing-enterprise-software-supply-chain-using-docker/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "blog.docker.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "kLk116mE123YVidfWJi116i116l3QtVuWO6XvCzRVCD2392s3yE117",
+		"title": "ThreatQuotient Secures $12M in Series B Funding",
+		"link": "http://www.finsmes.com/2016/08/threatquotient-secures-12m-in-series-b-funding.html",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.finsmes.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "JIn123sRAU4tvuXlSGnCdAG4Gj4qDVf6y3sGeoc7pX0r8117",
+		"title": "Trailbot u2014 Monitor your files and react upon unwanted modification",
+		"link": "https://trailbot.io/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "trailbot.io",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "IhhjYrcfz123RJ5k7GUS1PYWxP8v0oJuKUhTZAkTX1X44117",
+		"title": "Your Software is Safer in Docker Containers",
+		"link": "https://blog.docker.com/2016/08/software-security-docker-containers/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "blog.docker.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "A1tPgT2Z0pzSzJbra30p7jDrLkOuPRn9u123nsbXpcJiE117",
+		"title": "Cloud Use Increases Attack Surface, But Security Not Keeping Up",
+		"link": "http://www.infosecurity-magazine.com/news/cloud-use-increases-attack-surface/",
+		"item_date": "2016-08-22 12:16:22",
+		"domain": "www.infosecurity-magazine.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "NSS2mDHYISlpZ3d6Z3IlDD116lSO9CgP0c1lBNTUQXoDU117",
+		"title": "I Thought I Was a Security Rockstar. I Was Just Stupid",
+		"link": "https://www.liquidmatrix.org/blog/2016/08/22/thought-security-rockstar-just-stupid/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.liquidmatrix.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "zm116ccT8aXQumnkMy7PTZSgQqJf7sRg123eD116JONsF123a116Q117",
+		"title": "Passwords u2018brokenu2019, warning rethink on security needed",
+		"link": "http://www.itsecurityguru.org/2016/08/22/passwords-broken-warning-rethink-on-security-needed/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "F5axnEIQvQmyQWLmHk5SN7HXBiCKZfWGiUhd4o9oj94117",
+		"title": "Security Weekly #477 u2013 Security News",
+		"link": "http://securityweekly.com/2016/08/22/security-weekly-477-security-news/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "securityweekly.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "WKFFbr85fPDlxBZQlvUNvKcwECXACsTuT9we72ZfH8Q117",
+		"title": "Why biometrics are less secure than passwords",
+		"link": "http://www.itsecurityguru.org/2016/08/22/why-biometrics-are-less-secure-than-passwords/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	}],
+	"Serverless": [{
+		"curated_id": "13fbQGyL1KDfwQiMNWUkYfvDj8gxv01235K0i61Sk1P8w117",
+		"title": "The Data Briefing: Microservices and Serverless Apps u2014 A New Direction for Federal Government Mobile Apps?",
+		"link": "https://www.digitalgov.gov/2016/08/24/the-data-briefing-microservices-and-serverless-apps-a-new-direction-for-federal-government-mobile-apps/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.digitalgov.gov",
+		"screenshot_url": null
+	}],
+	"Showcase": [{
+		"curated_id": "1AVbt7123V4hF3NLpTCauNkqWws116Bc2kxoYp3u8Z6KzzM117",
+		"title": "Developer Spotlight: How One Developeru2019s Passion Project Led to Lexi, the Alexa-Enabled Mobile App",
+		"link": "https://developer.amazon.com/appsandservices/community/post/Tx3HRGTBR264DGE/Developer-Spotlight-How-One-Developer-s-Passion-Project-Led-to-Lexi-the-Alexa-En",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "developer.amazon.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "kyvGNXeDd3XjoK1qg57N4kLKeuaJ3dXY87iLhqouAhg117",
+		"title": "Our new integration with @screenmeet allows users to share content from Box in real-time",
+		"link": "https://blog.box.com/blog/mobile-sharing-directly-box-screenmeet/",
+		"item_date": "2016-08-24 10:34:30",
+		"domain": "blog.box.com",
+		"screenshot_url": null
+	}],
+	"Single Page Applications": [{
+		"curated_id": "Inl9Kknq123rtswImPLXzfymWynFIoW5lEY32kLpGhjOw117",
+		"title": "Getting Started and Testing With Angular CLI and Angular 2 (RC5) u2014 Part 2",
+		"link": "https://dzone.com/articles/getting-started-and-testing-with-angular-cli-and-angular-2-rc5-part-2",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Jk116H3xImrlaKEvfnagiLbUCcMWlBNdQAY1230pedTdvG8117",
+		"title": "React Tools and Libraries",
+		"link": "https://blog.pusher.com/react-tools-and-libraries/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "blog.pusher.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "FYZWM1h94piqo6QogvahcJ8mwHsaTd6Lo7hQ8cwlMmo117",
+		"title": "Reactotron u2014 A CLI & OS X app for inspecting ReactJS & React Native apps",
+		"link": "https://github.com/reactotron/reactotron",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "github.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "pHQHG7qSqUOK1pIXrb06tlosrmTfVgvnsdhRi8KwV4A117",
+		"title": "Animated String Diffing With React and D3",
+		"link": "https://swizec.com/blog/animated-string-diffing-with-react-and-d3/swizec/6952",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "swizec.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "c7SDrtTjcRYU0RzefkS8Bb7zEo9ouw4NXIolayzWMiA117",
+		"title": "Learning Angular 2: Upgrading to Angular 2 RC5",
+		"link": "https://dzone.com/articles/learning-angular-2-upgrading-to-angular-2-rc5",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	}],
+	"Social": [{
+		"curated_id": "NXzSmG9lc2pqkNHJ41LoK123m86Nvd172qku1jgJ8PTnM117",
+		"title": "Login with Facebook ( In 20 lines of PHP code ) ",
+		"link": "http://motyar.blogspot.com/2016/08/login-with-facebook-in-20-lines-of-php.html",
+		"item_date": "2016-08-28 00:00:00",
+		"domain": "motyar.blogspot.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "mc9tddMisCfoJbq1nNIVIuSN4aJ8N38IW814dm1X116bI117",
+		"title": "Snapchat plans to use your behavioural data to target you with ads",
+		"link": "http://www.computermagazine.com/syndicated/snapchat-plans-to-use-your-behavioural-data-to-target-you-with-ads/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.computermagazine.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "TvXClzTMM8YDuUWllTEg116hy6ktIS9c7ivQhZQSLQuwk117",
+		"title": "UK: Social Networks Consciously Failing to Combat Online Terrorism",
+		"link": "http://www.pcmag.com/news/347325/uk-social-networks-consciously-failing-to-combat-online-t",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.pcmag.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "fiApqMNFBV3O4ZvNM3XDzVP2CN116TclldaCTeVRO123G54117",
+		"title": "REFILE-Social media giants must do more to police sites",
+		"link": "http://www.reuters.com/article/us-britain-security-socialmedia-idUSKCN1101JF",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "FoOHCAGfSER9L1233123X123p6P5hZwQsg5GCpQCqUGsIjuYg117",
+		"title": "Offline Conversions API Available via Facebook Business Manager",
+		"link": "http://socialmindseu.blogspot.com/2016/08/offline-conversions-api-available-via.html",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "socialmindseu.blogspot.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "qlCMBGjbkOPY0xnwwEPvLLAoPeavSOBk5frYHMHes4o117",
+		"title": "Why Twitter Was the Platform of Choice for Ripping Apart the NSA Dumprn",
+		"link": "http://motherboard.vice.com/read/why-twitter-was-the-platform-of-choice-for-ripping-apart-the-nsa-dump",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "VUuuv123rOeQEyNlCphWL17w5SfZrt2a8iB98O9RUug9Q117",
+		"title": "Facebook Twitter Scraper For Business (Search)",
+		"link": "https://codecanyon.net/item/facebook-twitter-scraper-for-business/17526127",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "codecanyon.net",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "nw2oZ9j1PKbv0bEkDGEBEavHvSrVU2BmYMDTEwo8d8o117",
+		"title": "Thousands object to U.S. plan to collect social media info at border",
+		"link": "https://www.accessnow.org/thousands-object-u-s-government-plan-collect-social-media-information-border/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.accessnow.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "zNB116zkkMuYtJb0Um5pgKYav9paOWWE5u12sbqWHsZyY117",
+		"title": "U.S. Customs and Border Protection Wants to Know Who You Are on Twitteru2014But Itu2019s a Flawed Plan",
+		"link": "https://www.eff.org/deeplinks/2016/08/us-customs-and-border-protection-wants-know-who-you-are-twitter-its-flawed-plan",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.eff.org",
+		"screenshot_url": null
+	}],
+	"Space": [{
+		"curated_id": "116sJ116fqrexleEbDV3K92Sk45oHRxH0hdE6NeEcjofGdU117",
+		"title": "NASA Pulls Together National Data to Sleuth Out Air Traffic Improvement Mysteries",
+		"link": "https://www.digitalgov.gov/2016/08/26/nasa-pulls-together-national-data-to-sleuth-out-air-traffic-improvement-mysteries/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.digitalgov.gov",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "TBS06hathbysWgVh2F1hndDaCDFoCi9sxGF4gkD116T7k117",
+		"title": "The First Photographs of the Earth from the Moon Were Taken 50 Years Ago Todayrn",
+		"link": "http://motherboard.vice.com/read/the-first-photographs-of-the-earth-from-the-moon-were-taken-50-years-ago-today",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	}],
+	"Spreadsheets": [{
+		"curated_id": "3vZOINTVTDDzUQ8tXefCzmdXaCVy7R5Y116xJAat1X30Y117",
+		"title": "Work in real-time with presence for documents and spreadsheets",
+		"link": "https://quip.com/blog/presence-for-documents-spreadsheets",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "quip.com",
+		"screenshot_url": null
+	}],
+	"Static": [{
+		"curated_id": "UzKNufG123VrEggGfTVGnbV2P7JycsA8IjCW5b2OUmPEY117",
+		"title": "jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.",
+		"link": "https://github.com/jekyll/jekyll-admin",
+		"item_date": "2016-08-26 18:37:29",
+		"domain": "github.com",
+		"screenshot_url": null
+	}],
+	"Story": [{
+		"curated_id": "d9MD98LlJ9a0heh12Q3uOkG7I5TXOREjPCocBpbTqTA117",
+		"title": "St. Jude Denies Report Its Heart Devices Are Vulnerable to Cyberattacks",
+		"link": "http://www.wsj.com/articles/st-jude-denies-report-its-heart-devices-are-vulnerable-to-cyber-attacks-1472245424",
+		"item_date": "2016-08-26 15:54:28",
+		"domain": "www.wsj.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "116n116jeXDSDgBu3Ov5IvthKUsuhVOH1FcjBqs4qiRfXPA117",
+		"title": "This Android botnet relies on Twitter for its commands",
+		"link": "http://www.pcworld.com/article/3112174/security/this-android-botnet-relies-on-twitter-for-its-commands.html#tk.rss_all",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "PEQvmMR123yP4v1ngUzHE312PZdMP8joh5123UJ653d0Mng117",
+		"title": "An Existential Threat",
+		"link": "http://blogs.forrester.com/george_colony/16-08-22-an_existential_threat",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blogs.forrester.com",
+		"screenshot_url": null
+	}],
+	"Storytelling": [{
+		"curated_id": "wWNPHkWk123WqRz0ZqhLvM116ecVv8Sdfe42jVfT9wWHM8M117",
+		"title": "7 Strategies for Effective Visual Storytelling",
+		"link": "https://blogs.adobe.com/creativecloud/7-strategies-for-effective-visual-storytelling/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blogs.adobe.com",
+		"screenshot_url": null
+	}],
+	"Surveillance": [{
+		"curated_id": "sa29CL123cln8zXt123zyN116R5hDzVJIaWPT6awAxRCu4F0Q117",
+		"title": "All the Ways Your Wi-Fi Router Can Spy on You",
+		"link": "http://www.theatlantic.com/technology/archive/2016/08/wi-fi-surveillance/497132/",
+		"item_date": "2016-08-26 16:20:26",
+		"domain": "www.theatlantic.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "116QLAaVOLQufGsBTsqRq3pre817FTGT1162SE5IS9AeDU4117",
+		"title": "Researchers Develop Facial Recognition that Works in Poor Lighting",
+		"link": "https://dzone.com/articles/researchers-develop-facial-recognition-that-works",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "mc9tddMisCfoJbq1nNIVIuSN4aJ8N38IW814dm1X116bI117",
+		"title": "Snapchat plans to use your behavioural data to target you with ads",
+		"link": "http://www.computermagazine.com/syndicated/snapchat-plans-to-use-your-behavioural-data-to-target-you-with-ads/",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.computermagazine.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "8DcLk1231Ylka6PsEOZePtSaZOBO9h116KOuq116dQl1235Xh00117",
+		"title": "Baltimore Police Cant Explain Why Their All-Seeing Spy Planes Were Kept Secretrn",
+		"link": "http://motherboard.vice.com/read/baltimore-police-cant-explain-why-their-all-seeing-spy-planes-were-kept-secret",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "orUR8116aUxHcMstw6fKsOCIbiGm11MJlmLQthdQeMVD4117",
+		"title": "Relative vs. Absolute Approaches to the Content/Metadata Line",
+		"link": "https://www.lawfareblog.com/relative-vs-absolute-approaches-contentmetadata-line",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.lawfareblog.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "IG3zAGxx123lPULKrpW2B2TRNuHMxRH1238R8rNfPtCFoi8117",
+		"title": "Baltimore Police Secretly Running Aerial Mass-Surveillance Eye in the Sky",
+		"link": "https://www.aclu.org/blog/free-future/baltimore-police-secretly-running-aerial-mass-surveillance-eye-sky",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.aclu.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "123J8B81yYTr0EeHW86ClH28z116WiD4CJXA7o6bYFw36gU117",
+		"title": "Eagle Eye Networks Awards $1.25 M in Drako Cloud Security Grants for Schools",
+		"link": "https://www.eagleeyenetworks.com/awards-1-25-m-in-drako-cloud-security-grants-for-schools/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.eagleeyenetworks.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "M2COhEvYbngz4i92Kkh7vHsIPzYTeAzdonLtSz3Y7sc117",
+		"title": "SDM Mag: Eagle Eye Networks Awards $1.25 Million in Drako Cloud Security Grants",
+		"link": "https://www.eagleeyenetworks.com/11578/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.eagleeyenetworks.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "Yr1jq0Ax4aW1WgJD98n6zSaUz107crw5YaDRIk28Gfo117",
+		"title": "Security Sales News: Eagle Eye Networks looking out for School Safety",
+		"link": "https://www.eagleeyenetworks.com/security-sales-news-eagle-eye-networks-looking-out-for-school-safety/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.eagleeyenetworks.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "60sXXzuE123COfsUqpJ2WaPJNSFDumPoT95EZR1123L4GmE117",
+		"title": "Tell FCC to Enforce Its Rules Against Police Using Stingrays",
+		"link": "https://act.eff.org/action/tell-fcc-to-enforce-its-rules-against-police-using-stingrays",
+		"item_date": "2016-08-23 17:38:29",
+		"domain": "act.eff.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "1237jT6HpAAdsNzWABVh123ap5oYKKUt1231Irbqe8PySXKYo117",
+		"title": "Baltimore police worked with a private company to conduct aerial surveillance of the city",
+		"link": "http://www.businessinsider.com/baltimore-police-hired-a-company-to-conduct-aerial-surveillance-of-the-city-2016-8",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.businessinsider.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "UPL7RAEdANCotvWt3b4mfB0Pev7YFy8CxlWweEyV094117",
+		"title": "U.S. plan to collect social media info from visitors faces fierce opposition",
+		"link": "http://www.pcworld.com/article/3111067/security/groups-oppose-us-plan-to-collect-social-media-info-from-visitors.html#tk.rss_all",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "5V1LAP5t0PPVAFnY31238v123K4wr7yl123vFuT4syLAw123R1A117",
+		"title": "Canadian Police Donu2019t Want to Talk About How They Spend Surveillance Dollarsrn",
+		"link": "http://motherboard.vice.com/read/canadian-police-dont-want-to-talk-about-how-they-spend-surveillance-dollars-stingray-imsi-catcher",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "116I2PO8Z6wtexBX55tILSLIm8Kg170i3s331RvC57YUM117",
+		"title": "How the NSA snooped on encrypted Internet traffic for a decade",
+		"link": "http://www.itsecurityguru.org/2016/08/22/how-the-nsa-snooped-on-encrypted-internet-traffic-for-a-decade/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "nw2oZ9j1PKbv0bEkDGEBEavHvSrVU2BmYMDTEwo8d8o117",
+		"title": "Thousands object to U.S. plan to collect social media info at border",
+		"link": "https://www.accessnow.org/thousands-object-u-s-government-plan-collect-social-media-information-border/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.accessnow.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "zNB116zkkMuYtJb0Um5pgKYav9paOWWE5u12sbqWHsZyY117",
+		"title": "U.S. Customs and Border Protection Wants to Know Who You Are on Twitteru2014But Itu2019s a Flawed Plan",
+		"link": "https://www.eff.org/deeplinks/2016/08/us-customs-and-border-protection-wants-know-who-you-are-twitter-its-flawed-plan",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.eff.org",
+		"screenshot_url": null
+	}],
+	"Telco": [{
+		"curated_id": "zGjN0HEj7aUR116UpeP4GPCp8lfpC57116taOfPy123mOwKFs117",
+		"title": "Cybercriminals recruit insiders to attack telecoms providers",
+		"link": "http://www.itsecurityguru.org/2016/08/23/cybercriminals-recruit-insiders-to-attack-telecoms-providers/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	}],
+	"Testing": [{
+		"curated_id": "oErI8RxQhsvNDYDdDQ116FwIKZzJ4VsUmKqRNBKPHcZNo117",
+		"title": "Test Your Swagger API",
+		"link": "https://blog.apiary.io/2016/08/25/Test-Your-Swagger-API",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "blog.apiary.io",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "p5p0sf56zR7ahGyY123fw116HwJrihGYk116xmfo7dy3ZBC6g117",
+		"title": "System Testing in Automated Infrastructure",
+		"link": "https://dzone.com/articles/system-testing-in-automated-infrastructure",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	}],
+	"Transparency": [{
+		"curated_id": "eu7YtBJ7uLSd7iAq9TAc1T1lX1ID2xvsCxIAxUhdfsU117",
+		"title": "STUDY: Outside groups, secret money far more prominent than ever before",
+		"link": "http://www.opensecrets.org/news/2016/08/study-outside-groups-secret-money-far-more-prominent-than-ever-before/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.opensecrets.org",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "nqBRWQwFpvesJ6TAufpVQOPTNsHA9tPMm5qAJuSi97s117",
+		"title": "Spotlight on private prisons: lobbying and otherwise",
+		"link": "http://www.opensecrets.org/news/2016/08/spotlight-on-private-prisons-lobbying-and-otherwise/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.opensecrets.org",
+		"screenshot_url": null
+	}],
+	"Transportation": [{
+		"curated_id": "116kt116VUNWYkE123qkDL123116Hn1qOloHD0St5EwvvZxGblqqU117",
+		"title": "Making data more usable by campaigners: our Outlandish Fellowship",
+		"link": "https://www.cyclestreets.net/blog/2016/08/24/usable-data-for-campaigners/",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.cyclestreets.net",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "KxGsKx2bDrCF7zK0OVRXvTZ0h5cHnagpOXN5Ygcn060117",
+		"title": "Big Trucks Deliver Big Data at Navistar",
+		"link": "http://www.bmc.com/blogs/big-trucks-deliver-big-data-navistar/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.bmc.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "PC2v116VW5cIIV74cyluM1aA123WALvga1DjRmtTNblU3kk117",
+		"title": "Mercedes wants to revolutionize public transportation with this self-driving bus",
+		"link": "http://www.businessinsider.com/andreas-mink-mercedes-future-bus-is-semi-autonomous-fuel-efficient-2016-8",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.businessinsider.com",
+		"screenshot_url": null
+	}],
+	"Trucking": [{
+		"curated_id": "KxGsKx2bDrCF7zK0OVRXvTZ0h5cHnagpOXN5Ygcn060117",
+		"title": "Big Trucks Deliver Big Data at Navistar",
+		"link": "http://www.bmc.com/blogs/big-trucks-deliver-big-data-navistar/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.bmc.com",
+		"screenshot_url": null
+	}],
+	"Universities": [{
+		"curated_id": "dfcY5XNaoRxVly7fPBWfUIbgkn0u6wlGuGn07g45taA117",
+		"title": "Legislation to Reclaim University Invention from the Trolls",
+		"link": "https://www.eff.org/deeplinks/2016/08/legislation-reclaim-university-invention-trolls",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "www.eff.org",
+		"screenshot_url": null
+	}],
+	"Utility": [{
+		"curated_id": "123whddq19kMdryxesCLHCwkkD0TMBUVKEkKNOTxI7K9w117",
+		"title": "Kelir u2014 Color picker, color pallete and color gradient for your Mac",
+		"link": "http://rimbunesia.com/apps/kelir-color-picker-for-mac/",
+		"item_date": "2016-08-28 00:00:00",
+		"domain": "rimbunesia.com",
+		"screenshot_url": null
+	}],
+	"Videos": [{
+		"curated_id": "rgfBRsD2wVfbbw8rEw1o6116IRJwUei9GUsG9ujxdShm4117",
+		"title": "Cloudinary now delivers images and videos over HTTP/2",
+		"link": "http://cloudinary.com/blog/cloudinary_adds_support_for_http_2",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "cloudinary.com",
+		"screenshot_url": null
+	}],
+	"Virtualization": [{
+		"curated_id": "4hC3DZ5JSiP3dnl0QFEiQKWUYHSC2R1123MsM5F6ibtww117",
+		"title": "Red Hat Releases Red Hat Virtualization 4",
+		"link": "http://www.itnewsonline.com/news/Red-Hat-Releases-Red-Hat-Virtualization-4/36943/4/3",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.itnewsonline.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "7A73ccnwjiq5L8bjPcp9ZVbrUUgjaAjU3bgHa1JwPBY117",
+		"title": "Cypherpath, Quali Partnership Provides Portable Containerized Infrastructures That Support Virtual Sandboxes and Cyber Ranges",
+		"link": "http://www.marketwired.com/press-release/cypherpath-quali-partnership-provides-portable-containerized-infrastructures-that-support-2152626.htm",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.marketwired.com",
+		"screenshot_url": null
+	}],
+	"Visualization": [{
+		"curated_id": "teeIktig17lxtA1HMeQ3sLHSL123TsazHiguNVcX33N6g117",
+		"title": "Visualizing Your Data With MongoDB Compass",
+		"link": "https://dzone.com/articles/visualizing-your-data-with-mongodb-compass",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	}],
+	"Visualizations": [{
+		"curated_id": "pHQHG7qSqUOK1pIXrb06tlosrmTfVgvnsdhRi8KwV4A117",
+		"title": "Animated String Diffing With React and D3",
+		"link": "https://swizec.com/blog/animated-string-diffing-with-react-and-d3/swizec/6952",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "swizec.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "ZIzArmu7UgIIu5hC8wjY8ri6116hNSLawQOKxykSN0g1160117",
+		"title": "Sponsor: Data visualization is more accessible now with new AnyChart u2192",
+		"link": "http://www.anychart.com/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.anychart.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "wWNPHkWk123WqRz0ZqhLvM116ecVv8Sdfe42jVfT9wWHM8M117",
+		"title": "7 Strategies for Effective Visual Storytelling",
+		"link": "https://blogs.adobe.com/creativecloud/7-strategies-for-effective-visual-storytelling/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "blogs.adobe.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "R49zGxo4N0BFpgnl2v7Lq116yRAtgXwqKjQiESHePOJS0117",
+		"title": "Colorgorical generates color schemes for you",
+		"link": "http://flowingdata.com/2016/08/22/colorgorical-generates-color-schemes-for-you/",
+		"item_date": "2016-08-22 00:00:00",
+		"domain": "flowingdata.com",
+		"screenshot_url": null
+	}],
+	"Voice": [{
+		"curated_id": "FxEt3JxeLCdOsQ116kW9Z8iZB7FmtH9aYfQK1231wphL116nk117",
+		"title": "Coding Smart Home Skill Adapter Directives Using Node.js",
+		"link": "https://developer.amazon.com/appsandservices/community/post/TxWSCWZI9SPYNT/Coding-Smart-Home-Skill-Adapter-Directives-Using-Node-js",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "developer.amazon.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "NcR6dcOIihFH0u1yXrgshsjg123gR123AxQNNhQaRSYh116ig117",
+		"title": "Virtual assistants like Siri and Alexa look poised to explode",
+		"link": "http://www.businessinsider.com/virtual-assistants-siri-alexa-growth-chart-2016-8",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.businessinsider.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "1AVbt7123V4hF3NLpTCauNkqWws116Bc2kxoYp3u8Z6KzzM117",
+		"title": "Developer Spotlight: How One Developeru2019s Passion Project Led to Lexi, the Alexa-Enabled Mobile App",
+		"link": "https://developer.amazon.com/appsandservices/community/post/Tx3HRGTBR264DGE/Developer-Spotlight-How-One-Developer-s-Passion-Project-Led-to-Lexi-the-Alexa-En",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "developer.amazon.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "gvZXuEIxWttWqpM9AMBISHBOf873Nb3cMmRc1bsOl2s117",
+		"title": "Seeed Studiou2019s ReSpeaker Speaks All the Voice Recognition Languages",
+		"link": "http://hackaday.com/2016/08/25/seeed-studios-respeaker-speaks-all-the-voice-recognition-languages/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "hackaday.com",
+		"screenshot_url": null
+	}],
+	"Vulnerabilities": [{
+		"curated_id": "Yxxfk0k1qkC1g6cJgKDF123jzRZijDsKpSEnbhPrLGmbE117",
+		"title": "HTTPS and OpenVPN face new attack that can decrypt secret cookies",
+		"link": "http://arstechnica.com/security/2016/08/new-attack-can-pluck-secrets-from-1-of-https-traffic-affects-top-sites/",
+		"item_date": "2016-08-25 10:10:25",
+		"domain": "arstechnica.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "pg0OP116KJia512SnWdA7KMop2a52A123vmR8y38Jz116p10c117",
+		"title": "Cisco starts patching firewall devices against NSA-linked exploit",
+		"link": "http://www.pcworld.com/article/3112420/security/cisco-starts-patching-firewall-devices-against-nsa-linked-exploit.html#tk.rss_all",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "www.pcworld.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "sa1MBaRpWnAPw123sxA2tr123Wh30QmjCCzg8HRQepaRWWU117",
+		"title": "Moxa OnCell Vulnerabilities",
+		"link": "https://ics-cert.us-cert.gov/advisories/ICSA-16-236-01",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "ics-cert.us-cert.gov",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "oKFwaRgrh7UDFDTvgYjCWyOnROz2u0HxEbfH8CJUvtQ117",
+		"title": "New Banking Trojan Uses PowerShell to Alter Internet Explorer Proxy Settings",
+		"link": "http://www.itsecurityguru.org/2016/08/23/new-banking-trojan-uses-powershell-to-alter-internet-explorer-proxy-settings/",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.itsecurityguru.org",
+		"screenshot_url": null
+	}],
+	"Water": [{
+		"curated_id": "MOSRcIsP4xgqDRJdNcPWEV30LvVviI3KsWhf8AwEd70117",
+		"title": "Hydrography for Continental Streamflow Modelling",
+		"link": "http://www.hydro-international.com/content/article/hydrography-for-continental-streamflow-modelling",
+		"item_date": "2016-08-24 00:00:00",
+		"domain": "www.hydro-international.com",
+		"screenshot_url": null
+	}],
+	"Wearables": [{
+		"curated_id": "RbKHBHpdqaWt5wjNDrNTdmKtR107YAmmIsvyvcEGhHM117",
+		"title": "Wearables usage has dropped significantly u2014 but theres a silver lining",
+		"link": "http://www.businessinsider.com/wearables-usage-has-dropped-significantly-but-theres-a-silver-lining-2016-8",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "www.businessinsider.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "IasrqzHlqpa2GHKaOhbJdOLjIN5Z6gnQ0UHVpIEDGmc117",
+		"title": "The Wearable Device That Changes Colors Every Time You Change Directionrn",
+		"link": "http://motherboard.vice.com/read/elements-wearable-device-wxyz-jewelry",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "motherboard.vice.com",
+		"screenshot_url": null
+	},
+	{
+		"curated_id": "yQVm2R6y7vZDBYkPgOQhF2NANaySxwv7hrohrwp116NpE117",
+		"title": "UPDATE 1-U.S. trade judge clears Fitbit of stealing Jawbones trade secrets",
+		"link": "http://www.reuters.com/article/us-fitbit-jawbone-idUSKCN10Y29Y",
+		"item_date": "2016-08-23 00:00:00",
+		"domain": "www.reuters.com",
+		"screenshot_url": null
+	}],
+	"Weather": [{
+		"curated_id": "VRUXyqIBeZtv1vRR7120XtjixiSKhZcDs30Fj8ViYDI117",
+		"title": "How to Make a Solar Powered Weather Station #piday #raspberrypi @Raspberry_Pi",
+		"link": "https://blog.adafruit.com/2016/08/26/how-to-make-a-solar-powered-weather-station-piday-raspberrypi-raspberry_pi/",
+		"item_date": "2016-08-25 00:00:00",
+		"domain": "blog.adafruit.com",
+		"screenshot_url": null
+	}],
+	"XML": [{
+		"curated_id": "WLJm9TaViCu116yNK4LxNUavzI7VU5Bj9rQU4bEKxZPPg117",
+		"title": "VTD XML Parser",
+		"link": "https://dzone.com/articles/vtd-xml-parser",
+		"item_date": "2016-08-26 00:00:00",
+		"domain": "dzone.com",
+		"screenshot_url": null
+	}]
+}
