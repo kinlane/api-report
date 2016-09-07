@@ -2,60 +2,47 @@
 layout: default
 ---
 
-<!-- Default post with image -->
-<article class="post default">
-  <section class="main clear">
-    <p class="mytitle">{{ page.title }}</p>
-    <p><em>{{ page.date | date:"%m-%d-%Y" }}</em></p>
-    <div class="content">
+<div class="post">
+  <h1>{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
+</div>
 
-      {{ content }}
+<table cellpadding="5" cellspacing="5" align="center" border="0" style="border-bottom: 0px; padding-bottom: 10px;">
+	<tr>
+		<td align="center">
+			<a href="http://twitter.com/home?status={{ page.title }} - {{ site.production_url }}{{ page.url }} via @apievangelist" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/twitter.png" width="25" /></a>
+		</td>
+		<td align="center">
+			<a href="http://www.facebook.com/share.php?u={{ site.production_url }}{{ page.url }}&title={{ site.production_url }}{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png" width="25" /></a>
+		</td>
+		<td align="center">
+			<a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.production_url }}{{ page.url }}&title={{ page.title }}&source=apievangelist.com" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/linkedin.png" width="25" /></a>
+		</td>
+		<td align="center">
+			<a href="https://plus.google.com/share?url={{ site.production_url }}{{ page.url }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/google-plus.png" width="25" /></a>
+		</td>
+		<td align="center">
+			<a href="https://www.tumblr.com/share/link?url={{ site.production_url }}{{ page.url }}&name={{ site.production_url }}{{ page.title }}&description={{ page.content | strip_html | truncatewords: 150 }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/tumblr.png" width="25" /></a>
+		</td>
+		<td align="center">
+			<a href="http://www.reddit.com/submit?url={{ site.production_url }}{{ page.url }}&title={{ site.production_url }}{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/reddit.png" width="25" /></a>
+		</td>
+		<td align="center">
+			<a href="http://news.ycombinator.com/submitlink?u={{ site.production_url }}{{ page.url }}&t={{ site.production_url }}{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/hackernews.jpeg" width="25" /></a>
+		</td>
+	</tr>
+</table>
 
-    </div>
-  </section>
-
-  <section class="about clear">
-  <ul class="sharebuttons" style="text-align:center; margin-left: 165px;">
-    <li>
-      <a href="http://twitter.com/home?status={{ page.title }} - http://api.report{{ page.url }} via @apireport" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/twitter.png" width="25" /></a>
-    </li>
-    <li>
-      <a href="http://www.facebook.com/share.php?u=http://api.report{{ page.url }}&title=http://api.report{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png" width="25" /></a>
-    </li>
-    <li>
-      <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://api.report{{ page.url }}&title={{ page.title }}&source=api.report" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/linkedin.png" width="25" /></a>
-    </li>
-    <li>
-      <a href="https://plus.google.com/share?url=http://api.report{{ page.url }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/google-plus.png" width="25" /></a>
-    </li>
-    <li>
-      <a href="http://www.tumblr.com/share?v=3&u=http://api.report{{ page.url }}&t=http://api.report{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/tumblr.png" width="25" /></a>
-    </li>
-    <li>
-      <a href="http://www.reddit.com/submit?url=http://api.report{{ page.url }}&title=http://api.report{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/reddit.png" width="25" /></a>
-    </li>
-    <li>
-      <a href="http://news.ycombinator.com/submitlink?u=http://api.report{{ page.url }}&t=http://api.report{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/hackernews.jpeg" width="25" /></a>
-    </li>
-  </ul>
-  </section>
-
-  <div class="row" align="center" style="padding-top: 10px; padding-bottom: 10px;">
-      <div class="pagination">
-        <ul>
-        {% if page.previous %}
-          <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">Previous</a></li>
-        {% else %}
-          <li class="prev disabled"><a>Previous</a></li>
-        {% endif %}
-
-        {% if page.next %}
-          <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next</a></li>
-        {% else %}
-          <li class="next disabled"><a>Next</a>
-        {% endif %}
-        </ul>
-      </div>
-  </div>
-
-</article>
+<div class="pagination">
+	{% if page.previous %}
+	   	<a href="{{ site.production_url }}{{ page.previous.url }}" class="older">Older</a>
+	{% else %}
+		<a href="/" class="older">Older</a>
+	{% endif %}
+	  {% if page.next %}
+	    <a href="{{ site.production_url }}{{ page.next.url }}" class="newer">Newer</a>
+	  {% else %}
+	    <span class="next">Newer</span>
+	  {% endif %}
+</div>
