@@ -15,7 +15,7 @@ highlighter:  rouge
 permalink: /:categories/:year/:month/:day/:title/
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 
-paginate: 20
+paginate: 50
 paginate_path: "page:num"
 
 production_url : http://api.report
