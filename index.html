@@ -1,21 +1,32 @@
 ---
 layout: default
 ---
-{% for post in paginator.posts %}
-	<article class="post default">
-		<section class="main clear">
-			<p><a href="{{ post.url }}"><img style="padding: 15px;" src="{{ post.image }}" alt="{{ post.title }}" align="left" width="225" /></a></p>
-			<p class="mytitle"><a href="{{ post.url }}" title="Featured article">{{ post.title }}</a></p>
-			<div class="content">
-				<p>{{ post.content | strip_html | truncatewords: 150 }} <a href="{{ post.url }}" class="more">Read more</a></p>
-			</div>
-		</section>
-		<ul class="meta">
-			<li class="date"><a href="#_">{{ post.date | date:"%m-%d-%Y" }}</a></li>
-		</ul>
-	</article>
-{% endfor %}
+<div class="posts">
+  {% for post in paginator.posts %}
+    {% if post.title != null %}
 
+      <div class="post">
+
+        <h1>
+          <a href="{{ site.production_url }}{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h1>
+
+        <span class="post-date">{{ post.date | date_to_string }}</span>
+
+        {{ post.content }}
+
+        <p align="center"><a href="{{ site.production_url }}{{ post.url }}">See The Full Blog Post</a>
+
+    </div>
+    <center><hr style="width: 75%;" /></center>
+
+    {% endif %}
+  {% endfor %}
+</div>
+
+<!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
     <a href="/blog/page{{paginator.next_page}}" class="older">Older</a>

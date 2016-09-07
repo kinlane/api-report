@@ -16,7 +16,7 @@ permalink: /:categories/:year/:month/:day/:title/
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
 paginate: 20
-paginate_path: "/blog/page:num"
+paginate_path: "page:num"
 
 production_url : http://apievangelist.com
 
