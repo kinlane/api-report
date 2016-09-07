@@ -1,6 +1,6 @@
 title:        API.Report
 description:  Press Releases from across the API space.
-url:          http://apievangelist.com
+url:          http://api.report
 
 version:      1.1.1
 
@@ -18,13 +18,13 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 paginate: 20
 paginate_path: "page:num"
 
-production_url : http://apievangelist.com
+production_url : http://api.report
 
 image : http://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
 imagesecure : https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
 
 # Footer
 footer_title: API Evangelist
-footer_link: http://apievangelist.com
+footer_link: http://api.report
 footer_image_source: https://s3.amazonaws.com/kinlane-productions/footer/empowered-by-you-banner.png
 footer_image_width: 60
