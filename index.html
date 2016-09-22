@@ -4,6 +4,7 @@ layout: default
 <div class="posts">
   {% for post in paginator.posts %}
     {% if post.title != null %}
+      {% if post.title != '' %}
 
       <div class="post">
 
@@ -22,6 +23,7 @@ layout: default
     </div>
     <center><hr style="width: 75%;" /></center>
 
+      {% endif %}
     {% endif %}
   {% endfor %}
 </div>
